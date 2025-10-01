@@ -1,0 +1,31 @@
+Month_year,Consultation_Type,Case,Under 1 Male,Under 1 Female,1-4 Male,1-4 Female,5-9 Male,5-9 Female,10-14 Male,10-14 Female,15-18 Male,15-18 Female,19-24 Male,19-24 Female,25-29 Male,25-29 Female,30-34 Male,30-34 Female,35-39 Male,35-39 Female,40-44 Male,40-44 Female,45-49 Male,45-49 Female,50-54 Male,50-54 Female,55-59 Male,55-59 Female,60-64 Male,60-64 Female,65-69 Male,65-69 Female,70 Over Male,70 Over Female
+2024 - 7,Consultation,FEVER,32,21,106,71,74,38,24,14,13,12,10,11,6,8,3,5,2,2,3,1,2,,,5,2,,4,1,1,,4,
+2024 - 7,Consultation,VOMITING,8,7,41,45,24,23,9,10,3,5,2,4,1,6,4,,,3,,2,,2,,2,1,2,1,,2,2,3,
+2024 - 7,Consultation,COUGH,15,8,21,17,11,10,4,6,8,,3,4,2,3,5,4,,1,,4,1,,1,1,2,1,,3,,,7,7
+2024 - 7,Consultation,ABDOMINAL PAIN,,,8,9,24,12,11,4,2,5,5,8,6,9,6,5,1,5,,3,2,2,2,2,3,5,1,3,1,3,,1
+2024 - 7,Consultation,DOB,3,3,1,3,4,5,2,,1,3,2,10,,7,1,6,,3,4,4,5,5,4,4,3,4,5,2,5,2,14,17
+2024 - 7,Consultation,LBM,19,6,32,14,4,2,1,,1,1,3,3,5,3,,2,,,,,1,2,1,,,1,,,,,,1
+2024 - 7,Consultation,DIZZINESS,,,,,,2,,3,1,3,1,5,1,1,1,3,6,3,3,3,1,6,3,7,1,6,4,10,3,8,3,8
+2024 - 7,Consultation,EPIGASTRIC PAIN,,,,,5,4,2,3,3,3,4,9,3,9,3,2,3,10,,9,3,3,,3,,2,2,1,2,3,1,
+2024 - 7,Consultation,CHEST PAIN,,,1,,4,3,3,6,5,2,4,5,1,3,,3,2,3,2,2,1,6,1,2,2,1,4,4,2,2,2,5
+2024 - 7,Consultation,SOB,1,2,7,3,6,1,,,,1,3,4,1,1,1,2,,1,3,3,1,4,,1,2,3,2,,1,1,6,2
+2024 - 7,Diagnosis,PCAP,26,18,64,51,34,20,5,8,6,1,,,,,,,,,,,,,,,,,,,,,,
+2024 - 7,Diagnosis,UTI,5,2,12,20,13,18,9,10,6,17,3,17,1,12,2,9,1,12,1,18,1,4,2,5,,5,,5,2,4,4,2
+2024 - 7,Diagnosis,AGE,21,12,50,18,6,5,3,,1,1,1,7,6,3,2,5,,3,1,1,1,1,,2,,4,1,1,,1,2,3
+2024 - 7,Diagnosis,URTI,12,4,19,18,13,8,5,3,4,3,5,4,3,6,3,3,1,1,,1,,,,1,3,,,2,,,1,1
+2024 - 7,Diagnosis,CAP,,1,,,,1,,,2,2,5,5,2,5,4,3,3,1,6,5,4,7,3,4,1,3,5,4,5,6,19,15
+2024 - 7,Diagnosis,ATP,,,18,10,18,16,13,5,1,,4,4,1,3,3,,,,1,,1,,,1,,,,,,,,1
+2024 - 7,Diagnosis,APD,,,,,6,2,1,3,3,1,9,11,4,10,4,2,3,6,,3,1,3,1,2,1,2,1,1,2,5,,2
+2024 - 7,Diagnosis,SVI,6,,17,12,12,2,3,3,4,3,1,5,1,2,1,1,,3,,,,,,1,1,,1,,1,,1,
+2024 - 7,Diagnosis,BFC,2,2,27,18,6,2,,,,,,,,,,,,,1,,,,1,,,,,,,,,
+2024 - 7,Diagnosis,ACUTE GASTRITIS,,1,7,18,8,7,3,2,,,,1,1,4,1,1,,1,,,,,,,1,,,1,,,,1
+2024 - 7,Mortality,ACUTE MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,2
+2024 - 7,Mortality,SEPTIC SHOCK,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,,,,
+2024 - 7,Mortality,UNDETERMINED CAUSE OF DEATH,,,,,,,,,,,,,,,,,,,,,1,,,1,,1,,,,,,
+2024 - 7,Mortality,DOA,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,1
+2024 - 7,Mortality,ACUTE RESPIRATORY FAILURE,,,,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,1
+2024 - 7,Mortality,HYPOVOLEMIC SHOCK,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1,
+2024 - 7,Mortality,CAP,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,
+2024 - 7,Mortality,MASSIVE CVD BLEED WITH INTRAVENTRICULAR EXTENSION PROB. SEC TO RUPTURED ANEURYSM HYPERTENSIVE EMERGENCY ,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,
+2024 - 7,Mortality,"CREBROVASCULAR DISEASE(INFARCT VS BLEED) SCHEMIC HEART DISEASE, T/C CAP-MR, COVID PROBABLE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2024 - 7,Mortality,"FATAL ARRHYTHMIA; 2. MULTIPLE ELECRTROLYTE IMBALANCE (HYPOMAGNESEMIA, HYPERKALEMIA, HYPOCALEMIA); 3. SEIZURE DISORDER",,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,
