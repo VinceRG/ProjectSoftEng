@@ -1,0 +1,32 @@
+Month_year,Consultation_Type,Case,Under 1 Male,Under 1 Female,1-4 Male,1-4 Female,5-9 Male,5-9 Female,10-14 Male,10-14 Female,15-18 Male,15-18 Female,19-24 Male,19-24 Female,25-29 Male,25-29 Female,30-34 Male,30-34 Female,35-39 Male,35-39 Female,40-44 Male,40-44 Female,45-49 Male,45-49 Female,50-54 Male,50-54 Female,55-59 Male,55-59 Female,60-64 Male,60-64 Female,65-69 Male,65-69 Female,70 Over Male,70 Over Female
+2023 - 10,Consultation,FEVER,38,32,153,117,73,82,54,21,23,20,19,16,9,5,1,2,,3,2,2,,1,1,,,1,1,1,1,1,1,
+2023 - 10,Consultation,COUGH,96,68,80,72,47,24,18,9,10,7,1,5,1,6,1,6,4,1,1,4,1,5,3,3,1,,,3,1,2,2,8
+2023 - 10,Consultation,VOMITING,13,4,32,23,29,19,12,11,5,10,2,4,2,1,,2,1,1,1,2,2,,,1,2,2,1,1,1,1,1,1
+2023 - 10,Consultation,ABDOMINAL PAIN,,1,7,12,23,24,10,12,9,4,8,8,4,4,2,7,3,3,3,6,2,4,1,4,1,2,1,2,,4,,4
+2023 - 10,Consultation,DOB,10,5,7,8,7,6,1,5,1,2,1,5,2,4,2,3,2,3,1,5,4,3,4,2,7,4,3,8,7,,13,11
+2023 - 10,Consultation,RASHES,9,3,36,16,15,13,5,4,5,5,1,2,2,3,,4,,,1,1,1,1,,,,,,,,1,,
+2023 - 10,Consultation,DIZZINESS,,,,,,,2,4,,3,2,5,,2,1,2,5,7,2,5,1,4,1,2,3,7,3,6,2,5,4,13
+2023 - 10,Consultation,EPIGASTRIC PAIN,,,2,2,2,6,1,5,6,4,4,7,3,3,2,5,2,4,1,4,1,2,,,3,2,,1,,4,,2
+2023 - 10,Consultation,LBM,7,9,18,17,5,3,1,2,,1,,2,,2,1,,,2,,1,,,,1,,,,2,,,,
+2023 - 10,Consultation,LACERATED WOUND,,1,9,3,15,2,6,2,2,3,3,2,5,4,3,,,1,2,2,,1,,1,2,,1,1,1,,,1
+2023 - 10,Diagnosis,PCAP,61,40,72,58,27,17,6,5,2,2,,,,,,,,,,,,,,,,,,1,,,,
+2023 - 10,Diagnosis,DFS,5,1,7,7,7,23,21,9,9,11,8,5,1,1,,2,,,1,,3,,2,,,,,,,,,
+2023 - 10,Diagnosis,UTI,1,,2,9,7,11,4,7,2,6,3,6,2,4,2,6,,3,,6,,3,,2,2,,,2,,1,,5
+2023 - 10,Diagnosis,AGE,7,7,21,17,10,4,4,6,2,3,1,2,,3,,1,,2,1,,1,1,,1,,,1,,,,,
+2023 - 10,Diagnosis,LACERATED WOUND,1,1,11,4,12,1,6,2,,3,2,2,4,4,3,,,1,,1,,1,,1,2,,1,1,1,,,2
+2023 - 10,Diagnosis,ACUTE GASTRITIS,3,,13,4,8,10,4,5,2,2,1,3,,,,,1,1,1,3,1,,,,,,,,,,,2
+2023 - 10,Diagnosis,SVI,2,,13,8,2,6,8,3,4,2,2,3,,1,,,1,1,,1,,,,,,,,,,,,
+2023 - 10,Diagnosis,PNEUMONIA,15,9,1,10,,,,,1,,,1,,,1,,,,,,,1,,,,,,,2,,1,5
+2023 - 10,Diagnosis,URTI,3,4,7,4,4,2,1,2,1,1,1,2,3,,1,,,1,,1,,,,,,1,,,,,,
+2023 - 10,Diagnosis,BFC,1,,12,7,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 10,Mortality,DEAD ON ARRIVAL,,1,,,,,,,,,,,,,,,,,,1,,,,1,1,,,,1,,1,
+2023 - 10,Mortality,PCAP,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 10,Mortality,ACUTE MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,
+2023 - 10,Mortality,OUT OF HOSPITAL CARDIAC ARREST,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+2023 - 10,Mortality,PNEUMONIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+2023 - 10,Mortality,"CVD BLEED MASSIVE, SEPTIC SHOCK SECONDARY TO CAP HR, DM TYPE 2, HPN STAGE 2, COVID PROBABLE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+2023 - 10,Mortality,UNDETERMINED CAUSE OF DEATH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2023 - 10,Mortality,CRUSHED INJURY CAUSED BY MACHINERY (HYDRAULIC PRESS),,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,
+2023 - 10,Mortality,IMMEDIATE : SEPTICK SHOCK ANTECEDENT: ACSSTEMI UNDERLYING: CAP HR OTHERS: COVID PROBABLE RAT (-) ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+2023 - 10,Mortality,"ICOD: SEPTIC SHOCK, UCOD: COMMUNITY ACQUIRED PNEUMONIA- HIGH RISK",,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+2023 - 10,Mortality,,1,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,3,0,4,1

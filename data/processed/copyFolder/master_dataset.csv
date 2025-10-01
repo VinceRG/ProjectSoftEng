@@ -1,0 +1,3541 @@
+Month_year,Consultation_Type,Case,Age_Sex,Count,Age_Group,Sex,Age_Group_Num
+2023 - 4,1,1,Under 1 Male,29.0,Under 1,Male,0
+2023 - 4,1,3,Under 1 Male,12.0,Under 1,Male,0
+2023 - 4,1,4,Under 1 Male,1.0,Under 1,Male,0
+2023 - 4,1,5,Under 1 Male,30.0,Under 1,Male,0
+2023 - 4,1,6,Under 1 Male,13.0,Under 1,Male,0
+2023 - 4,1,7,Under 1 Male,5.0,Under 1,Male,0
+2023 - 4,1,9,Under 1 Male,15.0,Under 1,Male,0
+2023 - 4,2,11,Under 1 Male,29.0,Under 1,Male,0
+2023 - 4,2,13,Under 1 Male,12.0,Under 1,Male,0
+2023 - 4,2,14,Under 1 Male,1.0,Under 1,Male,0
+2023 - 4,2,15,Under 1 Male,30.0,Under 1,Male,0
+2023 - 4,2,16,Under 1 Male,13.0,Under 1,Male,0
+2023 - 4,2,17,Under 1 Male,5.0,Under 1,Male,0
+2023 - 4,2,19,Under 1 Male,15.0,Under 1,Male,0
+2023 - 4,3,22,Under 1 Male,1.0,Under 1,Male,0
+2023 - 4,3,26,Under 1 Male,1.0,Under 1,Male,0
+2023 - 8,1,1,Under 1 Male,22.0,Under 1,Male,0
+2023 - 8,1,3,Under 1 Male,6.0,Under 1,Male,0
+2023 - 8,1,9,Under 1 Male,34.0,Under 1,Male,0
+2023 - 8,1,7,Under 1 Male,8.0,Under 1,Male,0
+2023 - 8,1,5,Under 1 Male,21.0,Under 1,Male,0
+2023 - 8,2,34,Under 1 Male,23.0,Under 1,Male,0
+2023 - 8,2,12,Under 1 Male,5.0,Under 1,Male,0
+2023 - 8,2,35,Under 1 Male,27.0,Under 1,Male,0
+2023 - 8,2,15,Under 1 Male,4.0,Under 1,Male,0
+2023 - 8,2,37,Under 1 Male,1.0,Under 1,Male,0
+2023 - 8,2,16,Under 1 Male,2.0,Under 1,Male,0
+2023 - 8,3,41,Under 1 Male,1.0,Under 1,Male,0
+2023 - 12,1,1,Under 1 Male,39.0,Under 1,Male,0
+2023 - 12,1,6,Under 1 Male,38.0,Under 1,Male,0
+2023 - 12,1,3,Under 1 Male,13.0,Under 1,Male,0
+2023 - 12,1,7,Under 1 Male,7.0,Under 1,Male,0
+2023 - 12,1,5,Under 1 Male,13.0,Under 1,Male,0
+2023 - 12,1,48,Under 1 Male,4.0,Under 1,Male,0
+2023 - 12,2,35,Under 1 Male,23.0,Under 1,Male,0
+2023 - 12,2,11,Under 1 Male,11.0,Under 1,Male,0
+2023 - 12,2,15,Under 1 Male,1.0,Under 1,Male,0
+2023 - 12,2,14,Under 1 Male,1.0,Under 1,Male,0
+2023 - 12,2,16,Under 1 Male,1.0,Under 1,Male,0
+2023 - 12,2,51,Under 1 Male,2.0,Under 1,Male,0
+2023 - 7,1,1,Under 1 Male,35.0,Under 1,Male,0
+2023 - 7,1,3,Under 1 Male,13.0,Under 1,Male,0
+2023 - 7,1,7,Under 1 Male,6.0,Under 1,Male,0
+2023 - 7,1,6,Under 1 Male,19.0,Under 1,Male,0
+2023 - 7,1,33,Under 1 Male,4.0,Under 1,Male,0
+2023 - 7,1,5,Under 1 Male,9.0,Under 1,Male,0
+2023 - 7,1,17,Under 1 Male,2.0,Under 1,Male,0
+2023 - 7,2,59,Under 1 Male,17.0,Under 1,Male,0
+2023 - 7,2,11,Under 1 Male,16.0,Under 1,Male,0
+2023 - 7,2,12,Under 1 Male,5.0,Under 1,Male,0
+2023 - 7,2,15,Under 1 Male,4.0,Under 1,Male,0
+2023 - 7,2,60,Under 1 Male,2.0,Under 1,Male,0
+2023 - 7,3,66,Under 1 Male,1.0,Under 1,Male,0
+2023 - 7,3,67,Under 1 Male,1.0,Under 1,Male,0
+2023 - 6,1,1,Under 1 Male,47.0,Under 1,Male,0
+2023 - 6,1,4,Under 1 Male,2.0,Under 1,Male,0
+2023 - 6,1,9,Under 1 Male,21.0,Under 1,Male,0
+2023 - 6,1,3,Under 1 Male,12.0,Under 1,Male,0
+2023 - 6,1,7,Under 1 Male,4.0,Under 1,Male,0
+2023 - 6,1,73,Under 1 Male,2.0,Under 1,Male,0
+2023 - 6,1,5,Under 1 Male,6.0,Under 1,Male,0
+2023 - 6,2,12,Under 1 Male,6.0,Under 1,Male,0
+2023 - 6,2,16,Under 1 Male,4.0,Under 1,Male,0
+2023 - 6,2,15,Under 1 Male,1.0,Under 1,Male,0
+2023 - 6,2,11,Under 1 Male,8.0,Under 1,Male,0
+2023 - 6,2,36,Under 1 Male,1.0,Under 1,Male,0
+2023 - 6,2,51,Under 1 Male,1.0,Under 1,Male,0
+2023 - 6,2,14,Under 1 Male,2.0,Under 1,Male,0
+2023 - 6,2,74,Under 1 Male,4.0,Under 1,Male,0
+2023 - 6,3,82,Under 1 Male,1.0,Under 1,Male,0
+2023 - 11,1,6,Under 1 Male,52.0,Under 1,Male,0
+2023 - 11,1,7,Under 1 Male,4.0,Under 1,Male,0
+2023 - 11,1,1,Under 1 Male,38.0,Under 1,Male,0
+2023 - 11,1,5,Under 1 Male,4.0,Under 1,Male,0
+2023 - 11,1,48,Under 1 Male,9.0,Under 1,Male,0
+2023 - 11,1,84,Under 1 Male,3.0,Under 1,Male,0
+2023 - 11,1,3,Under 1 Male,11.0,Under 1,Male,0
+2023 - 11,2,15,Under 1 Male,1.0,Under 1,Male,0
+2023 - 11,2,11,Under 1 Male,6.0,Under 1,Male,0
+2023 - 11,2,35,Under 1 Male,42.0,Under 1,Male,0
+2023 - 11,2,14,Under 1 Male,2.0,Under 1,Male,0
+2023 - 11,2,12,Under 1 Male,4.0,Under 1,Male,0
+2023 - 11,3,52,Under 1 Male,1.0,Under 1,Male,0
+2023 - 11,3,92,Under 1 Male,1.0,Under 1,Male,0
+2023 - 10,1,1,Under 1 Male,38.0,Under 1,Male,0
+2023 - 10,1,6,Under 1 Male,96.0,Under 1,Male,0
+2023 - 10,1,3,Under 1 Male,13.0,Under 1,Male,0
+2023 - 10,1,7,Under 1 Male,10.0,Under 1,Male,0
+2023 - 10,1,48,Under 1 Male,9.0,Under 1,Male,0
+2023 - 10,1,5,Under 1 Male,7.0,Under 1,Male,0
+2023 - 10,2,35,Under 1 Male,61.0,Under 1,Male,0
+2023 - 10,2,49,Under 1 Male,5.0,Under 1,Male,0
+2023 - 10,2,12,Under 1 Male,1.0,Under 1,Male,0
+2023 - 10,2,11,Under 1 Male,7.0,Under 1,Male,0
+2023 - 10,2,17,Under 1 Male,1.0,Under 1,Male,0
+2023 - 10,2,15,Under 1 Male,3.0,Under 1,Male,0
+2023 - 10,2,16,Under 1 Male,2.0,Under 1,Male,0
+2023 - 10,2,95,Under 1 Male,15.0,Under 1,Male,0
+2023 - 10,2,14,Under 1 Male,3.0,Under 1,Male,0
+2023 - 10,2,51,Under 1 Male,1.0,Under 1,Male,0
+2023 - 10,3,35,Under 1 Male,1.0,Under 1,Male,0
+2023 - 9,1,1,Under 1 Male,25.0,Under 1,Male,0
+2023 - 9,1,6,Under 1 Male,77.0,Under 1,Male,0
+2023 - 9,1,3,Under 1 Male,10.0,Under 1,Male,0
+2023 - 9,1,7,Under 1 Male,8.0,Under 1,Male,0
+2023 - 9,1,48,Under 1 Male,5.0,Under 1,Male,0
+2023 - 9,1,84,Under 1 Male,9.0,Under 1,Male,0
+2023 - 9,1,5,Under 1 Male,6.0,Under 1,Male,0
+2023 - 9,2,35,Under 1 Male,51.0,Under 1,Male,0
+2023 - 9,2,12,Under 1 Male,0.0,Under 1,Male,0
+2023 - 9,2,11,Under 1 Male,9.0,Under 1,Male,0
+2023 - 9,2,17,Under 1 Male,0.0,Under 1,Male,0
+2023 - 9,2,49,Under 1 Male,1.0,Under 1,Male,0
+2023 - 9,2,95,Under 1 Male,17.0,Under 1,Male,0
+2023 - 9,2,15,Under 1 Male,1.0,Under 1,Male,0
+2023 - 9,2,16,Under 1 Male,1.0,Under 1,Male,0
+2023 - 9,2,51,Under 1 Male,0.0,Under 1,Male,0
+2023 - 9,2,14,Under 1 Male,2.0,Under 1,Male,0
+2023 - 4,1,1,Under 1 Female,29.0,Under 1,Female,0
+2023 - 4,1,3,Under 1 Female,12.0,Under 1,Female,0
+2023 - 4,1,5,Under 1 Female,14.0,Under 1,Female,0
+2023 - 4,1,6,Under 1 Female,18.0,Under 1,Female,0
+2023 - 4,1,7,Under 1 Female,2.0,Under 1,Female,0
+2023 - 4,1,9,Under 1 Female,10.0,Under 1,Female,0
+2023 - 4,2,11,Under 1 Female,29.0,Under 1,Female,0
+2023 - 4,2,13,Under 1 Female,12.0,Under 1,Female,0
+2023 - 4,2,15,Under 1 Female,14.0,Under 1,Female,0
+2023 - 4,2,16,Under 1 Female,18.0,Under 1,Female,0
+2023 - 4,2,17,Under 1 Female,2.0,Under 1,Female,0
+2023 - 4,2,19,Under 1 Female,10.0,Under 1,Female,0
+2023 - 8,1,1,Under 1 Female,14.0,Under 1,Female,0
+2023 - 8,1,3,Under 1 Female,10.0,Under 1,Female,0
+2023 - 8,1,9,Under 1 Female,13.0,Under 1,Female,0
+2023 - 8,1,7,Under 1 Female,3.0,Under 1,Female,0
+2023 - 8,1,5,Under 1 Female,14.0,Under 1,Female,0
+2023 - 8,1,33,Under 1 Female,4.0,Under 1,Female,0
+2023 - 8,2,34,Under 1 Female,19.0,Under 1,Female,0
+2023 - 8,2,12,Under 1 Female,3.0,Under 1,Female,0
+2023 - 8,2,35,Under 1 Female,11.0,Under 1,Female,0
+2023 - 8,2,15,Under 1 Female,1.0,Under 1,Female,0
+2023 - 8,2,16,Under 1 Female,1.0,Under 1,Female,0
+2023 - 12,1,1,Under 1 Female,22.0,Under 1,Female,0
+2023 - 12,1,6,Under 1 Female,36.0,Under 1,Female,0
+2023 - 12,1,3,Under 1 Female,13.0,Under 1,Female,0
+2023 - 12,1,7,Under 1 Female,3.0,Under 1,Female,0
+2023 - 12,1,5,Under 1 Female,12.0,Under 1,Female,0
+2023 - 12,1,48,Under 1 Female,4.0,Under 1,Female,0
+2023 - 12,2,35,Under 1 Female,15.0,Under 1,Female,0
+2023 - 12,2,49,Under 1 Female,1.0,Under 1,Female,0
+2023 - 12,2,11,Under 1 Female,9.0,Under 1,Female,0
+2023 - 12,2,12,Under 1 Female,2.0,Under 1,Female,0
+2023 - 12,2,15,Under 1 Female,4.0,Under 1,Female,0
+2023 - 12,2,14,Under 1 Female,3.0,Under 1,Female,0
+2023 - 12,2,16,Under 1 Female,1.0,Under 1,Female,0
+2023 - 12,2,51,Under 1 Female,2.0,Under 1,Female,0
+2023 - 12,3,22,Under 1 Female,1.0,Under 1,Female,0
+2023 - 7,1,1,Under 1 Female,23.0,Under 1,Female,0
+2023 - 7,1,3,Under 1 Female,4.0,Under 1,Female,0
+2023 - 7,1,7,Under 1 Female,3.0,Under 1,Female,0
+2023 - 7,1,6,Under 1 Female,13.0,Under 1,Female,0
+2023 - 7,1,33,Under 1 Female,2.0,Under 1,Female,0
+2023 - 7,1,5,Under 1 Female,10.0,Under 1,Female,0
+2023 - 7,2,59,Under 1 Female,14.0,Under 1,Female,0
+2023 - 7,2,11,Under 1 Female,10.0,Under 1,Female,0
+2023 - 7,2,12,Under 1 Female,2.0,Under 1,Female,0
+2023 - 7,3,70,Under 1 Female,1.0,Under 1,Female,0
+2023 - 6,1,1,Under 1 Female,23.0,Under 1,Female,0
+2023 - 6,1,9,Under 1 Female,6.0,Under 1,Female,0
+2023 - 6,1,3,Under 1 Female,3.0,Under 1,Female,0
+2023 - 6,1,7,Under 1 Female,1.0,Under 1,Female,0
+2023 - 6,1,5,Under 1 Female,7.0,Under 1,Female,0
+2023 - 6,2,12,Under 1 Female,1.0,Under 1,Female,0
+2023 - 6,2,16,Under 1 Female,2.0,Under 1,Female,0
+2023 - 6,2,11,Under 1 Female,5.0,Under 1,Female,0
+2023 - 6,2,36,Under 1 Female,1.0,Under 1,Female,0
+2023 - 6,2,51,Under 1 Female,2.0,Under 1,Female,0
+2023 - 6,2,74,Under 1 Female,4.0,Under 1,Female,0
+2023 - 11,1,4,Under 1 Female,1.0,Under 1,Female,0
+2023 - 11,1,6,Under 1 Female,41.0,Under 1,Female,0
+2023 - 11,1,7,Under 1 Female,4.0,Under 1,Female,0
+2023 - 11,1,1,Under 1 Female,27.0,Under 1,Female,0
+2023 - 11,1,5,Under 1 Female,7.0,Under 1,Female,0
+2023 - 11,1,48,Under 1 Female,3.0,Under 1,Female,0
+2023 - 11,1,84,Under 1 Female,3.0,Under 1,Female,0
+2023 - 11,1,3,Under 1 Female,5.0,Under 1,Female,0
+2023 - 11,2,11,Under 1 Female,4.0,Under 1,Female,0
+2023 - 11,2,35,Under 1 Female,22.0,Under 1,Female,0
+2023 - 11,2,16,Under 1 Female,1.0,Under 1,Female,0
+2023 - 11,2,14,Under 1 Female,2.0,Under 1,Female,0
+2023 - 11,3,52,Under 1 Female,1.0,Under 1,Female,0
+2023 - 10,1,1,Under 1 Female,32.0,Under 1,Female,0
+2023 - 10,1,6,Under 1 Female,68.0,Under 1,Female,0
+2023 - 10,1,3,Under 1 Female,4.0,Under 1,Female,0
+2023 - 10,1,4,Under 1 Female,1.0,Under 1,Female,0
+2023 - 10,1,7,Under 1 Female,5.0,Under 1,Female,0
+2023 - 10,1,48,Under 1 Female,3.0,Under 1,Female,0
+2023 - 10,1,5,Under 1 Female,9.0,Under 1,Female,0
+2023 - 10,1,17,Under 1 Female,1.0,Under 1,Female,0
+2023 - 10,2,35,Under 1 Female,40.0,Under 1,Female,0
+2023 - 10,2,49,Under 1 Female,1.0,Under 1,Female,0
+2023 - 10,2,11,Under 1 Female,7.0,Under 1,Female,0
+2023 - 10,2,17,Under 1 Female,1.0,Under 1,Female,0
+2023 - 10,2,95,Under 1 Female,9.0,Under 1,Female,0
+2023 - 10,2,14,Under 1 Female,4.0,Under 1,Female,0
+2023 - 10,3,52,Under 1 Female,1.0,Under 1,Female,0
+2023 - 10,3,35,Under 1 Female,1.0,Under 1,Female,0
+2023 - 9,1,1,Under 1 Female,32.0,Under 1,Female,0
+2023 - 9,1,6,Under 1 Female,54.0,Under 1,Female,0
+2023 - 9,1,3,Under 1 Female,10.0,Under 1,Female,0
+2023 - 9,1,7,Under 1 Female,2.0,Under 1,Female,0
+2023 - 9,1,48,Under 1 Female,5.0,Under 1,Female,0
+2023 - 9,1,84,Under 1 Female,1.0,Under 1,Female,0
+2023 - 9,1,5,Under 1 Female,4.0,Under 1,Female,0
+2023 - 9,2,35,Under 1 Female,27.0,Under 1,Female,0
+2023 - 9,2,12,Under 1 Female,1.0,Under 1,Female,0
+2023 - 9,2,11,Under 1 Female,5.0,Under 1,Female,0
+2023 - 9,2,17,Under 1 Female,0.0,Under 1,Female,0
+2023 - 9,2,49,Under 1 Female,0.0,Under 1,Female,0
+2023 - 9,2,95,Under 1 Female,4.0,Under 1,Female,0
+2023 - 9,2,15,Under 1 Female,2.0,Under 1,Female,0
+2023 - 9,2,16,Under 1 Female,0.0,Under 1,Female,0
+2023 - 9,2,51,Under 1 Female,1.0,Under 1,Female,0
+2023 - 9,2,14,Under 1 Female,2.0,Under 1,Female,0
+2023 - 4,1,1,1-4 Male,93.0,1-4,Male,1-4
+2023 - 4,1,3,1-4 Male,37.0,1-4,Male,1-4
+2023 - 4,1,4,1-4 Male,12.0,1-4,Male,1-4
+2023 - 4,1,5,1-4 Male,42.0,1-4,Male,1-4
+2023 - 4,1,6,1-4 Male,26.0,1-4,Male,1-4
+2023 - 4,1,7,1-4 Male,4.0,1-4,Male,1-4
+2023 - 4,1,8,1-4 Male,2.0,1-4,Male,1-4
+2023 - 4,1,9,1-4 Male,32.0,1-4,Male,1-4
+2023 - 4,2,11,1-4 Male,57.0,1-4,Male,1-4
+2023 - 4,2,12,1-4 Male,17.0,1-4,Male,1-4
+2023 - 4,2,13,1-4 Male,43.0,1-4,Male,1-4
+2023 - 4,2,14,1-4 Male,22.0,1-4,Male,1-4
+2023 - 4,2,15,1-4 Male,5.0,1-4,Male,1-4
+2023 - 4,2,16,1-4 Male,17.0,1-4,Male,1-4
+2023 - 4,2,17,1-4 Male,7.0,1-4,Male,1-4
+2023 - 4,2,18,1-4 Male,15.0,1-4,Male,1-4
+2023 - 4,2,19,1-4 Male,17.0,1-4,Male,1-4
+2023 - 4,2,20,1-4 Male,8.0,1-4,Male,1-4
+2023 - 8,1,1,1-4 Male,57.0,1-4,Male,1-4
+2023 - 8,1,3,1-4 Male,34.0,1-4,Male,1-4
+2023 - 8,1,9,1-4 Male,24.0,1-4,Male,1-4
+2023 - 8,1,4,1-4 Male,8.0,1-4,Male,1-4
+2023 - 8,1,7,1-4 Male,9.0,1-4,Male,1-4
+2023 - 8,1,8,1-4 Male,4.0,1-4,Male,1-4
+2023 - 8,1,5,1-4 Male,24.0,1-4,Male,1-4
+2023 - 8,1,33,1-4 Male,12.0,1-4,Male,1-4
+2023 - 8,1,17,1-4 Male,7.0,1-4,Male,1-4
+2023 - 8,2,34,1-4 Male,37.0,1-4,Male,1-4
+2023 - 8,2,12,1-4 Male,7.0,1-4,Male,1-4
+2023 - 8,2,35,1-4 Male,36.0,1-4,Male,1-4
+2023 - 8,2,17,1-4 Male,11.0,1-4,Male,1-4
+2023 - 8,2,15,1-4 Male,14.0,1-4,Male,1-4
+2023 - 8,2,36,1-4 Male,2.0,1-4,Male,1-4
+2023 - 8,2,38,1-4 Male,1.0,1-4,Male,1-4
+2023 - 8,2,16,1-4 Male,9.0,1-4,Male,1-4
+2023 - 8,2,39,1-4 Male,2.0,1-4,Male,1-4
+2023 - 12,1,1,1-4 Male,86.0,1-4,Male,1-4
+2023 - 12,1,6,1-4 Male,57.0,1-4,Male,1-4
+2023 - 12,1,3,1-4 Male,50.0,1-4,Male,1-4
+2023 - 12,1,4,1-4 Male,10.0,1-4,Male,1-4
+2023 - 12,1,7,1-4 Male,5.0,1-4,Male,1-4
+2023 - 12,1,5,1-4 Male,21.0,1-4,Male,1-4
+2023 - 12,1,17,1-4 Male,8.0,1-4,Male,1-4
+2023 - 12,1,48,1-4 Male,13.0,1-4,Male,1-4
+2023 - 12,1,8,1-4 Male,1.0,1-4,Male,1-4
+2023 - 12,2,35,1-4 Male,31.0,1-4,Male,1-4
+2023 - 12,2,49,1-4 Male,8.0,1-4,Male,1-4
+2023 - 12,2,11,1-4 Male,32.0,1-4,Male,1-4
+2023 - 12,2,12,1-4 Male,6.0,1-4,Male,1-4
+2023 - 12,2,17,1-4 Male,11.0,1-4,Male,1-4
+2023 - 12,2,15,1-4 Male,9.0,1-4,Male,1-4
+2023 - 12,2,14,1-4 Male,6.0,1-4,Male,1-4
+2023 - 12,2,16,1-4 Male,2.0,1-4,Male,1-4
+2023 - 12,2,51,1-4 Male,11.0,1-4,Male,1-4
+2023 - 12,3,52,1-4 Male,1.0,1-4,Male,1-4
+2023 - 7,1,1,1-4 Male,85.0,1-4,Male,1-4
+2023 - 7,1,3,1-4 Male,35.0,1-4,Male,1-4
+2023 - 7,1,4,1-4 Male,10.0,1-4,Male,1-4
+2023 - 7,1,7,1-4 Male,5.0,1-4,Male,1-4
+2023 - 7,1,6,1-4 Male,22.0,1-4,Male,1-4
+2023 - 7,1,8,1-4 Male,2.0,1-4,Male,1-4
+2023 - 7,1,33,1-4 Male,21.0,1-4,Male,1-4
+2023 - 7,1,5,1-4 Male,10.0,1-4,Male,1-4
+2023 - 7,1,17,1-4 Male,7.0,1-4,Male,1-4
+2023 - 7,2,59,1-4 Male,29.0,1-4,Male,1-4
+2023 - 7,2,11,1-4 Male,27.0,1-4,Male,1-4
+2023 - 7,2,15,1-4 Male,14.0,1-4,Male,1-4
+2023 - 7,2,17,1-4 Male,15.0,1-4,Male,1-4
+2023 - 7,2,60,1-4 Male,2.0,1-4,Male,1-4
+2023 - 7,2,51,1-4 Male,18.0,1-4,Male,1-4
+2023 - 7,2,61,1-4 Male,6.0,1-4,Male,1-4
+2023 - 6,1,1,1-4 Male,183.0,1-4,Male,1-4
+2023 - 6,1,4,1-4 Male,17.0,1-4,Male,1-4
+2023 - 6,1,9,1-4 Male,29.0,1-4,Male,1-4
+2023 - 6,1,3,1-4 Male,38.0,1-4,Male,1-4
+2023 - 6,1,7,1-4 Male,4.0,1-4,Male,1-4
+2023 - 6,1,73,1-4 Male,46.0,1-4,Male,1-4
+2023 - 6,1,5,1-4 Male,19.0,1-4,Male,1-4
+2023 - 6,1,17,1-4 Male,8.0,1-4,Male,1-4
+2023 - 6,2,12,1-4 Male,8.0,1-4,Male,1-4
+2023 - 6,2,16,1-4 Male,24.0,1-4,Male,1-4
+2023 - 6,2,15,1-4 Male,16.0,1-4,Male,1-4
+2023 - 6,2,11,1-4 Male,25.0,1-4,Male,1-4
+2023 - 6,2,36,1-4 Male,6.0,1-4,Male,1-4
+2023 - 6,2,17,1-4 Male,11.0,1-4,Male,1-4
+2023 - 6,2,51,1-4 Male,30.0,1-4,Male,1-4
+2023 - 6,2,14,1-4 Male,12.0,1-4,Male,1-4
+2023 - 6,2,74,1-4 Male,14.0,1-4,Male,1-4
+2023 - 6,3,66,1-4 Male,1.0,1-4,Male,1-4
+2023 - 6,3,80,1-4 Male,1.0,1-4,Male,1-4
+2023 - 11,1,4,1-4 Male,2.0,1-4,Male,1-4
+2023 - 11,1,6,1-4 Male,64.0,1-4,Male,1-4
+2023 - 11,1,7,1-4 Male,2.0,1-4,Male,1-4
+2023 - 11,1,1,1-4 Male,134.0,1-4,Male,1-4
+2023 - 11,1,17,1-4 Male,8.0,1-4,Male,1-4
+2023 - 11,1,5,1-4 Male,11.0,1-4,Male,1-4
+2023 - 11,1,48,1-4 Male,20.0,1-4,Male,1-4
+2023 - 11,1,84,1-4 Male,8.0,1-4,Male,1-4
+2023 - 11,1,3,1-4 Male,36.0,1-4,Male,1-4
+2023 - 11,2,15,1-4 Male,8.0,1-4,Male,1-4
+2023 - 11,2,11,1-4 Male,15.0,1-4,Male,1-4
+2023 - 11,2,39,1-4 Male,1.0,1-4,Male,1-4
+2023 - 11,2,36,1-4 Male,2.0,1-4,Male,1-4
+2023 - 11,2,35,1-4 Male,67.0,1-4,Male,1-4
+2023 - 11,2,16,1-4 Male,5.0,1-4,Male,1-4
+2023 - 11,2,14,1-4 Male,7.0,1-4,Male,1-4
+2023 - 11,2,12,1-4 Male,10.0,1-4,Male,1-4
+2023 - 11,3,52,1-4 Male,1.0,1-4,Male,1-4
+2023 - 10,1,1,1-4 Male,153.0,1-4,Male,1-4
+2023 - 10,1,6,1-4 Male,80.0,1-4,Male,1-4
+2023 - 10,1,3,1-4 Male,32.0,1-4,Male,1-4
+2023 - 10,1,4,1-4 Male,7.0,1-4,Male,1-4
+2023 - 10,1,7,1-4 Male,7.0,1-4,Male,1-4
+2023 - 10,1,48,1-4 Male,36.0,1-4,Male,1-4
+2023 - 10,1,8,1-4 Male,2.0,1-4,Male,1-4
+2023 - 10,1,5,1-4 Male,18.0,1-4,Male,1-4
+2023 - 10,1,17,1-4 Male,9.0,1-4,Male,1-4
+2023 - 10,2,35,1-4 Male,72.0,1-4,Male,1-4
+2023 - 10,2,49,1-4 Male,7.0,1-4,Male,1-4
+2023 - 10,2,12,1-4 Male,2.0,1-4,Male,1-4
+2023 - 10,2,11,1-4 Male,21.0,1-4,Male,1-4
+2023 - 10,2,17,1-4 Male,11.0,1-4,Male,1-4
+2023 - 10,2,15,1-4 Male,13.0,1-4,Male,1-4
+2023 - 10,2,16,1-4 Male,13.0,1-4,Male,1-4
+2023 - 10,2,95,1-4 Male,1.0,1-4,Male,1-4
+2023 - 10,2,14,1-4 Male,7.0,1-4,Male,1-4
+2023 - 10,2,51,1-4 Male,12.0,1-4,Male,1-4
+2023 - 10,3,35,1-4 Male,1.0,1-4,Male,1-4
+2023 - 9,1,1,1-4 Male,102.0,1-4,Male,1-4
+2023 - 9,1,6,1-4 Male,69.0,1-4,Male,1-4
+2023 - 9,1,3,1-4 Male,29.0,1-4,Male,1-4
+2023 - 9,1,4,1-4 Male,13.0,1-4,Male,1-4
+2023 - 9,1,7,1-4 Male,14.0,1-4,Male,1-4
+2023 - 9,1,8,1-4 Male,1.0,1-4,Male,1-4
+2023 - 9,1,48,1-4 Male,13.0,1-4,Male,1-4
+2023 - 9,1,84,1-4 Male,9.0,1-4,Male,1-4
+2023 - 9,1,5,1-4 Male,20.0,1-4,Male,1-4
+2023 - 9,2,35,1-4 Male,66.0,1-4,Male,1-4
+2023 - 9,2,12,1-4 Male,2.0,1-4,Male,1-4
+2023 - 9,2,11,1-4 Male,21.0,1-4,Male,1-4
+2023 - 9,2,17,1-4 Male,9.0,1-4,Male,1-4
+2023 - 9,2,49,1-4 Male,6.0,1-4,Male,1-4
+2023 - 9,2,95,1-4 Male,14.0,1-4,Male,1-4
+2023 - 9,2,15,1-4 Male,5.0,1-4,Male,1-4
+2023 - 9,2,16,1-4 Male,4.0,1-4,Male,1-4
+2023 - 9,2,51,1-4 Male,7.0,1-4,Male,1-4
+2023 - 9,2,14,1-4 Male,2.0,1-4,Male,1-4
+2023 - 4,1,1,1-4 Female,66.0,1-4,Female,1-4
+2023 - 4,1,3,1-4 Female,39.0,1-4,Female,1-4
+2023 - 4,1,4,1-4 Female,15.0,1-4,Female,1-4
+2023 - 4,1,5,1-4 Female,19.0,1-4,Female,1-4
+2023 - 4,1,6,1-4 Female,19.0,1-4,Female,1-4
+2023 - 4,1,7,1-4 Female,3.0,1-4,Female,1-4
+2023 - 4,1,8,1-4 Female,3.0,1-4,Female,1-4
+2023 - 4,1,9,1-4 Female,9.0,1-4,Female,1-4
+2023 - 4,2,11,1-4 Female,28.0,1-4,Female,1-4
+2023 - 4,2,12,1-4 Female,23.0,1-4,Female,1-4
+2023 - 4,2,13,1-4 Female,28.0,1-4,Female,1-4
+2023 - 4,2,14,1-4 Female,12.0,1-4,Female,1-4
+2023 - 4,2,15,1-4 Female,9.0,1-4,Female,1-4
+2023 - 4,2,16,1-4 Female,12.0,1-4,Female,1-4
+2023 - 4,2,17,1-4 Female,6.0,1-4,Female,1-4
+2023 - 4,2,18,1-4 Female,15.0,1-4,Female,1-4
+2023 - 4,2,19,1-4 Female,9.0,1-4,Female,1-4
+2023 - 4,2,20,1-4 Female,5.0,1-4,Female,1-4
+2023 - 4,3,27,1-4 Female,1.0,1-4,Female,1-4
+2023 - 8,1,1,1-4 Female,40.0,1-4,Female,1-4
+2023 - 8,1,3,1-4 Female,29.0,1-4,Female,1-4
+2023 - 8,1,9,1-4 Female,20.0,1-4,Female,1-4
+2023 - 8,1,4,1-4 Female,7.0,1-4,Female,1-4
+2023 - 8,1,7,1-4 Female,8.0,1-4,Female,1-4
+2023 - 8,1,8,1-4 Female,2.0,1-4,Female,1-4
+2023 - 8,1,5,1-4 Female,11.0,1-4,Female,1-4
+2023 - 8,1,33,1-4 Female,7.0,1-4,Female,1-4
+2023 - 8,1,17,1-4 Female,4.0,1-4,Female,1-4
+2023 - 8,2,34,1-4 Female,20.0,1-4,Female,1-4
+2023 - 8,2,12,1-4 Female,8.0,1-4,Female,1-4
+2023 - 8,2,35,1-4 Female,19.0,1-4,Female,1-4
+2023 - 8,2,17,1-4 Female,7.0,1-4,Female,1-4
+2023 - 8,2,15,1-4 Female,11.0,1-4,Female,1-4
+2023 - 8,2,16,1-4 Female,6.0,1-4,Female,1-4
+2023 - 8,2,39,1-4 Female,2.0,1-4,Female,1-4
+2023 - 12,1,1,1-4 Female,61.0,1-4,Female,1-4
+2023 - 12,1,6,1-4 Female,46.0,1-4,Female,1-4
+2023 - 12,1,3,1-4 Female,43.0,1-4,Female,1-4
+2023 - 12,1,4,1-4 Female,3.0,1-4,Female,1-4
+2023 - 12,1,7,1-4 Female,5.0,1-4,Female,1-4
+2023 - 12,1,5,1-4 Female,14.0,1-4,Female,1-4
+2023 - 12,1,17,1-4 Female,7.0,1-4,Female,1-4
+2023 - 12,1,48,1-4 Female,10.0,1-4,Female,1-4
+2023 - 12,1,8,1-4 Female,1.0,1-4,Female,1-4
+2023 - 12,2,35,1-4 Female,27.0,1-4,Female,1-4
+2023 - 12,2,49,1-4 Female,12.0,1-4,Female,1-4
+2023 - 12,2,11,1-4 Female,23.0,1-4,Female,1-4
+2023 - 12,2,12,1-4 Female,12.0,1-4,Female,1-4
+2023 - 12,2,17,1-4 Female,6.0,1-4,Female,1-4
+2023 - 12,2,15,1-4 Female,2.0,1-4,Female,1-4
+2023 - 12,2,14,1-4 Female,6.0,1-4,Female,1-4
+2023 - 12,2,16,1-4 Female,3.0,1-4,Female,1-4
+2023 - 12,2,51,1-4 Female,5.0,1-4,Female,1-4
+2023 - 7,1,1,1-4 Female,74.0,1-4,Female,1-4
+2023 - 7,1,3,1-4 Female,30.0,1-4,Female,1-4
+2023 - 7,1,4,1-4 Female,6.0,1-4,Female,1-4
+2023 - 7,1,7,1-4 Female,7.0,1-4,Female,1-4
+2023 - 7,1,6,1-4 Female,11.0,1-4,Female,1-4
+2023 - 7,1,8,1-4 Female,1.0,1-4,Female,1-4
+2023 - 7,1,10,1-4 Female,1.0,1-4,Female,1-4
+2023 - 7,1,33,1-4 Female,11.0,1-4,Female,1-4
+2023 - 7,1,5,1-4 Female,9.0,1-4,Female,1-4
+2023 - 7,1,17,1-4 Female,1.0,1-4,Female,1-4
+2023 - 7,2,59,1-4 Female,26.0,1-4,Female,1-4
+2023 - 7,2,11,1-4 Female,23.0,1-4,Female,1-4
+2023 - 7,2,12,1-4 Female,14.0,1-4,Female,1-4
+2023 - 7,2,15,1-4 Female,8.0,1-4,Female,1-4
+2023 - 7,2,17,1-4 Female,4.0,1-4,Female,1-4
+2023 - 7,2,51,1-4 Female,8.0,1-4,Female,1-4
+2023 - 7,2,61,1-4 Female,5.0,1-4,Female,1-4
+2023 - 6,1,1,1-4 Female,149.0,1-4,Female,1-4
+2023 - 6,1,4,1-4 Female,5.0,1-4,Female,1-4
+2023 - 6,1,9,1-4 Female,24.0,1-4,Female,1-4
+2023 - 6,1,3,1-4 Female,23.0,1-4,Female,1-4
+2023 - 6,1,7,1-4 Female,4.0,1-4,Female,1-4
+2023 - 6,1,73,1-4 Female,29.0,1-4,Female,1-4
+2023 - 6,1,10,1-4 Female,2.0,1-4,Female,1-4
+2023 - 6,1,5,1-4 Female,11.0,1-4,Female,1-4
+2023 - 6,1,17,1-4 Female,7.0,1-4,Female,1-4
+2023 - 6,2,12,1-4 Female,19.0,1-4,Female,1-4
+2023 - 6,2,16,1-4 Female,16.0,1-4,Female,1-4
+2023 - 6,2,15,1-4 Female,4.0,1-4,Female,1-4
+2023 - 6,2,11,1-4 Female,14.0,1-4,Female,1-4
+2023 - 6,2,36,1-4 Female,10.0,1-4,Female,1-4
+2023 - 6,2,17,1-4 Female,5.0,1-4,Female,1-4
+2023 - 6,2,51,1-4 Female,20.0,1-4,Female,1-4
+2023 - 6,2,14,1-4 Female,9.0,1-4,Female,1-4
+2023 - 6,2,74,1-4 Female,8.0,1-4,Female,1-4
+2023 - 6,2,75,1-4 Female,2.0,1-4,Female,1-4
+2023 - 6,3,66,1-4 Female,1.0,1-4,Female,1-4
+2023 - 11,1,4,1-4 Female,11.0,1-4,Female,1-4
+2023 - 11,1,83,1-4 Female,1.0,1-4,Female,1-4
+2023 - 11,1,6,1-4 Female,58.0,1-4,Female,1-4
+2023 - 11,1,7,1-4 Female,9.0,1-4,Female,1-4
+2023 - 11,1,1,1-4 Female,106.0,1-4,Female,1-4
+2023 - 11,1,17,1-4 Female,5.0,1-4,Female,1-4
+2023 - 11,1,5,1-4 Female,17.0,1-4,Female,1-4
+2023 - 11,1,48,1-4 Female,11.0,1-4,Female,1-4
+2023 - 11,1,84,1-4 Female,6.0,1-4,Female,1-4
+2023 - 11,1,3,1-4 Female,37.0,1-4,Female,1-4
+2023 - 11,2,15,1-4 Female,8.0,1-4,Female,1-4
+2023 - 11,2,11,1-4 Female,14.0,1-4,Female,1-4
+2023 - 11,2,39,1-4 Female,1.0,1-4,Female,1-4
+2023 - 11,2,59,1-4 Female,1.0,1-4,Female,1-4
+2023 - 11,2,36,1-4 Female,6.0,1-4,Female,1-4
+2023 - 11,2,35,1-4 Female,52.0,1-4,Female,1-4
+2023 - 11,2,16,1-4 Female,8.0,1-4,Female,1-4
+2023 - 11,2,14,1-4 Female,10.0,1-4,Female,1-4
+2023 - 11,2,12,1-4 Female,14.0,1-4,Female,1-4
+2023 - 11,3,88,1-4 Female,1.0,1-4,Female,1-4
+2023 - 10,1,1,1-4 Female,117.0,1-4,Female,1-4
+2023 - 10,1,6,1-4 Female,72.0,1-4,Female,1-4
+2023 - 10,1,3,1-4 Female,23.0,1-4,Female,1-4
+2023 - 10,1,4,1-4 Female,12.0,1-4,Female,1-4
+2023 - 10,1,7,1-4 Female,8.0,1-4,Female,1-4
+2023 - 10,1,48,1-4 Female,16.0,1-4,Female,1-4
+2023 - 10,1,8,1-4 Female,2.0,1-4,Female,1-4
+2023 - 10,1,5,1-4 Female,17.0,1-4,Female,1-4
+2023 - 10,1,17,1-4 Female,3.0,1-4,Female,1-4
+2023 - 10,2,35,1-4 Female,58.0,1-4,Female,1-4
+2023 - 10,2,49,1-4 Female,7.0,1-4,Female,1-4
+2023 - 10,2,12,1-4 Female,9.0,1-4,Female,1-4
+2023 - 10,2,11,1-4 Female,17.0,1-4,Female,1-4
+2023 - 10,2,17,1-4 Female,4.0,1-4,Female,1-4
+2023 - 10,2,15,1-4 Female,4.0,1-4,Female,1-4
+2023 - 10,2,16,1-4 Female,8.0,1-4,Female,1-4
+2023 - 10,2,95,1-4 Female,10.0,1-4,Female,1-4
+2023 - 10,2,14,1-4 Female,4.0,1-4,Female,1-4
+2023 - 10,2,51,1-4 Female,7.0,1-4,Female,1-4
+2023 - 9,1,1,1-4 Female,94.0,1-4,Female,1-4
+2023 - 9,1,6,1-4 Female,66.0,1-4,Female,1-4
+2023 - 9,1,3,1-4 Female,28.0,1-4,Female,1-4
+2023 - 9,1,4,1-4 Female,11.0,1-4,Female,1-4
+2023 - 9,1,7,1-4 Female,3.0,1-4,Female,1-4
+2023 - 9,1,8,1-4 Female,3.0,1-4,Female,1-4
+2023 - 9,1,48,1-4 Female,11.0,1-4,Female,1-4
+2023 - 9,1,84,1-4 Female,8.0,1-4,Female,1-4
+2023 - 9,1,5,1-4 Female,18.0,1-4,Female,1-4
+2023 - 9,2,35,1-4 Female,62.0,1-4,Female,1-4
+2023 - 9,2,12,1-4 Female,10.0,1-4,Female,1-4
+2023 - 9,2,11,1-4 Female,17.0,1-4,Female,1-4
+2023 - 9,2,17,1-4 Female,7.0,1-4,Female,1-4
+2023 - 9,2,49,1-4 Female,6.0,1-4,Female,1-4
+2023 - 9,2,95,1-4 Female,4.0,1-4,Female,1-4
+2023 - 9,2,15,1-4 Female,8.0,1-4,Female,1-4
+2023 - 9,2,16,1-4 Female,2.0,1-4,Female,1-4
+2023 - 9,2,51,1-4 Female,6.0,1-4,Female,1-4
+2023 - 9,2,14,1-4 Female,1.0,1-4,Female,1-4
+2023 - 9,3,52,1-4 Female,1.0,1-4,Female,1-4
+2023 - 4,1,1,5-9 Male,55.0,5-9,Male,5-9
+2023 - 4,1,2,5-9 Male,1.0,5-9,Male,5-9
+2023 - 4,1,3,5-9 Male,25.0,5-9,Male,5-9
+2023 - 4,1,4,5-9 Male,14.0,5-9,Male,5-9
+2023 - 4,1,5,5-9 Male,5.0,5-9,Male,5-9
+2023 - 4,1,6,5-9 Male,8.0,5-9,Male,5-9
+2023 - 4,1,7,5-9 Male,3.0,5-9,Male,5-9
+2023 - 4,1,8,5-9 Male,4.0,5-9,Male,5-9
+2023 - 4,1,9,5-9 Male,1.0,5-9,Male,5-9
+2023 - 4,1,10,5-9 Male,1.0,5-9,Male,5-9
+2023 - 4,2,11,5-9 Male,13.0,5-9,Male,5-9
+2023 - 4,2,12,5-9 Male,10.0,5-9,Male,5-9
+2023 - 4,2,13,5-9 Male,16.0,5-9,Male,5-9
+2023 - 4,2,14,5-9 Male,7.0,5-9,Male,5-9
+2023 - 4,2,15,5-9 Male,8.0,5-9,Male,5-9
+2023 - 4,2,16,5-9 Male,9.0,5-9,Male,5-9
+2023 - 4,2,17,5-9 Male,8.0,5-9,Male,5-9
+2023 - 4,2,18,5-9 Male,2.0,5-9,Male,5-9
+2023 - 4,2,19,5-9 Male,3.0,5-9,Male,5-9
+2023 - 4,2,20,5-9 Male,10.0,5-9,Male,5-9
+2023 - 8,1,1,5-9 Male,30.0,5-9,Male,5-9
+2023 - 8,1,3,5-9 Male,11.0,5-9,Male,5-9
+2023 - 8,1,9,5-9 Male,12.0,5-9,Male,5-9
+2023 - 8,1,4,5-9 Male,14.0,5-9,Male,5-9
+2023 - 8,1,7,5-9 Male,6.0,5-9,Male,5-9
+2023 - 8,1,8,5-9 Male,4.0,5-9,Male,5-9
+2023 - 8,1,5,5-9 Male,3.0,5-9,Male,5-9
+2023 - 8,1,10,5-9 Male,1.0,5-9,Male,5-9
+2023 - 8,1,33,5-9 Male,6.0,5-9,Male,5-9
+2023 - 8,1,17,5-9 Male,9.0,5-9,Male,5-9
+2023 - 8,2,34,5-9 Male,4.0,5-9,Male,5-9
+2023 - 8,2,12,5-9 Male,8.0,5-9,Male,5-9
+2023 - 8,2,35,5-9 Male,10.0,5-9,Male,5-9
+2023 - 8,2,17,5-9 Male,10.0,5-9,Male,5-9
+2023 - 8,2,15,5-9 Male,6.0,5-9,Male,5-9
+2023 - 8,2,36,5-9 Male,8.0,5-9,Male,5-9
+2023 - 8,2,16,5-9 Male,1.0,5-9,Male,5-9
+2023 - 8,2,39,5-9 Male,3.0,5-9,Male,5-9
+2023 - 12,1,1,5-9 Male,83.0,5-9,Male,5-9
+2023 - 12,1,6,5-9 Male,33.0,5-9,Male,5-9
+2023 - 12,1,3,5-9 Male,23.0,5-9,Male,5-9
+2023 - 12,1,4,5-9 Male,15.0,5-9,Male,5-9
+2023 - 12,1,5,5-9 Male,8.0,5-9,Male,5-9
+2023 - 12,1,10,5-9 Male,3.0,5-9,Male,5-9
+2023 - 12,1,17,5-9 Male,12.0,5-9,Male,5-9
+2023 - 12,1,48,5-9 Male,8.0,5-9,Male,5-9
+2023 - 12,1,8,5-9 Male,1.0,5-9,Male,5-9
+2023 - 12,2,35,5-9 Male,13.0,5-9,Male,5-9
+2023 - 12,2,49,5-9 Male,14.0,5-9,Male,5-9
+2023 - 12,2,11,5-9 Male,13.0,5-9,Male,5-9
+2023 - 12,2,12,5-9 Male,8.0,5-9,Male,5-9
+2023 - 12,2,17,5-9 Male,12.0,5-9,Male,5-9
+2023 - 12,2,15,5-9 Male,8.0,5-9,Male,5-9
+2023 - 12,2,14,5-9 Male,4.0,5-9,Male,5-9
+2023 - 12,2,16,5-9 Male,8.0,5-9,Male,5-9
+2023 - 12,2,51,5-9 Male,2.0,5-9,Male,5-9
+2023 - 7,1,1,5-9 Male,51.0,5-9,Male,5-9
+2023 - 7,1,3,5-9 Male,25.0,5-9,Male,5-9
+2023 - 7,1,4,5-9 Male,22.0,5-9,Male,5-9
+2023 - 7,1,7,5-9 Male,3.0,5-9,Male,5-9
+2023 - 7,1,6,5-9 Male,14.0,5-9,Male,5-9
+2023 - 7,1,8,5-9 Male,2.0,5-9,Male,5-9
+2023 - 7,1,33,5-9 Male,5.0,5-9,Male,5-9
+2023 - 7,1,5,5-9 Male,4.0,5-9,Male,5-9
+2023 - 7,1,17,5-9 Male,9.0,5-9,Male,5-9
+2023 - 7,2,59,5-9 Male,7.0,5-9,Male,5-9
+2023 - 7,2,11,5-9 Male,9.0,5-9,Male,5-9
+2023 - 7,2,12,5-9 Male,5.0,5-9,Male,5-9
+2023 - 7,2,15,5-9 Male,13.0,5-9,Male,5-9
+2023 - 7,2,17,5-9 Male,9.0,5-9,Male,5-9
+2023 - 7,2,60,5-9 Male,2.0,5-9,Male,5-9
+2023 - 7,2,51,5-9 Male,1.0,5-9,Male,5-9
+2023 - 7,2,61,5-9 Male,1.0,5-9,Male,5-9
+2023 - 7,2,63,5-9 Male,2.0,5-9,Male,5-9
+2023 - 7,3,72,5-9 Male,1.0,5-9,Male,5-9
+2023 - 6,1,1,5-9 Male,104.0,5-9,Male,5-9
+2023 - 6,1,4,5-9 Male,31.0,5-9,Male,5-9
+2023 - 6,1,9,5-9 Male,14.0,5-9,Male,5-9
+2023 - 6,1,3,5-9 Male,25.0,5-9,Male,5-9
+2023 - 6,1,7,5-9 Male,4.0,5-9,Male,5-9
+2023 - 6,1,73,5-9 Male,5.0,5-9,Male,5-9
+2023 - 6,1,5,5-9 Male,5.0,5-9,Male,5-9
+2023 - 6,1,17,5-9 Male,8.0,5-9,Male,5-9
+2023 - 6,1,8,5-9 Male,3.0,5-9,Male,5-9
+2023 - 6,2,12,5-9 Male,9.0,5-9,Male,5-9
+2023 - 6,2,16,5-9 Male,16.0,5-9,Male,5-9
+2023 - 6,2,15,5-9 Male,16.0,5-9,Male,5-9
+2023 - 6,2,11,5-9 Male,3.0,5-9,Male,5-9
+2023 - 6,2,36,5-9 Male,9.0,5-9,Male,5-9
+2023 - 6,2,17,5-9 Male,9.0,5-9,Male,5-9
+2023 - 6,2,51,5-9 Male,4.0,5-9,Male,5-9
+2023 - 6,2,14,5-9 Male,10.0,5-9,Male,5-9
+2023 - 6,2,74,5-9 Male,5.0,5-9,Male,5-9
+2023 - 11,1,4,5-9 Male,17.0,5-9,Male,5-9
+2023 - 11,1,6,5-9 Male,42.0,5-9,Male,5-9
+2023 - 11,1,7,5-9 Male,5.0,5-9,Male,5-9
+2023 - 11,1,1,5-9 Male,96.0,5-9,Male,5-9
+2023 - 11,1,17,5-9 Male,8.0,5-9,Male,5-9
+2023 - 11,1,5,5-9 Male,5.0,5-9,Male,5-9
+2023 - 11,1,48,5-9 Male,12.0,5-9,Male,5-9
+2023 - 11,1,84,5-9 Male,3.0,5-9,Male,5-9
+2023 - 11,1,3,5-9 Male,27.0,5-9,Male,5-9
+2023 - 11,2,15,5-9 Male,2.0,5-9,Male,5-9
+2023 - 11,2,11,5-9 Male,12.0,5-9,Male,5-9
+2023 - 11,2,39,5-9 Male,1.0,5-9,Male,5-9
+2023 - 11,2,59,5-9 Male,1.0,5-9,Male,5-9
+2023 - 11,2,36,5-9 Male,13.0,5-9,Male,5-9
+2023 - 11,2,35,5-9 Male,30.0,5-9,Male,5-9
+2023 - 11,2,16,5-9 Male,3.0,5-9,Male,5-9
+2023 - 11,2,14,5-9 Male,7.0,5-9,Male,5-9
+2023 - 11,2,12,5-9 Male,6.0,5-9,Male,5-9
+2023 - 10,1,1,5-9 Male,73.0,5-9,Male,5-9
+2023 - 10,1,6,5-9 Male,47.0,5-9,Male,5-9
+2023 - 10,1,3,5-9 Male,29.0,5-9,Male,5-9
+2023 - 10,1,4,5-9 Male,23.0,5-9,Male,5-9
+2023 - 10,1,7,5-9 Male,7.0,5-9,Male,5-9
+2023 - 10,1,48,5-9 Male,15.0,5-9,Male,5-9
+2023 - 10,1,8,5-9 Male,2.0,5-9,Male,5-9
+2023 - 10,1,5,5-9 Male,5.0,5-9,Male,5-9
+2023 - 10,1,17,5-9 Male,15.0,5-9,Male,5-9
+2023 - 10,2,35,5-9 Male,27.0,5-9,Male,5-9
+2023 - 10,2,49,5-9 Male,7.0,5-9,Male,5-9
+2023 - 10,2,12,5-9 Male,7.0,5-9,Male,5-9
+2023 - 10,2,11,5-9 Male,10.0,5-9,Male,5-9
+2023 - 10,2,17,5-9 Male,12.0,5-9,Male,5-9
+2023 - 10,2,15,5-9 Male,8.0,5-9,Male,5-9
+2023 - 10,2,16,5-9 Male,2.0,5-9,Male,5-9
+2023 - 10,2,14,5-9 Male,4.0,5-9,Male,5-9
+2023 - 10,2,51,5-9 Male,2.0,5-9,Male,5-9
+2023 - 9,1,1,5-9 Male,86.0,5-9,Male,5-9
+2023 - 9,1,6,5-9 Male,53.0,5-9,Male,5-9
+2023 - 9,1,3,5-9 Male,23.0,5-9,Male,5-9
+2023 - 9,1,4,5-9 Male,14.0,5-9,Male,5-9
+2023 - 9,1,7,5-9 Male,4.0,5-9,Male,5-9
+2023 - 9,1,10,5-9 Male,2.0,5-9,Male,5-9
+2023 - 9,1,8,5-9 Male,7.0,5-9,Male,5-9
+2023 - 9,1,48,5-9 Male,8.0,5-9,Male,5-9
+2023 - 9,1,84,5-9 Male,4.0,5-9,Male,5-9
+2023 - 9,1,5,5-9 Male,4.0,5-9,Male,5-9
+2023 - 9,2,35,5-9 Male,21.0,5-9,Male,5-9
+2023 - 9,2,12,5-9 Male,9.0,5-9,Male,5-9
+2023 - 9,2,11,5-9 Male,4.0,5-9,Male,5-9
+2023 - 9,2,17,5-9 Male,13.0,5-9,Male,5-9
+2023 - 9,2,49,5-9 Male,5.0,5-9,Male,5-9
+2023 - 9,2,95,5-9 Male,4.0,5-9,Male,5-9
+2023 - 9,2,15,5-9 Male,3.0,5-9,Male,5-9
+2023 - 9,2,16,5-9 Male,6.0,5-9,Male,5-9
+2023 - 9,2,51,5-9 Male,2.0,5-9,Male,5-9
+2023 - 9,2,14,5-9 Male,2.0,5-9,Male,5-9
+2023 - 4,1,1,5-9 Female,56.0,5-9,Female,5-9
+2023 - 4,1,3,5-9 Female,16.0,5-9,Female,5-9
+2023 - 4,1,4,5-9 Female,14.0,5-9,Female,5-9
+2023 - 4,1,5,5-9 Female,6.0,5-9,Female,5-9
+2023 - 4,1,6,5-9 Female,11.0,5-9,Female,5-9
+2023 - 4,1,7,5-9 Female,2.0,5-9,Female,5-9
+2023 - 4,1,8,5-9 Female,3.0,5-9,Female,5-9
+2023 - 4,1,9,5-9 Female,6.0,5-9,Female,5-9
+2023 - 4,2,11,5-9 Female,6.0,5-9,Female,5-9
+2023 - 4,2,12,5-9 Female,29.0,5-9,Female,5-9
+2023 - 4,2,13,5-9 Female,18.0,5-9,Female,5-9
+2023 - 4,2,14,5-9 Female,5.0,5-9,Female,5-9
+2023 - 4,2,15,5-9 Female,13.0,5-9,Female,5-9
+2023 - 4,2,16,5-9 Female,7.0,5-9,Female,5-9
+2023 - 4,2,17,5-9 Female,5.0,5-9,Female,5-9
+2023 - 4,2,18,5-9 Female,2.0,5-9,Female,5-9
+2023 - 4,2,19,5-9 Female,3.0,5-9,Female,5-9
+2023 - 4,2,20,5-9 Female,7.0,5-9,Female,5-9
+2023 - 8,1,1,5-9 Female,32.0,5-9,Female,5-9
+2023 - 8,1,3,5-9 Female,17.0,5-9,Female,5-9
+2023 - 8,1,9,5-9 Female,6.0,5-9,Female,5-9
+2023 - 8,1,4,5-9 Female,4.0,5-9,Female,5-9
+2023 - 8,1,7,5-9 Female,2.0,5-9,Female,5-9
+2023 - 8,1,8,5-9 Female,6.0,5-9,Female,5-9
+2023 - 8,1,5,5-9 Female,4.0,5-9,Female,5-9
+2023 - 8,1,33,5-9 Female,1.0,5-9,Female,5-9
+2023 - 8,1,17,5-9 Female,4.0,5-9,Female,5-9
+2023 - 8,2,34,5-9 Female,5.0,5-9,Female,5-9
+2023 - 8,2,12,5-9 Female,11.0,5-9,Female,5-9
+2023 - 8,2,35,5-9 Female,4.0,5-9,Female,5-9
+2023 - 8,2,17,5-9 Female,3.0,5-9,Female,5-9
+2023 - 8,2,15,5-9 Female,6.0,5-9,Female,5-9
+2023 - 8,2,36,5-9 Female,6.0,5-9,Female,5-9
+2023 - 8,2,38,5-9 Female,1.0,5-9,Female,5-9
+2023 - 8,2,16,5-9 Female,1.0,5-9,Female,5-9
+2023 - 8,2,39,5-9 Female,1.0,5-9,Female,5-9
+2023 - 12,1,1,5-9 Female,62.0,5-9,Female,5-9
+2023 - 12,1,6,5-9 Female,31.0,5-9,Female,5-9
+2023 - 12,1,3,5-9 Female,19.0,5-9,Female,5-9
+2023 - 12,1,4,5-9 Female,16.0,5-9,Female,5-9
+2023 - 12,1,7,5-9 Female,1.0,5-9,Female,5-9
+2023 - 12,1,5,5-9 Female,6.0,5-9,Female,5-9
+2023 - 12,1,10,5-9 Female,1.0,5-9,Female,5-9
+2023 - 12,1,17,5-9 Female,7.0,5-9,Female,5-9
+2023 - 12,1,48,5-9 Female,7.0,5-9,Female,5-9
+2023 - 12,1,8,5-9 Female,1.0,5-9,Female,5-9
+2023 - 12,2,35,5-9 Female,8.0,5-9,Female,5-9
+2023 - 12,2,49,5-9 Female,22.0,5-9,Female,5-9
+2023 - 12,2,11,5-9 Female,8.0,5-9,Female,5-9
+2023 - 12,2,12,5-9 Female,7.0,5-9,Female,5-9
+2023 - 12,2,17,5-9 Female,7.0,5-9,Female,5-9
+2023 - 12,2,15,5-9 Female,4.0,5-9,Female,5-9
+2023 - 12,2,14,5-9 Female,1.0,5-9,Female,5-9
+2023 - 7,1,1,5-9 Female,44.0,5-9,Female,5-9
+2023 - 7,1,3,5-9 Female,11.0,5-9,Female,5-9
+2023 - 7,1,4,5-9 Female,17.0,5-9,Female,5-9
+2023 - 7,1,7,5-9 Female,2.0,5-9,Female,5-9
+2023 - 7,1,6,5-9 Female,17.0,5-9,Female,5-9
+2023 - 7,1,8,5-9 Female,3.0,5-9,Female,5-9
+2023 - 7,1,33,5-9 Female,5.0,5-9,Female,5-9
+2023 - 7,1,5,5-9 Female,2.0,5-9,Female,5-9
+2023 - 7,1,17,5-9 Female,1.0,5-9,Female,5-9
+2023 - 7,2,59,5-9 Female,7.0,5-9,Female,5-9
+2023 - 7,2,11,5-9 Female,5.0,5-9,Female,5-9
+2023 - 7,2,12,5-9 Female,7.0,5-9,Female,5-9
+2023 - 7,2,15,5-9 Female,7.0,5-9,Female,5-9
+2023 - 7,2,17,5-9 Female,4.0,5-9,Female,5-9
+2023 - 7,2,61,5-9 Female,2.0,5-9,Female,5-9
+2023 - 6,1,1,5-9 Female,88.0,5-9,Female,5-9
+2023 - 6,1,4,5-9 Female,14.0,5-9,Female,5-9
+2023 - 6,1,9,5-9 Female,24.0,5-9,Female,5-9
+2023 - 6,1,3,5-9 Female,15.0,5-9,Female,5-9
+2023 - 6,1,7,5-9 Female,1.0,5-9,Female,5-9
+2023 - 6,1,73,5-9 Female,1.0,5-9,Female,5-9
+2023 - 6,1,10,5-9 Female,5.0,5-9,Female,5-9
+2023 - 6,1,5,5-9 Female,1.0,5-9,Female,5-9
+2023 - 6,1,17,5-9 Female,4.0,5-9,Female,5-9
+2023 - 6,2,12,5-9 Female,24.0,5-9,Female,5-9
+2023 - 6,2,16,5-9 Female,13.0,5-9,Female,5-9
+2023 - 6,2,15,5-9 Female,13.0,5-9,Female,5-9
+2023 - 6,2,11,5-9 Female,6.0,5-9,Female,5-9
+2023 - 6,2,36,5-9 Female,6.0,5-9,Female,5-9
+2023 - 6,2,17,5-9 Female,4.0,5-9,Female,5-9
+2023 - 6,2,51,5-9 Female,1.0,5-9,Female,5-9
+2023 - 6,2,14,5-9 Female,4.0,5-9,Female,5-9
+2023 - 6,2,74,5-9 Female,4.0,5-9,Female,5-9
+2023 - 11,1,4,5-9 Female,17.0,5-9,Female,5-9
+2023 - 11,1,83,5-9 Female,1.0,5-9,Female,5-9
+2023 - 11,1,6,5-9 Female,44.0,5-9,Female,5-9
+2023 - 11,1,7,5-9 Female,7.0,5-9,Female,5-9
+2023 - 11,1,1,5-9 Female,96.0,5-9,Female,5-9
+2023 - 11,1,17,5-9 Female,9.0,5-9,Female,5-9
+2023 - 11,1,5,5-9 Female,11.0,5-9,Female,5-9
+2023 - 11,1,48,5-9 Female,15.0,5-9,Female,5-9
+2023 - 11,1,84,5-9 Female,6.0,5-9,Female,5-9
+2023 - 11,1,3,5-9 Female,20.0,5-9,Female,5-9
+2023 - 11,2,15,5-9 Female,2.0,5-9,Female,5-9
+2023 - 11,2,11,5-9 Female,6.0,5-9,Female,5-9
+2023 - 11,2,39,5-9 Female,1.0,5-9,Female,5-9
+2023 - 11,2,59,5-9 Female,1.0,5-9,Female,5-9
+2023 - 11,2,36,5-9 Female,29.0,5-9,Female,5-9
+2023 - 11,2,35,5-9 Female,28.0,5-9,Female,5-9
+2023 - 11,2,16,5-9 Female,2.0,5-9,Female,5-9
+2023 - 11,2,14,5-9 Female,5.0,5-9,Female,5-9
+2023 - 11,2,12,5-9 Female,15.0,5-9,Female,5-9
+2023 - 10,1,1,5-9 Female,82.0,5-9,Female,5-9
+2023 - 10,1,6,5-9 Female,24.0,5-9,Female,5-9
+2023 - 10,1,3,5-9 Female,19.0,5-9,Female,5-9
+2023 - 10,1,4,5-9 Female,24.0,5-9,Female,5-9
+2023 - 10,1,7,5-9 Female,6.0,5-9,Female,5-9
+2023 - 10,1,48,5-9 Female,13.0,5-9,Female,5-9
+2023 - 10,1,8,5-9 Female,6.0,5-9,Female,5-9
+2023 - 10,1,5,5-9 Female,3.0,5-9,Female,5-9
+2023 - 10,1,17,5-9 Female,2.0,5-9,Female,5-9
+2023 - 10,2,35,5-9 Female,17.0,5-9,Female,5-9
+2023 - 10,2,49,5-9 Female,23.0,5-9,Female,5-9
+2023 - 10,2,12,5-9 Female,11.0,5-9,Female,5-9
+2023 - 10,2,11,5-9 Female,4.0,5-9,Female,5-9
+2023 - 10,2,17,5-9 Female,1.0,5-9,Female,5-9
+2023 - 10,2,15,5-9 Female,10.0,5-9,Female,5-9
+2023 - 10,2,16,5-9 Female,6.0,5-9,Female,5-9
+2023 - 10,2,14,5-9 Female,2.0,5-9,Female,5-9
+2023 - 10,2,51,5-9 Female,1.0,5-9,Female,5-9
+2023 - 9,1,1,5-9 Female,44.0,5-9,Female,5-9
+2023 - 9,1,6,5-9 Female,29.0,5-9,Female,5-9
+2023 - 9,1,3,5-9 Female,18.0,5-9,Female,5-9
+2023 - 9,1,4,5-9 Female,14.0,5-9,Female,5-9
+2023 - 9,1,7,5-9 Female,6.0,5-9,Female,5-9
+2023 - 9,1,10,5-9 Female,1.0,5-9,Female,5-9
+2023 - 9,1,8,5-9 Female,4.0,5-9,Female,5-9
+2023 - 9,1,48,5-9 Female,7.0,5-9,Female,5-9
+2023 - 9,1,84,5-9 Female,5.0,5-9,Female,5-9
+2023 - 9,2,35,5-9 Female,17.0,5-9,Female,5-9
+2023 - 9,2,12,5-9 Female,9.0,5-9,Female,5-9
+2023 - 9,2,11,5-9 Female,6.0,5-9,Female,5-9
+2023 - 9,2,17,5-9 Female,3.0,5-9,Female,5-9
+2023 - 9,2,49,5-9 Female,10.0,5-9,Female,5-9
+2023 - 9,2,95,5-9 Female,4.0,5-9,Female,5-9
+2023 - 9,2,15,5-9 Female,5.0,5-9,Female,5-9
+2023 - 9,2,16,5-9 Female,3.0,5-9,Female,5-9
+2023 - 9,2,51,5-9 Female,0.0,5-9,Female,5-9
+2023 - 9,2,14,5-9 Female,3.0,5-9,Female,5-9
+2023 - 4,1,1,10-14 Male,14.0,10-14,Male,10-14
+2023 - 4,1,2,10-14 Male,6.0,10-14,Male,10-14
+2023 - 4,1,4,10-14 Male,11.0,10-14,Male,10-14
+2023 - 4,1,5,10-14 Male,3.0,10-14,Male,10-14
+2023 - 4,1,7,10-14 Male,1.0,10-14,Male,10-14
+2023 - 4,1,8,10-14 Male,3.0,10-14,Male,10-14
+2023 - 4,1,9,10-14 Male,1.0,10-14,Male,10-14
+2023 - 4,1,10,10-14 Male,1.0,10-14,Male,10-14
+2023 - 4,2,11,10-14 Male,3.0,10-14,Male,10-14
+2023 - 4,2,12,10-14 Male,3.0,10-14,Male,10-14
+2023 - 4,2,13,10-14 Male,2.0,10-14,Male,10-14
+2023 - 4,2,14,10-14 Male,1.0,10-14,Male,10-14
+2023 - 4,2,15,10-14 Male,4.0,10-14,Male,10-14
+2023 - 4,2,16,10-14 Male,1.0,10-14,Male,10-14
+2023 - 4,2,17,10-14 Male,7.0,10-14,Male,10-14
+2023 - 4,2,20,10-14 Male,5.0,10-14,Male,10-14
+2023 - 8,1,1,10-14 Male,21.0,10-14,Male,10-14
+2023 - 8,1,3,10-14 Male,3.0,10-14,Male,10-14
+2023 - 8,1,9,10-14 Male,1.0,10-14,Male,10-14
+2023 - 8,1,4,10-14 Male,6.0,10-14,Male,10-14
+2023 - 8,1,8,10-14 Male,4.0,10-14,Male,10-14
+2023 - 8,1,10,10-14 Male,3.0,10-14,Male,10-14
+2023 - 8,1,33,10-14 Male,6.0,10-14,Male,10-14
+2023 - 8,1,17,10-14 Male,4.0,10-14,Male,10-14
+2023 - 8,2,34,10-14 Male,1.0,10-14,Male,10-14
+2023 - 8,2,12,10-14 Male,3.0,10-14,Male,10-14
+2023 - 8,2,35,10-14 Male,1.0,10-14,Male,10-14
+2023 - 8,2,17,10-14 Male,6.0,10-14,Male,10-14
+2023 - 8,2,15,10-14 Male,2.0,10-14,Male,10-14
+2023 - 8,2,36,10-14 Male,5.0,10-14,Male,10-14
+2023 - 8,2,38,10-14 Male,3.0,10-14,Male,10-14
+2023 - 8,2,39,10-14 Male,3.0,10-14,Male,10-14
+2023 - 8,3,40,10-14 Male,1.0,10-14,Male,10-14
+2023 - 12,1,1,10-14 Male,39.0,10-14,Male,10-14
+2023 - 12,1,6,10-14 Male,11.0,10-14,Male,10-14
+2023 - 12,1,3,10-14 Male,15.0,10-14,Male,10-14
+2023 - 12,1,4,10-14 Male,4.0,10-14,Male,10-14
+2023 - 12,1,7,10-14 Male,1.0,10-14,Male,10-14
+2023 - 12,1,5,10-14 Male,2.0,10-14,Male,10-14
+2023 - 12,1,17,10-14 Male,7.0,10-14,Male,10-14
+2023 - 12,1,48,10-14 Male,4.0,10-14,Male,10-14
+2023 - 12,1,8,10-14 Male,2.0,10-14,Male,10-14
+2023 - 12,2,35,10-14 Male,4.0,10-14,Male,10-14
+2023 - 12,2,49,10-14 Male,20.0,10-14,Male,10-14
+2023 - 12,2,11,10-14 Male,4.0,10-14,Male,10-14
+2023 - 12,2,12,10-14 Male,4.0,10-14,Male,10-14
+2023 - 12,2,17,10-14 Male,5.0,10-14,Male,10-14
+2023 - 12,2,15,10-14 Male,1.0,10-14,Male,10-14
+2023 - 12,2,14,10-14 Male,3.0,10-14,Male,10-14
+2023 - 7,1,1,10-14 Male,20.0,10-14,Male,10-14
+2023 - 7,1,3,10-14 Male,7.0,10-14,Male,10-14
+2023 - 7,1,4,10-14 Male,5.0,10-14,Male,10-14
+2023 - 7,1,7,10-14 Male,2.0,10-14,Male,10-14
+2023 - 7,1,6,10-14 Male,2.0,10-14,Male,10-14
+2023 - 7,1,8,10-14 Male,4.0,10-14,Male,10-14
+2023 - 7,1,10,10-14 Male,2.0,10-14,Male,10-14
+2023 - 7,1,33,10-14 Male,4.0,10-14,Male,10-14
+2023 - 7,1,5,10-14 Male,2.0,10-14,Male,10-14
+2023 - 7,1,17,10-14 Male,6.0,10-14,Male,10-14
+2023 - 7,2,59,10-14 Male,1.0,10-14,Male,10-14
+2023 - 7,2,11,10-14 Male,6.0,10-14,Male,10-14
+2023 - 7,2,12,10-14 Male,5.0,10-14,Male,10-14
+2023 - 7,2,15,10-14 Male,5.0,10-14,Male,10-14
+2023 - 7,2,17,10-14 Male,7.0,10-14,Male,10-14
+2023 - 7,2,60,10-14 Male,3.0,10-14,Male,10-14
+2023 - 7,2,61,10-14 Male,1.0,10-14,Male,10-14
+2023 - 7,2,63,10-14 Male,3.0,10-14,Male,10-14
+2023 - 6,1,1,10-14 Male,40.0,10-14,Male,10-14
+2023 - 6,1,4,10-14 Male,8.0,10-14,Male,10-14
+2023 - 6,1,9,10-14 Male,10.0,10-14,Male,10-14
+2023 - 6,1,3,10-14 Male,9.0,10-14,Male,10-14
+2023 - 6,1,7,10-14 Male,1.0,10-14,Male,10-14
+2023 - 6,1,73,10-14 Male,1.0,10-14,Male,10-14
+2023 - 6,1,10,10-14 Male,6.0,10-14,Male,10-14
+2023 - 6,1,17,10-14 Male,11.0,10-14,Male,10-14
+2023 - 6,1,8,10-14 Male,8.0,10-14,Male,10-14
+2023 - 6,2,12,10-14 Male,3.0,10-14,Male,10-14
+2023 - 6,2,16,10-14 Male,6.0,10-14,Male,10-14
+2023 - 6,2,15,10-14 Male,2.0,10-14,Male,10-14
+2023 - 6,2,11,10-14 Male,3.0,10-14,Male,10-14
+2023 - 6,2,36,10-14 Male,10.0,10-14,Male,10-14
+2023 - 6,2,17,10-14 Male,10.0,10-14,Male,10-14
+2023 - 6,2,14,10-14 Male,1.0,10-14,Male,10-14
+2023 - 6,2,74,10-14 Male,2.0,10-14,Male,10-14
+2023 - 11,1,4,10-14 Male,15.0,10-14,Male,10-14
+2023 - 11,1,83,10-14 Male,1.0,10-14,Male,10-14
+2023 - 11,1,6,10-14 Male,19.0,10-14,Male,10-14
+2023 - 11,1,7,10-14 Male,3.0,10-14,Male,10-14
+2023 - 11,1,1,10-14 Male,59.0,10-14,Male,10-14
+2023 - 11,1,17,10-14 Male,4.0,10-14,Male,10-14
+2023 - 11,1,5,10-14 Male,3.0,10-14,Male,10-14
+2023 - 11,1,48,10-14 Male,3.0,10-14,Male,10-14
+2023 - 11,1,84,10-14 Male,3.0,10-14,Male,10-14
+2023 - 11,1,3,10-14 Male,10.0,10-14,Male,10-14
+2023 - 11,2,15,10-14 Male,4.0,10-14,Male,10-14
+2023 - 11,2,11,10-14 Male,3.0,10-14,Male,10-14
+2023 - 11,2,39,10-14 Male,2.0,10-14,Male,10-14
+2023 - 11,2,36,10-14 Male,24.0,10-14,Male,10-14
+2023 - 11,2,35,10-14 Male,7.0,10-14,Male,10-14
+2023 - 11,2,16,10-14 Male,6.0,10-14,Male,10-14
+2023 - 11,2,14,10-14 Male,4.0,10-14,Male,10-14
+2023 - 11,2,12,10-14 Male,5.0,10-14,Male,10-14
+2023 - 10,1,1,10-14 Male,54.0,10-14,Male,10-14
+2023 - 10,1,6,10-14 Male,18.0,10-14,Male,10-14
+2023 - 10,1,3,10-14 Male,12.0,10-14,Male,10-14
+2023 - 10,1,4,10-14 Male,10.0,10-14,Male,10-14
+2023 - 10,1,7,10-14 Male,1.0,10-14,Male,10-14
+2023 - 10,1,48,10-14 Male,5.0,10-14,Male,10-14
+2023 - 10,1,10,10-14 Male,2.0,10-14,Male,10-14
+2023 - 10,1,8,10-14 Male,1.0,10-14,Male,10-14
+2023 - 10,1,5,10-14 Male,1.0,10-14,Male,10-14
+2023 - 10,1,17,10-14 Male,6.0,10-14,Male,10-14
+2023 - 10,2,35,10-14 Male,6.0,10-14,Male,10-14
+2023 - 10,2,49,10-14 Male,21.0,10-14,Male,10-14
+2023 - 10,2,12,10-14 Male,4.0,10-14,Male,10-14
+2023 - 10,2,11,10-14 Male,4.0,10-14,Male,10-14
+2023 - 10,2,17,10-14 Male,6.0,10-14,Male,10-14
+2023 - 10,2,15,10-14 Male,4.0,10-14,Male,10-14
+2023 - 10,2,16,10-14 Male,8.0,10-14,Male,10-14
+2023 - 10,2,14,10-14 Male,1.0,10-14,Male,10-14
+2023 - 9,1,1,10-14 Male,30.0,10-14,Male,10-14
+2023 - 9,1,6,10-14 Male,5.0,10-14,Male,10-14
+2023 - 9,1,3,10-14 Male,6.0,10-14,Male,10-14
+2023 - 9,1,4,10-14 Male,7.0,10-14,Male,10-14
+2023 - 9,1,7,10-14 Male,2.0,10-14,Male,10-14
+2023 - 9,1,10,10-14 Male,2.0,10-14,Male,10-14
+2023 - 9,1,8,10-14 Male,5.0,10-14,Male,10-14
+2023 - 9,1,48,10-14 Male,3.0,10-14,Male,10-14
+2023 - 9,1,84,10-14 Male,5.0,10-14,Male,10-14
+2023 - 9,2,35,10-14 Male,5.0,10-14,Male,10-14
+2023 - 9,2,12,10-14 Male,4.0,10-14,Male,10-14
+2023 - 9,2,11,10-14 Male,4.0,10-14,Male,10-14
+2023 - 9,2,17,10-14 Male,7.0,10-14,Male,10-14
+2023 - 9,2,49,10-14 Male,9.0,10-14,Male,10-14
+2023 - 9,2,95,10-14 Male,0.0,10-14,Male,10-14
+2023 - 9,2,15,10-14 Male,0.0,10-14,Male,10-14
+2023 - 9,2,16,10-14 Male,3.0,10-14,Male,10-14
+2023 - 9,2,51,10-14 Male,0.0,10-14,Male,10-14
+2023 - 9,2,14,10-14 Male,0.0,10-14,Male,10-14
+2023 - 4,1,1,10-14 Female,7.0,10-14,Female,10-14
+2023 - 4,1,3,10-14 Female,6.0,10-14,Female,10-14
+2023 - 4,1,4,10-14 Female,7.0,10-14,Female,10-14
+2023 - 4,1,5,10-14 Female,3.0,10-14,Female,10-14
+2023 - 4,1,6,10-14 Female,2.0,10-14,Female,10-14
+2023 - 4,1,7,10-14 Female,3.0,10-14,Female,10-14
+2023 - 4,1,8,10-14 Female,4.0,10-14,Female,10-14
+2023 - 4,1,10,10-14 Female,3.0,10-14,Female,10-14
+2023 - 4,2,11,10-14 Female,3.0,10-14,Female,10-14
+2023 - 4,2,12,10-14 Female,6.0,10-14,Female,10-14
+2023 - 4,2,13,10-14 Female,4.0,10-14,Female,10-14
+2023 - 4,2,14,10-14 Female,2.0,10-14,Female,10-14
+2023 - 4,2,15,10-14 Female,5.0,10-14,Female,10-14
+2023 - 4,2,16,10-14 Female,2.0,10-14,Female,10-14
+2023 - 4,2,17,10-14 Female,3.0,10-14,Female,10-14
+2023 - 8,1,1,10-14 Female,15.0,10-14,Female,10-14
+2023 - 8,1,3,10-14 Female,5.0,10-14,Female,10-14
+2023 - 8,1,9,10-14 Female,5.0,10-14,Female,10-14
+2023 - 8,1,4,10-14 Female,3.0,10-14,Female,10-14
+2023 - 8,1,7,10-14 Female,4.0,10-14,Female,10-14
+2023 - 8,1,8,10-14 Female,5.0,10-14,Female,10-14
+2023 - 8,1,10,10-14 Female,1.0,10-14,Female,10-14
+2023 - 8,1,33,10-14 Female,3.0,10-14,Female,10-14
+2023 - 8,1,17,10-14 Female,3.0,10-14,Female,10-14
+2023 - 8,2,34,10-14 Female,3.0,10-14,Female,10-14
+2023 - 8,2,12,10-14 Female,4.0,10-14,Female,10-14
+2023 - 8,2,35,10-14 Female,2.0,10-14,Female,10-14
+2023 - 8,2,17,10-14 Female,3.0,10-14,Female,10-14
+2023 - 8,2,15,10-14 Female,3.0,10-14,Female,10-14
+2023 - 8,2,36,10-14 Female,8.0,10-14,Female,10-14
+2023 - 8,2,38,10-14 Female,2.0,10-14,Female,10-14
+2023 - 8,2,16,10-14 Female,1.0,10-14,Female,10-14
+2023 - 8,2,39,10-14 Female,1.0,10-14,Female,10-14
+2023 - 12,1,1,10-14 Female,30.0,10-14,Female,10-14
+2023 - 12,1,6,10-14 Female,10.0,10-14,Female,10-14
+2023 - 12,1,3,10-14 Female,9.0,10-14,Female,10-14
+2023 - 12,1,4,10-14 Female,2.0,10-14,Female,10-14
+2023 - 12,1,7,10-14 Female,2.0,10-14,Female,10-14
+2023 - 12,1,5,10-14 Female,1.0,10-14,Female,10-14
+2023 - 12,1,10,10-14 Female,6.0,10-14,Female,10-14
+2023 - 12,1,17,10-14 Female,3.0,10-14,Female,10-14
+2023 - 12,1,48,10-14 Female,6.0,10-14,Female,10-14
+2023 - 12,1,8,10-14 Female,2.0,10-14,Female,10-14
+2023 - 12,2,35,10-14 Female,5.0,10-14,Female,10-14
+2023 - 12,2,49,10-14 Female,14.0,10-14,Female,10-14
+2023 - 12,2,11,10-14 Female,2.0,10-14,Female,10-14
+2023 - 12,2,12,10-14 Female,2.0,10-14,Female,10-14
+2023 - 12,2,17,10-14 Female,2.0,10-14,Female,10-14
+2023 - 12,2,15,10-14 Female,5.0,10-14,Female,10-14
+2023 - 12,2,16,10-14 Female,2.0,10-14,Female,10-14
+2023 - 7,1,1,10-14 Female,9.0,10-14,Female,10-14
+2023 - 7,1,3,10-14 Female,4.0,10-14,Female,10-14
+2023 - 7,1,4,10-14 Female,3.0,10-14,Female,10-14
+2023 - 7,1,7,10-14 Female,4.0,10-14,Female,10-14
+2023 - 7,1,6,10-14 Female,3.0,10-14,Female,10-14
+2023 - 7,1,8,10-14 Female,5.0,10-14,Female,10-14
+2023 - 7,1,33,10-14 Female,1.0,10-14,Female,10-14
+2023 - 7,2,59,10-14 Female,3.0,10-14,Female,10-14
+2023 - 7,2,11,10-14 Female,1.0,10-14,Female,10-14
+2023 - 7,2,12,10-14 Female,6.0,10-14,Female,10-14
+2023 - 7,2,15,10-14 Female,1.0,10-14,Female,10-14
+2023 - 7,2,60,10-14 Female,2.0,10-14,Female,10-14
+2023 - 7,2,61,10-14 Female,2.0,10-14,Female,10-14
+2023 - 6,1,1,10-14 Female,32.0,10-14,Female,10-14
+2023 - 6,1,4,10-14 Female,9.0,10-14,Female,10-14
+2023 - 6,1,9,10-14 Female,5.0,10-14,Female,10-14
+2023 - 6,1,3,10-14 Female,5.0,10-14,Female,10-14
+2023 - 6,1,7,10-14 Female,6.0,10-14,Female,10-14
+2023 - 6,1,73,10-14 Female,2.0,10-14,Female,10-14
+2023 - 6,1,10,10-14 Female,4.0,10-14,Female,10-14
+2023 - 6,1,17,10-14 Female,2.0,10-14,Female,10-14
+2023 - 6,1,8,10-14 Female,2.0,10-14,Female,10-14
+2023 - 6,2,12,10-14 Female,14.0,10-14,Female,10-14
+2023 - 6,2,16,10-14 Female,2.0,10-14,Female,10-14
+2023 - 6,2,15,10-14 Female,4.0,10-14,Female,10-14
+2023 - 6,2,11,10-14 Female,1.0,10-14,Female,10-14
+2023 - 6,2,36,10-14 Female,4.0,10-14,Female,10-14
+2023 - 6,2,17,10-14 Female,1.0,10-14,Female,10-14
+2023 - 6,2,14,10-14 Female,1.0,10-14,Female,10-14
+2023 - 6,2,74,10-14 Female,1.0,10-14,Female,10-14
+2023 - 11,1,4,10-14 Female,4.0,10-14,Female,10-14
+2023 - 11,1,6,10-14 Female,15.0,10-14,Female,10-14
+2023 - 11,1,7,10-14 Female,4.0,10-14,Female,10-14
+2023 - 11,1,1,10-14 Female,39.0,10-14,Female,10-14
+2023 - 11,1,17,10-14 Female,6.0,10-14,Female,10-14
+2023 - 11,1,5,10-14 Female,2.0,10-14,Female,10-14
+2023 - 11,1,48,10-14 Female,6.0,10-14,Female,10-14
+2023 - 11,1,84,10-14 Female,4.0,10-14,Female,10-14
+2023 - 11,1,3,10-14 Female,8.0,10-14,Female,10-14
+2023 - 11,2,11,10-14 Female,2.0,10-14,Female,10-14
+2023 - 11,2,39,10-14 Female,1.0,10-14,Female,10-14
+2023 - 11,2,36,10-14 Female,13.0,10-14,Female,10-14
+2023 - 11,2,35,10-14 Female,9.0,10-14,Female,10-14
+2023 - 11,2,16,10-14 Female,2.0,10-14,Female,10-14
+2023 - 11,2,14,10-14 Female,4.0,10-14,Female,10-14
+2023 - 11,2,12,10-14 Female,5.0,10-14,Female,10-14
+2023 - 10,1,1,10-14 Female,21.0,10-14,Female,10-14
+2023 - 10,1,6,10-14 Female,9.0,10-14,Female,10-14
+2023 - 10,1,3,10-14 Female,11.0,10-14,Female,10-14
+2023 - 10,1,4,10-14 Female,12.0,10-14,Female,10-14
+2023 - 10,1,7,10-14 Female,5.0,10-14,Female,10-14
+2023 - 10,1,48,10-14 Female,4.0,10-14,Female,10-14
+2023 - 10,1,10,10-14 Female,4.0,10-14,Female,10-14
+2023 - 10,1,8,10-14 Female,5.0,10-14,Female,10-14
+2023 - 10,1,5,10-14 Female,2.0,10-14,Female,10-14
+2023 - 10,1,17,10-14 Female,2.0,10-14,Female,10-14
+2023 - 10,2,35,10-14 Female,5.0,10-14,Female,10-14
+2023 - 10,2,49,10-14 Female,9.0,10-14,Female,10-14
+2023 - 10,2,12,10-14 Female,7.0,10-14,Female,10-14
+2023 - 10,2,11,10-14 Female,6.0,10-14,Female,10-14
+2023 - 10,2,17,10-14 Female,2.0,10-14,Female,10-14
+2023 - 10,2,15,10-14 Female,5.0,10-14,Female,10-14
+2023 - 10,2,16,10-14 Female,3.0,10-14,Female,10-14
+2023 - 10,2,14,10-14 Female,2.0,10-14,Female,10-14
+2023 - 9,1,1,10-14 Female,24.0,10-14,Female,10-14
+2023 - 9,1,6,10-14 Female,7.0,10-14,Female,10-14
+2023 - 9,1,3,10-14 Female,11.0,10-14,Female,10-14
+2023 - 9,1,4,10-14 Female,12.0,10-14,Female,10-14
+2023 - 9,1,7,10-14 Female,5.0,10-14,Female,10-14
+2023 - 9,1,10,10-14 Female,2.0,10-14,Female,10-14
+2023 - 9,1,8,10-14 Female,4.0,10-14,Female,10-14
+2023 - 9,1,48,10-14 Female,2.0,10-14,Female,10-14
+2023 - 9,1,84,10-14 Female,6.0,10-14,Female,10-14
+2023 - 9,1,5,10-14 Female,2.0,10-14,Female,10-14
+2023 - 9,2,35,10-14 Female,5.0,10-14,Female,10-14
+2023 - 9,2,12,10-14 Female,6.0,10-14,Female,10-14
+2023 - 9,2,11,10-14 Female,2.0,10-14,Female,10-14
+2023 - 9,2,17,10-14 Female,2.0,10-14,Female,10-14
+2023 - 9,2,49,10-14 Female,3.0,10-14,Female,10-14
+2023 - 9,2,95,10-14 Female,1.0,10-14,Female,10-14
+2023 - 9,2,15,10-14 Female,7.0,10-14,Female,10-14
+2023 - 9,2,16,10-14 Female,0.0,10-14,Female,10-14
+2023 - 9,2,51,10-14 Female,0.0,10-14,Female,10-14
+2023 - 9,2,14,10-14 Female,0.0,10-14,Female,10-14
+2023 - 9,3,104,10-14 Female,1.0,10-14,Female,10-14
+2023 - 4,1,1,15-18 Male,6.0,15-18,Male,15-18
+2023 - 4,1,2,15-18 Male,2.0,15-18,Male,15-18
+2023 - 4,1,3,15-18 Male,4.0,15-18,Male,15-18
+2023 - 4,1,4,15-18 Male,7.0,15-18,Male,15-18
+2023 - 4,1,5,15-18 Male,1.0,15-18,Male,15-18
+2023 - 4,1,6,15-18 Male,2.0,15-18,Male,15-18
+2023 - 4,1,8,15-18 Male,3.0,15-18,Male,15-18
+2023 - 4,1,10,15-18 Male,1.0,15-18,Male,15-18
+2023 - 4,2,11,15-18 Male,1.0,15-18,Male,15-18
+2023 - 4,2,12,15-18 Male,5.0,15-18,Male,15-18
+2023 - 4,2,13,15-18 Male,1.0,15-18,Male,15-18
+2023 - 4,2,14,15-18 Male,2.0,15-18,Male,15-18
+2023 - 4,2,15,15-18 Male,2.0,15-18,Male,15-18
+2023 - 4,2,16,15-18 Male,4.0,15-18,Male,15-18
+2023 - 4,2,17,15-18 Male,2.0,15-18,Male,15-18
+2023 - 4,2,18,15-18 Male,1.0,15-18,Male,15-18
+2023 - 4,2,20,15-18 Male,2.0,15-18,Male,15-18
+2023 - 8,1,1,15-18 Male,4.0,15-18,Male,15-18
+2023 - 8,1,3,15-18 Male,2.0,15-18,Male,15-18
+2023 - 8,1,9,15-18 Male,1.0,15-18,Male,15-18
+2023 - 8,1,4,15-18 Male,4.0,15-18,Male,15-18
+2023 - 8,1,7,15-18 Male,1.0,15-18,Male,15-18
+2023 - 8,1,8,15-18 Male,3.0,15-18,Male,15-18
+2023 - 8,1,10,15-18 Male,1.0,15-18,Male,15-18
+2023 - 8,1,33,15-18 Male,2.0,15-18,Male,15-18
+2023 - 8,1,17,15-18 Male,3.0,15-18,Male,15-18
+2023 - 8,2,34,15-18 Male,1.0,15-18,Male,15-18
+2023 - 8,2,12,15-18 Male,4.0,15-18,Male,15-18
+2023 - 8,2,17,15-18 Male,2.0,15-18,Male,15-18
+2023 - 8,2,15,15-18 Male,1.0,15-18,Male,15-18
+2023 - 8,2,36,15-18 Male,2.0,15-18,Male,15-18
+2023 - 8,2,37,15-18 Male,1.0,15-18,Male,15-18
+2023 - 8,3,40,15-18 Male,1.0,15-18,Male,15-18
+2023 - 12,1,1,15-18 Male,11.0,15-18,Male,15-18
+2023 - 12,1,6,15-18 Male,6.0,15-18,Male,15-18
+2023 - 12,1,3,15-18 Male,1.0,15-18,Male,15-18
+2023 - 12,1,4,15-18 Male,3.0,15-18,Male,15-18
+2023 - 12,1,7,15-18 Male,2.0,15-18,Male,15-18
+2023 - 12,1,5,15-18 Male,1.0,15-18,Male,15-18
+2023 - 12,1,17,15-18 Male,2.0,15-18,Male,15-18
+2023 - 12,1,48,15-18 Male,2.0,15-18,Male,15-18
+2023 - 12,1,8,15-18 Male,2.0,15-18,Male,15-18
+2023 - 12,2,35,15-18 Male,2.0,15-18,Male,15-18
+2023 - 12,2,49,15-18 Male,7.0,15-18,Male,15-18
+2023 - 12,2,12,15-18 Male,1.0,15-18,Male,15-18
+2023 - 12,2,17,15-18 Male,1.0,15-18,Male,15-18
+2023 - 12,2,50,15-18 Male,1.0,15-18,Male,15-18
+2023 - 12,2,14,15-18 Male,1.0,15-18,Male,15-18
+2023 - 7,1,1,15-18 Male,5.0,15-18,Male,15-18
+2023 - 7,1,3,15-18 Male,2.0,15-18,Male,15-18
+2023 - 7,1,4,15-18 Male,3.0,15-18,Male,15-18
+2023 - 7,1,7,15-18 Male,3.0,15-18,Male,15-18
+2023 - 7,1,6,15-18 Male,1.0,15-18,Male,15-18
+2023 - 7,1,8,15-18 Male,2.0,15-18,Male,15-18
+2023 - 7,1,10,15-18 Male,1.0,15-18,Male,15-18
+2023 - 7,1,5,15-18 Male,1.0,15-18,Male,15-18
+2023 - 7,1,17,15-18 Male,2.0,15-18,Male,15-18
+2023 - 7,2,59,15-18 Male,2.0,15-18,Male,15-18
+2023 - 7,2,11,15-18 Male,1.0,15-18,Male,15-18
+2023 - 7,2,15,15-18 Male,2.0,15-18,Male,15-18
+2023 - 7,2,63,15-18 Male,3.0,15-18,Male,15-18
+2023 - 6,1,1,15-18 Male,7.0,15-18,Male,15-18
+2023 - 6,1,4,15-18 Male,1.0,15-18,Male,15-18
+2023 - 6,1,9,15-18 Male,7.0,15-18,Male,15-18
+2023 - 6,1,3,15-18 Male,2.0,15-18,Male,15-18
+2023 - 6,1,7,15-18 Male,2.0,15-18,Male,15-18
+2023 - 6,1,10,15-18 Male,1.0,15-18,Male,15-18
+2023 - 6,1,5,15-18 Male,1.0,15-18,Male,15-18
+2023 - 6,1,17,15-18 Male,3.0,15-18,Male,15-18
+2023 - 6,1,8,15-18 Male,4.0,15-18,Male,15-18
+2023 - 6,2,12,15-18 Male,2.0,15-18,Male,15-18
+2023 - 6,2,15,15-18 Male,1.0,15-18,Male,15-18
+2023 - 6,2,36,15-18 Male,2.0,15-18,Male,15-18
+2023 - 6,2,17,15-18 Male,4.0,15-18,Male,15-18
+2023 - 6,2,14,15-18 Male,1.0,15-18,Male,15-18
+2023 - 11,1,4,15-18 Male,4.0,15-18,Male,15-18
+2023 - 11,1,83,15-18 Male,3.0,15-18,Male,15-18
+2023 - 11,1,6,15-18 Male,5.0,15-18,Male,15-18
+2023 - 11,1,7,15-18 Male,6.0,15-18,Male,15-18
+2023 - 11,1,1,15-18 Male,32.0,15-18,Male,15-18
+2023 - 11,1,17,15-18 Male,4.0,15-18,Male,15-18
+2023 - 11,1,5,15-18 Male,2.0,15-18,Male,15-18
+2023 - 11,1,48,15-18 Male,2.0,15-18,Male,15-18
+2023 - 11,1,84,15-18 Male,1.0,15-18,Male,15-18
+2023 - 11,1,3,15-18 Male,3.0,15-18,Male,15-18
+2023 - 11,2,15,15-18 Male,2.0,15-18,Male,15-18
+2023 - 11,2,11,15-18 Male,2.0,15-18,Male,15-18
+2023 - 11,2,59,15-18 Male,1.0,15-18,Male,15-18
+2023 - 11,2,36,15-18 Male,12.0,15-18,Male,15-18
+2023 - 11,2,35,15-18 Male,4.0,15-18,Male,15-18
+2023 - 11,2,16,15-18 Male,2.0,15-18,Male,15-18
+2023 - 11,2,14,15-18 Male,3.0,15-18,Male,15-18
+2023 - 11,2,12,15-18 Male,1.0,15-18,Male,15-18
+2023 - 10,1,1,15-18 Male,23.0,15-18,Male,15-18
+2023 - 10,1,6,15-18 Male,10.0,15-18,Male,15-18
+2023 - 10,1,3,15-18 Male,5.0,15-18,Male,15-18
+2023 - 10,1,4,15-18 Male,9.0,15-18,Male,15-18
+2023 - 10,1,7,15-18 Male,1.0,15-18,Male,15-18
+2023 - 10,1,48,15-18 Male,5.0,15-18,Male,15-18
+2023 - 10,1,8,15-18 Male,6.0,15-18,Male,15-18
+2023 - 10,1,17,15-18 Male,2.0,15-18,Male,15-18
+2023 - 10,2,35,15-18 Male,2.0,15-18,Male,15-18
+2023 - 10,2,49,15-18 Male,9.0,15-18,Male,15-18
+2023 - 10,2,12,15-18 Male,2.0,15-18,Male,15-18
+2023 - 10,2,11,15-18 Male,2.0,15-18,Male,15-18
+2023 - 10,2,15,15-18 Male,2.0,15-18,Male,15-18
+2023 - 10,2,16,15-18 Male,4.0,15-18,Male,15-18
+2023 - 10,2,95,15-18 Male,1.0,15-18,Male,15-18
+2023 - 10,2,14,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,1,1,15-18 Male,16.0,15-18,Male,15-18
+2023 - 9,1,6,15-18 Male,4.0,15-18,Male,15-18
+2023 - 9,1,3,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,1,4,15-18 Male,5.0,15-18,Male,15-18
+2023 - 9,1,7,15-18 Male,3.0,15-18,Male,15-18
+2023 - 9,1,10,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,1,8,15-18 Male,3.0,15-18,Male,15-18
+2023 - 9,1,48,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,1,84,15-18 Male,4.0,15-18,Male,15-18
+2023 - 9,1,5,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,2,35,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,2,12,15-18 Male,0.0,15-18,Male,15-18
+2023 - 9,2,11,15-18 Male,0.0,15-18,Male,15-18
+2023 - 9,2,17,15-18 Male,2.0,15-18,Male,15-18
+2023 - 9,2,49,15-18 Male,8.0,15-18,Male,15-18
+2023 - 9,2,95,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,2,15,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,2,16,15-18 Male,1.0,15-18,Male,15-18
+2023 - 9,2,51,15-18 Male,0.0,15-18,Male,15-18
+2023 - 9,2,14,15-18 Male,0.0,15-18,Male,15-18
+2023 - 4,1,1,15-18 Female,2.0,15-18,Female,15-18
+2023 - 4,1,2,15-18 Female,3.0,15-18,Female,15-18
+2023 - 4,1,3,15-18 Female,1.0,15-18,Female,15-18
+2023 - 4,1,4,15-18 Female,6.0,15-18,Female,15-18
+2023 - 4,1,5,15-18 Female,1.0,15-18,Female,15-18
+2023 - 4,1,6,15-18 Female,2.0,15-18,Female,15-18
+2023 - 4,1,7,15-18 Female,1.0,15-18,Female,15-18
+2023 - 4,1,8,15-18 Female,9.0,15-18,Female,15-18
+2023 - 4,1,9,15-18 Female,1.0,15-18,Female,15-18
+2023 - 4,1,10,15-18 Female,1.0,15-18,Female,15-18
+2023 - 4,2,11,15-18 Female,2.0,15-18,Female,15-18
+2023 - 4,2,12,15-18 Female,6.0,15-18,Female,15-18
+2023 - 4,2,13,15-18 Female,2.0,15-18,Female,15-18
+2023 - 4,2,14,15-18 Female,2.0,15-18,Female,15-18
+2023 - 4,2,15,15-18 Female,4.0,15-18,Female,15-18
+2023 - 4,2,17,15-18 Female,1.0,15-18,Female,15-18
+2023 - 4,2,20,15-18 Female,1.0,15-18,Female,15-18
+2023 - 8,1,1,15-18 Female,8.0,15-18,Female,15-18
+2023 - 8,1,3,15-18 Female,4.0,15-18,Female,15-18
+2023 - 8,1,9,15-18 Female,1.0,15-18,Female,15-18
+2023 - 8,1,4,15-18 Female,7.0,15-18,Female,15-18
+2023 - 8,1,7,15-18 Female,3.0,15-18,Female,15-18
+2023 - 8,1,8,15-18 Female,6.0,15-18,Female,15-18
+2023 - 8,1,10,15-18 Female,3.0,15-18,Female,15-18
+2023 - 8,1,33,15-18 Female,3.0,15-18,Female,15-18
+2023 - 8,2,12,15-18 Female,11.0,15-18,Female,15-18
+2023 - 8,2,15,15-18 Female,1.0,15-18,Female,15-18
+2023 - 8,2,36,15-18 Female,6.0,15-18,Female,15-18
+2023 - 8,2,38,15-18 Female,2.0,15-18,Female,15-18
+2023 - 8,2,16,15-18 Female,2.0,15-18,Female,15-18
+2023 - 8,2,39,15-18 Female,2.0,15-18,Female,15-18
+2023 - 12,1,1,15-18 Female,14.0,15-18,Female,15-18
+2023 - 12,1,6,15-18 Female,7.0,15-18,Female,15-18
+2023 - 12,1,3,15-18 Female,6.0,15-18,Female,15-18
+2023 - 12,1,4,15-18 Female,11.0,15-18,Female,15-18
+2023 - 12,1,7,15-18 Female,5.0,15-18,Female,15-18
+2023 - 12,1,10,15-18 Female,2.0,15-18,Female,15-18
+2023 - 12,1,17,15-18 Female,1.0,15-18,Female,15-18
+2023 - 12,1,48,15-18 Female,1.0,15-18,Female,15-18
+2023 - 12,1,8,15-18 Female,4.0,15-18,Female,15-18
+2023 - 12,2,35,15-18 Female,3.0,15-18,Female,15-18
+2023 - 12,2,49,15-18 Female,11.0,15-18,Female,15-18
+2023 - 12,2,11,15-18 Female,1.0,15-18,Female,15-18
+2023 - 12,2,12,15-18 Female,3.0,15-18,Female,15-18
+2023 - 12,2,17,15-18 Female,1.0,15-18,Female,15-18
+2023 - 12,2,15,15-18 Female,6.0,15-18,Female,15-18
+2023 - 12,2,16,15-18 Female,1.0,15-18,Female,15-18
+2023 - 7,1,1,15-18 Female,10.0,15-18,Female,15-18
+2023 - 7,1,3,15-18 Female,4.0,15-18,Female,15-18
+2023 - 7,1,4,15-18 Female,5.0,15-18,Female,15-18
+2023 - 7,1,7,15-18 Female,2.0,15-18,Female,15-18
+2023 - 7,1,6,15-18 Female,2.0,15-18,Female,15-18
+2023 - 7,1,8,15-18 Female,3.0,15-18,Female,15-18
+2023 - 7,1,10,15-18 Female,2.0,15-18,Female,15-18
+2023 - 7,1,33,15-18 Female,1.0,15-18,Female,15-18
+2023 - 7,1,5,15-18 Female,1.0,15-18,Female,15-18
+2023 - 7,2,59,15-18 Female,2.0,15-18,Female,15-18
+2023 - 7,2,11,15-18 Female,2.0,15-18,Female,15-18
+2023 - 7,2,12,15-18 Female,5.0,15-18,Female,15-18
+2023 - 7,2,15,15-18 Female,2.0,15-18,Female,15-18
+2023 - 7,2,63,15-18 Female,3.0,15-18,Female,15-18
+2023 - 6,1,1,15-18 Female,5.0,15-18,Female,15-18
+2023 - 6,1,4,15-18 Female,11.0,15-18,Female,15-18
+2023 - 6,1,3,15-18 Female,1.0,15-18,Female,15-18
+2023 - 6,1,7,15-18 Female,3.0,15-18,Female,15-18
+2023 - 6,1,10,15-18 Female,1.0,15-18,Female,15-18
+2023 - 6,1,5,15-18 Female,1.0,15-18,Female,15-18
+2023 - 6,1,8,15-18 Female,2.0,15-18,Female,15-18
+2023 - 6,2,12,15-18 Female,4.0,15-18,Female,15-18
+2023 - 6,2,16,15-18 Female,1.0,15-18,Female,15-18
+2023 - 6,2,15,15-18 Female,3.0,15-18,Female,15-18
+2023 - 6,2,11,15-18 Female,2.0,15-18,Female,15-18
+2023 - 6,2,36,15-18 Female,2.0,15-18,Female,15-18
+2023 - 6,2,17,15-18 Female,1.0,15-18,Female,15-18
+2023 - 6,2,14,15-18 Female,3.0,15-18,Female,15-18
+2023 - 11,1,4,15-18 Female,14.0,15-18,Female,15-18
+2023 - 11,1,83,15-18 Female,2.0,15-18,Female,15-18
+2023 - 11,1,6,15-18 Female,5.0,15-18,Female,15-18
+2023 - 11,1,7,15-18 Female,2.0,15-18,Female,15-18
+2023 - 11,1,1,15-18 Female,18.0,15-18,Female,15-18
+2023 - 11,1,17,15-18 Female,1.0,15-18,Female,15-18
+2023 - 11,1,5,15-18 Female,1.0,15-18,Female,15-18
+2023 - 11,1,48,15-18 Female,1.0,15-18,Female,15-18
+2023 - 11,1,84,15-18 Female,4.0,15-18,Female,15-18
+2023 - 11,1,3,15-18 Female,2.0,15-18,Female,15-18
+2023 - 11,2,15,15-18 Female,1.0,15-18,Female,15-18
+2023 - 11,2,39,15-18 Female,1.0,15-18,Female,15-18
+2023 - 11,2,36,15-18 Female,11.0,15-18,Female,15-18
+2023 - 11,2,35,15-18 Female,1.0,15-18,Female,15-18
+2023 - 11,2,16,15-18 Female,2.0,15-18,Female,15-18
+2023 - 11,2,14,15-18 Female,3.0,15-18,Female,15-18
+2023 - 11,2,12,15-18 Female,11.0,15-18,Female,15-18
+2023 - 10,1,1,15-18 Female,20.0,15-18,Female,15-18
+2023 - 10,1,6,15-18 Female,7.0,15-18,Female,15-18
+2023 - 10,1,3,15-18 Female,10.0,15-18,Female,15-18
+2023 - 10,1,4,15-18 Female,4.0,15-18,Female,15-18
+2023 - 10,1,7,15-18 Female,2.0,15-18,Female,15-18
+2023 - 10,1,48,15-18 Female,5.0,15-18,Female,15-18
+2023 - 10,1,10,15-18 Female,3.0,15-18,Female,15-18
+2023 - 10,1,8,15-18 Female,4.0,15-18,Female,15-18
+2023 - 10,1,5,15-18 Female,1.0,15-18,Female,15-18
+2023 - 10,1,17,15-18 Female,3.0,15-18,Female,15-18
+2023 - 10,2,35,15-18 Female,2.0,15-18,Female,15-18
+2023 - 10,2,49,15-18 Female,11.0,15-18,Female,15-18
+2023 - 10,2,12,15-18 Female,6.0,15-18,Female,15-18
+2023 - 10,2,11,15-18 Female,3.0,15-18,Female,15-18
+2023 - 10,2,17,15-18 Female,3.0,15-18,Female,15-18
+2023 - 10,2,15,15-18 Female,2.0,15-18,Female,15-18
+2023 - 10,2,16,15-18 Female,2.0,15-18,Female,15-18
+2023 - 10,2,14,15-18 Female,1.0,15-18,Female,15-18
+2023 - 9,1,1,15-18 Female,10.0,15-18,Female,15-18
+2023 - 9,1,6,15-18 Female,3.0,15-18,Female,15-18
+2023 - 9,1,3,15-18 Female,4.0,15-18,Female,15-18
+2023 - 9,1,4,15-18 Female,6.0,15-18,Female,15-18
+2023 - 9,1,7,15-18 Female,3.0,15-18,Female,15-18
+2023 - 9,1,10,15-18 Female,3.0,15-18,Female,15-18
+2023 - 9,1,8,15-18 Female,3.0,15-18,Female,15-18
+2023 - 9,1,48,15-18 Female,8.0,15-18,Female,15-18
+2023 - 9,1,84,15-18 Female,2.0,15-18,Female,15-18
+2023 - 9,2,35,15-18 Female,3.0,15-18,Female,15-18
+2023 - 9,2,12,15-18 Female,7.0,15-18,Female,15-18
+2023 - 9,2,11,15-18 Female,1.0,15-18,Female,15-18
+2023 - 9,2,17,15-18 Female,1.0,15-18,Female,15-18
+2023 - 9,2,49,15-18 Female,8.0,15-18,Female,15-18
+2023 - 9,2,95,15-18 Female,2.0,15-18,Female,15-18
+2023 - 9,2,15,15-18 Female,1.0,15-18,Female,15-18
+2023 - 9,2,16,15-18 Female,2.0,15-18,Female,15-18
+2023 - 9,2,51,15-18 Female,0.0,15-18,Female,15-18
+2023 - 9,2,14,15-18 Female,0.0,15-18,Female,15-18
+2023 - 4,1,1,19-24 Male,4.0,19-24,Male,19-24
+2023 - 4,1,2,19-24 Male,12.0,19-24,Male,19-24
+2023 - 4,1,4,19-24 Male,2.0,19-24,Male,19-24
+2023 - 4,1,7,19-24 Male,6.0,19-24,Male,19-24
+2023 - 4,1,8,19-24 Male,1.0,19-24,Male,19-24
+2023 - 4,1,10,19-24 Male,1.0,19-24,Male,19-24
+2023 - 4,2,11,19-24 Male,1.0,19-24,Male,19-24
+2023 - 4,2,15,19-24 Male,3.0,19-24,Male,19-24
+2023 - 4,2,16,19-24 Male,2.0,19-24,Male,19-24
+2023 - 4,2,17,19-24 Male,4.0,19-24,Male,19-24
+2023 - 8,1,1,19-24 Male,7.0,19-24,Male,19-24
+2023 - 8,1,3,19-24 Male,2.0,19-24,Male,19-24
+2023 - 8,1,9,19-24 Male,3.0,19-24,Male,19-24
+2023 - 8,1,4,19-24 Male,4.0,19-24,Male,19-24
+2023 - 8,1,7,19-24 Male,2.0,19-24,Male,19-24
+2023 - 8,1,8,19-24 Male,2.0,19-24,Male,19-24
+2023 - 8,1,5,19-24 Male,2.0,19-24,Male,19-24
+2023 - 8,1,10,19-24 Male,1.0,19-24,Male,19-24
+2023 - 8,1,33,19-24 Male,2.0,19-24,Male,19-24
+2023 - 8,1,17,19-24 Male,5.0,19-24,Male,19-24
+2023 - 8,2,34,19-24 Male,1.0,19-24,Male,19-24
+2023 - 8,2,12,19-24 Male,2.0,19-24,Male,19-24
+2023 - 8,2,17,19-24 Male,5.0,19-24,Male,19-24
+2023 - 8,2,15,19-24 Male,1.0,19-24,Male,19-24
+2023 - 8,2,36,19-24 Male,2.0,19-24,Male,19-24
+2023 - 8,2,38,19-24 Male,1.0,19-24,Male,19-24
+2023 - 8,2,16,19-24 Male,1.0,19-24,Male,19-24
+2023 - 12,1,1,19-24 Male,11.0,19-24,Male,19-24
+2023 - 12,1,6,19-24 Male,4.0,19-24,Male,19-24
+2023 - 12,1,3,19-24 Male,1.0,19-24,Male,19-24
+2023 - 12,1,4,19-24 Male,6.0,19-24,Male,19-24
+2023 - 12,1,7,19-24 Male,4.0,19-24,Male,19-24
+2023 - 12,1,10,19-24 Male,1.0,19-24,Male,19-24
+2023 - 12,1,17,19-24 Male,5.0,19-24,Male,19-24
+2023 - 12,1,48,19-24 Male,2.0,19-24,Male,19-24
+2023 - 12,1,8,19-24 Male,2.0,19-24,Male,19-24
+2023 - 12,2,49,19-24 Male,2.0,19-24,Male,19-24
+2023 - 12,2,12,19-24 Male,1.0,19-24,Male,19-24
+2023 - 12,2,17,19-24 Male,3.0,19-24,Male,19-24
+2023 - 12,2,14,19-24 Male,1.0,19-24,Male,19-24
+2023 - 12,2,16,19-24 Male,1.0,19-24,Male,19-24
+2023 - 12,3,52,19-24 Male,1.0,19-24,Male,19-24
+2023 - 7,1,1,19-24 Male,4.0,19-24,Male,19-24
+2023 - 7,1,3,19-24 Male,4.0,19-24,Male,19-24
+2023 - 7,1,4,19-24 Male,7.0,19-24,Male,19-24
+2023 - 7,1,8,19-24 Male,5.0,19-24,Male,19-24
+2023 - 7,1,10,19-24 Male,2.0,19-24,Male,19-24
+2023 - 7,1,33,19-24 Male,1.0,19-24,Male,19-24
+2023 - 7,1,17,19-24 Male,4.0,19-24,Male,19-24
+2023 - 7,2,11,19-24 Male,2.0,19-24,Male,19-24
+2023 - 7,2,15,19-24 Male,3.0,19-24,Male,19-24
+2023 - 7,2,17,19-24 Male,4.0,19-24,Male,19-24
+2023 - 7,2,60,19-24 Male,1.0,19-24,Male,19-24
+2023 - 7,2,63,19-24 Male,1.0,19-24,Male,19-24
+2023 - 6,1,1,19-24 Male,7.0,19-24,Male,19-24
+2023 - 6,1,4,19-24 Male,1.0,19-24,Male,19-24
+2023 - 6,1,3,19-24 Male,2.0,19-24,Male,19-24
+2023 - 6,1,10,19-24 Male,1.0,19-24,Male,19-24
+2023 - 6,1,17,19-24 Male,3.0,19-24,Male,19-24
+2023 - 6,1,8,19-24 Male,1.0,19-24,Male,19-24
+2023 - 6,2,12,19-24 Male,1.0,19-24,Male,19-24
+2023 - 6,2,16,19-24 Male,2.0,19-24,Male,19-24
+2023 - 6,2,15,19-24 Male,1.0,19-24,Male,19-24
+2023 - 6,2,36,19-24 Male,4.0,19-24,Male,19-24
+2023 - 6,2,17,19-24 Male,2.0,19-24,Male,19-24
+2023 - 6,2,14,19-24 Male,2.0,19-24,Male,19-24
+2023 - 6,2,75,19-24 Male,1.0,19-24,Male,19-24
+2023 - 11,1,4,19-24 Male,9.0,19-24,Male,19-24
+2023 - 11,1,83,19-24 Male,2.0,19-24,Male,19-24
+2023 - 11,1,6,19-24 Male,3.0,19-24,Male,19-24
+2023 - 11,1,7,19-24 Male,4.0,19-24,Male,19-24
+2023 - 11,1,1,19-24 Male,13.0,19-24,Male,19-24
+2023 - 11,1,17,19-24 Male,6.0,19-24,Male,19-24
+2023 - 11,1,84,19-24 Male,2.0,19-24,Male,19-24
+2023 - 11,1,3,19-24 Male,4.0,19-24,Male,19-24
+2023 - 11,2,15,19-24 Male,1.0,19-24,Male,19-24
+2023 - 11,2,11,19-24 Male,2.0,19-24,Male,19-24
+2023 - 11,2,59,19-24 Male,3.0,19-24,Male,19-24
+2023 - 11,2,36,19-24 Male,4.0,19-24,Male,19-24
+2023 - 11,2,16,19-24 Male,2.0,19-24,Male,19-24
+2023 - 11,2,12,19-24 Male,1.0,19-24,Male,19-24
+2023 - 10,1,1,19-24 Male,19.0,19-24,Male,19-24
+2023 - 10,1,6,19-24 Male,1.0,19-24,Male,19-24
+2023 - 10,1,3,19-24 Male,2.0,19-24,Male,19-24
+2023 - 10,1,4,19-24 Male,8.0,19-24,Male,19-24
+2023 - 10,1,7,19-24 Male,1.0,19-24,Male,19-24
+2023 - 10,1,48,19-24 Male,1.0,19-24,Male,19-24
+2023 - 10,1,10,19-24 Male,2.0,19-24,Male,19-24
+2023 - 10,1,8,19-24 Male,4.0,19-24,Male,19-24
+2023 - 10,1,17,19-24 Male,3.0,19-24,Male,19-24
+2023 - 10,2,49,19-24 Male,8.0,19-24,Male,19-24
+2023 - 10,2,12,19-24 Male,3.0,19-24,Male,19-24
+2023 - 10,2,11,19-24 Male,1.0,19-24,Male,19-24
+2023 - 10,2,17,19-24 Male,2.0,19-24,Male,19-24
+2023 - 10,2,15,19-24 Male,1.0,19-24,Male,19-24
+2023 - 10,2,16,19-24 Male,2.0,19-24,Male,19-24
+2023 - 10,2,14,19-24 Male,1.0,19-24,Male,19-24
+2023 - 9,1,1,19-24 Male,11.0,19-24,Male,19-24
+2023 - 9,1,6,19-24 Male,1.0,19-24,Male,19-24
+2023 - 9,1,3,19-24 Male,4.0,19-24,Male,19-24
+2023 - 9,1,4,19-24 Male,5.0,19-24,Male,19-24
+2023 - 9,1,7,19-24 Male,4.0,19-24,Male,19-24
+2023 - 9,1,10,19-24 Male,5.0,19-24,Male,19-24
+2023 - 9,1,8,19-24 Male,7.0,19-24,Male,19-24
+2023 - 9,1,48,19-24 Male,1.0,19-24,Male,19-24
+2023 - 9,1,84,19-24 Male,2.0,19-24,Male,19-24
+2023 - 9,1,5,19-24 Male,1.0,19-24,Male,19-24
+2023 - 9,2,35,19-24 Male,0.0,19-24,Male,19-24
+2023 - 9,2,12,19-24 Male,1.0,19-24,Male,19-24
+2023 - 9,2,11,19-24 Male,2.0,19-24,Male,19-24
+2023 - 9,2,17,19-24 Male,4.0,19-24,Male,19-24
+2023 - 9,2,49,19-24 Male,8.0,19-24,Male,19-24
+2023 - 9,2,95,19-24 Male,0.0,19-24,Male,19-24
+2023 - 9,2,15,19-24 Male,1.0,19-24,Male,19-24
+2023 - 9,2,16,19-24 Male,4.0,19-24,Male,19-24
+2023 - 9,2,51,19-24 Male,0.0,19-24,Male,19-24
+2023 - 9,2,14,19-24 Male,0.0,19-24,Male,19-24
+2023 - 4,1,1,19-24 Female,2.0,19-24,Female,19-24
+2023 - 4,1,2,19-24 Female,33.0,19-24,Female,19-24
+2023 - 4,1,3,19-24 Female,2.0,19-24,Female,19-24
+2023 - 4,1,4,19-24 Female,10.0,19-24,Female,19-24
+2023 - 4,1,5,19-24 Female,4.0,19-24,Female,19-24
+2023 - 4,1,6,19-24 Female,1.0,19-24,Female,19-24
+2023 - 4,1,7,19-24 Female,3.0,19-24,Female,19-24
+2023 - 4,1,8,19-24 Female,9.0,19-24,Female,19-24
+2023 - 4,1,10,19-24 Female,1.0,19-24,Female,19-24
+2023 - 4,2,11,19-24 Female,4.0,19-24,Female,19-24
+2023 - 4,2,12,19-24 Female,9.0,19-24,Female,19-24
+2023 - 4,2,14,19-24 Female,4.0,19-24,Female,19-24
+2023 - 4,2,15,19-24 Female,6.0,19-24,Female,19-24
+2023 - 4,2,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 4,2,19,19-24 Female,1.0,19-24,Female,19-24
+2023 - 8,1,1,19-24 Female,2.0,19-24,Female,19-24
+2023 - 8,1,9,19-24 Female,1.0,19-24,Female,19-24
+2023 - 8,1,4,19-24 Female,13.0,19-24,Female,19-24
+2023 - 8,1,7,19-24 Female,4.0,19-24,Female,19-24
+2023 - 8,1,8,19-24 Female,7.0,19-24,Female,19-24
+2023 - 8,1,5,19-24 Female,2.0,19-24,Female,19-24
+2023 - 8,1,10,19-24 Female,2.0,19-24,Female,19-24
+2023 - 8,1,33,19-24 Female,2.0,19-24,Female,19-24
+2023 - 8,1,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 8,2,34,19-24 Female,3.0,19-24,Female,19-24
+2023 - 8,2,12,19-24 Female,11.0,19-24,Female,19-24
+2023 - 8,2,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 8,2,15,19-24 Female,4.0,19-24,Female,19-24
+2023 - 8,2,36,19-24 Female,2.0,19-24,Female,19-24
+2023 - 8,2,38,19-24 Female,5.0,19-24,Female,19-24
+2023 - 8,2,16,19-24 Female,2.0,19-24,Female,19-24
+2023 - 12,1,1,19-24 Female,15.0,19-24,Female,19-24
+2023 - 12,1,6,19-24 Female,4.0,19-24,Female,19-24
+2023 - 12,1,3,19-24 Female,10.0,19-24,Female,19-24
+2023 - 12,1,4,19-24 Female,10.0,19-24,Female,19-24
+2023 - 12,1,7,19-24 Female,7.0,19-24,Female,19-24
+2023 - 12,1,5,19-24 Female,1.0,19-24,Female,19-24
+2023 - 12,1,10,19-24 Female,2.0,19-24,Female,19-24
+2023 - 12,1,17,19-24 Female,3.0,19-24,Female,19-24
+2023 - 12,1,48,19-24 Female,2.0,19-24,Female,19-24
+2023 - 12,1,8,19-24 Female,7.0,19-24,Female,19-24
+2023 - 12,2,49,19-24 Female,7.0,19-24,Female,19-24
+2023 - 12,2,11,19-24 Female,1.0,19-24,Female,19-24
+2023 - 12,2,12,19-24 Female,9.0,19-24,Female,19-24
+2023 - 12,2,17,19-24 Female,1.0,19-24,Female,19-24
+2023 - 12,2,15,19-24 Female,1.0,19-24,Female,19-24
+2023 - 12,2,50,19-24 Female,1.0,19-24,Female,19-24
+2023 - 12,2,16,19-24 Female,1.0,19-24,Female,19-24
+2023 - 7,1,1,19-24 Female,3.0,19-24,Female,19-24
+2023 - 7,1,3,19-24 Female,3.0,19-24,Female,19-24
+2023 - 7,1,4,19-24 Female,7.0,19-24,Female,19-24
+2023 - 7,1,7,19-24 Female,3.0,19-24,Female,19-24
+2023 - 7,1,6,19-24 Female,1.0,19-24,Female,19-24
+2023 - 7,1,8,19-24 Female,13.0,19-24,Female,19-24
+2023 - 7,1,10,19-24 Female,3.0,19-24,Female,19-24
+2023 - 7,1,33,19-24 Female,1.0,19-24,Female,19-24
+2023 - 7,1,5,19-24 Female,1.0,19-24,Female,19-24
+2023 - 7,1,17,19-24 Female,1.0,19-24,Female,19-24
+2023 - 7,2,59,19-24 Female,2.0,19-24,Female,19-24
+2023 - 7,2,11,19-24 Female,1.0,19-24,Female,19-24
+2023 - 7,2,12,19-24 Female,8.0,19-24,Female,19-24
+2023 - 7,2,15,19-24 Female,1.0,19-24,Female,19-24
+2023 - 7,2,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 7,2,60,19-24 Female,3.0,19-24,Female,19-24
+2023 - 7,2,63,19-24 Female,2.0,19-24,Female,19-24
+2023 - 6,1,1,19-24 Female,9.0,19-24,Female,19-24
+2023 - 6,1,4,19-24 Female,22.0,19-24,Female,19-24
+2023 - 6,1,9,19-24 Female,2.0,19-24,Female,19-24
+2023 - 6,1,3,19-24 Female,1.0,19-24,Female,19-24
+2023 - 6,1,7,19-24 Female,2.0,19-24,Female,19-24
+2023 - 6,1,73,19-24 Female,2.0,19-24,Female,19-24
+2023 - 6,1,10,19-24 Female,3.0,19-24,Female,19-24
+2023 - 6,1,5,19-24 Female,3.0,19-24,Female,19-24
+2023 - 6,1,17,19-24 Female,1.0,19-24,Female,19-24
+2023 - 6,1,8,19-24 Female,3.0,19-24,Female,19-24
+2023 - 6,2,12,19-24 Female,10.0,19-24,Female,19-24
+2023 - 6,2,16,19-24 Female,1.0,19-24,Female,19-24
+2023 - 6,2,15,19-24 Female,2.0,19-24,Female,19-24
+2023 - 6,2,11,19-24 Female,4.0,19-24,Female,19-24
+2023 - 6,2,17,19-24 Female,1.0,19-24,Female,19-24
+2023 - 6,2,14,19-24 Female,3.0,19-24,Female,19-24
+2023 - 6,2,75,19-24 Female,1.0,19-24,Female,19-24
+2023 - 11,1,4,19-24 Female,16.0,19-24,Female,19-24
+2023 - 11,1,6,19-24 Female,7.0,19-24,Female,19-24
+2023 - 11,1,7,19-24 Female,1.0,19-24,Female,19-24
+2023 - 11,1,1,19-24 Female,16.0,19-24,Female,19-24
+2023 - 11,1,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 11,1,5,19-24 Female,4.0,19-24,Female,19-24
+2023 - 11,1,48,19-24 Female,3.0,19-24,Female,19-24
+2023 - 11,1,84,19-24 Female,2.0,19-24,Female,19-24
+2023 - 11,1,3,19-24 Female,4.0,19-24,Female,19-24
+2023 - 11,2,11,19-24 Female,3.0,19-24,Female,19-24
+2023 - 11,2,39,19-24 Female,1.0,19-24,Female,19-24
+2023 - 11,2,59,19-24 Female,3.0,19-24,Female,19-24
+2023 - 11,2,36,19-24 Female,6.0,19-24,Female,19-24
+2023 - 11,2,12,19-24 Female,11.0,19-24,Female,19-24
+2023 - 10,1,1,19-24 Female,16.0,19-24,Female,19-24
+2023 - 10,1,6,19-24 Female,5.0,19-24,Female,19-24
+2023 - 10,1,3,19-24 Female,4.0,19-24,Female,19-24
+2023 - 10,1,4,19-24 Female,8.0,19-24,Female,19-24
+2023 - 10,1,7,19-24 Female,5.0,19-24,Female,19-24
+2023 - 10,1,48,19-24 Female,2.0,19-24,Female,19-24
+2023 - 10,1,10,19-24 Female,5.0,19-24,Female,19-24
+2023 - 10,1,8,19-24 Female,7.0,19-24,Female,19-24
+2023 - 10,1,5,19-24 Female,2.0,19-24,Female,19-24
+2023 - 10,1,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 10,2,49,19-24 Female,5.0,19-24,Female,19-24
+2023 - 10,2,12,19-24 Female,6.0,19-24,Female,19-24
+2023 - 10,2,11,19-24 Female,2.0,19-24,Female,19-24
+2023 - 10,2,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 10,2,15,19-24 Female,3.0,19-24,Female,19-24
+2023 - 10,2,16,19-24 Female,3.0,19-24,Female,19-24
+2023 - 10,2,95,19-24 Female,1.0,19-24,Female,19-24
+2023 - 10,2,14,19-24 Female,2.0,19-24,Female,19-24
+2023 - 9,1,1,19-24 Female,7.0,19-24,Female,19-24
+2023 - 9,1,6,19-24 Female,3.0,19-24,Female,19-24
+2023 - 9,1,3,19-24 Female,1.0,19-24,Female,19-24
+2023 - 9,1,4,19-24 Female,10.0,19-24,Female,19-24
+2023 - 9,1,7,19-24 Female,3.0,19-24,Female,19-24
+2023 - 9,1,10,19-24 Female,4.0,19-24,Female,19-24
+2023 - 9,1,8,19-24 Female,5.0,19-24,Female,19-24
+2023 - 9,1,48,19-24 Female,3.0,19-24,Female,19-24
+2023 - 9,1,84,19-24 Female,2.0,19-24,Female,19-24
+2023 - 9,1,5,19-24 Female,2.0,19-24,Female,19-24
+2023 - 9,2,35,19-24 Female,0.0,19-24,Female,19-24
+2023 - 9,2,12,19-24 Female,8.0,19-24,Female,19-24
+2023 - 9,2,11,19-24 Female,0.0,19-24,Female,19-24
+2023 - 9,2,17,19-24 Female,2.0,19-24,Female,19-24
+2023 - 9,2,49,19-24 Female,1.0,19-24,Female,19-24
+2023 - 9,2,95,19-24 Female,0.0,19-24,Female,19-24
+2023 - 9,2,15,19-24 Female,1.0,19-24,Female,19-24
+2023 - 9,2,16,19-24 Female,2.0,19-24,Female,19-24
+2023 - 9,2,51,19-24 Female,0.0,19-24,Female,19-24
+2023 - 9,2,14,19-24 Female,0.0,19-24,Female,19-24
+2023 - 4,1,1,25-29 Male,2.0,25-29,Male,25-29
+2023 - 4,1,2,25-29 Male,10.0,25-29,Male,25-29
+2023 - 4,1,4,25-29 Male,4.0,25-29,Male,25-29
+2023 - 4,1,5,25-29 Male,2.0,25-29,Male,25-29
+2023 - 4,1,7,25-29 Male,3.0,25-29,Male,25-29
+2023 - 4,1,8,25-29 Male,3.0,25-29,Male,25-29
+2023 - 4,1,10,25-29 Male,1.0,25-29,Male,25-29
+2023 - 4,2,11,25-29 Male,4.0,25-29,Male,25-29
+2023 - 4,2,12,25-29 Male,3.0,25-29,Male,25-29
+2023 - 4,2,14,25-29 Male,1.0,25-29,Male,25-29
+2023 - 4,2,17,25-29 Male,5.0,25-29,Male,25-29
+2023 - 4,3,31,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,1,1,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,1,3,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,1,9,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,1,4,25-29 Male,5.0,25-29,Male,25-29
+2023 - 8,1,8,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,1,10,25-29 Male,2.0,25-29,Male,25-29
+2023 - 8,1,33,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,1,17,25-29 Male,2.0,25-29,Male,25-29
+2023 - 8,2,34,25-29 Male,2.0,25-29,Male,25-29
+2023 - 8,2,12,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,2,17,25-29 Male,2.0,25-29,Male,25-29
+2023 - 8,2,15,25-29 Male,4.0,25-29,Male,25-29
+2023 - 8,2,36,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,2,37,25-29 Male,1.0,25-29,Male,25-29
+2023 - 8,3,46,25-29 Male,1.0,25-29,Male,25-29
+2023 - 12,1,1,25-29 Male,6.0,25-29,Male,25-29
+2023 - 12,1,6,25-29 Male,3.0,25-29,Male,25-29
+2023 - 12,1,3,25-29 Male,1.0,25-29,Male,25-29
+2023 - 12,1,4,25-29 Male,3.0,25-29,Male,25-29
+2023 - 12,1,10,25-29 Male,7.0,25-29,Male,25-29
+2023 - 12,1,17,25-29 Male,1.0,25-29,Male,25-29
+2023 - 12,1,48,25-29 Male,1.0,25-29,Male,25-29
+2023 - 12,1,8,25-29 Male,3.0,25-29,Male,25-29
+2023 - 12,2,49,25-29 Male,2.0,25-29,Male,25-29
+2023 - 12,2,17,25-29 Male,1.0,25-29,Male,25-29
+2023 - 12,2,15,25-29 Male,2.0,25-29,Male,25-29
+2023 - 12,2,50,25-29 Male,1.0,25-29,Male,25-29
+2023 - 7,1,1,25-29 Male,3.0,25-29,Male,25-29
+2023 - 7,1,3,25-29 Male,1.0,25-29,Male,25-29
+2023 - 7,1,4,25-29 Male,2.0,25-29,Male,25-29
+2023 - 7,1,8,25-29 Male,6.0,25-29,Male,25-29
+2023 - 7,1,10,25-29 Male,3.0,25-29,Male,25-29
+2023 - 7,1,17,25-29 Male,2.0,25-29,Male,25-29
+2023 - 7,2,15,25-29 Male,1.0,25-29,Male,25-29
+2023 - 7,2,17,25-29 Male,3.0,25-29,Male,25-29
+2023 - 7,2,60,25-29 Male,1.0,25-29,Male,25-29
+2023 - 7,2,61,25-29 Male,1.0,25-29,Male,25-29
+2023 - 7,2,63,25-29 Male,2.0,25-29,Male,25-29
+2023 - 6,1,1,25-29 Male,5.0,25-29,Male,25-29
+2023 - 6,1,4,25-29 Male,3.0,25-29,Male,25-29
+2023 - 6,1,9,25-29 Male,1.0,25-29,Male,25-29
+2023 - 6,1,3,25-29 Male,2.0,25-29,Male,25-29
+2023 - 6,1,7,25-29 Male,2.0,25-29,Male,25-29
+2023 - 6,1,10,25-29 Male,2.0,25-29,Male,25-29
+2023 - 6,1,17,25-29 Male,2.0,25-29,Male,25-29
+2023 - 6,1,8,25-29 Male,2.0,25-29,Male,25-29
+2023 - 6,2,12,25-29 Male,1.0,25-29,Male,25-29
+2023 - 6,2,15,25-29 Male,2.0,25-29,Male,25-29
+2023 - 6,2,17,25-29 Male,3.0,25-29,Male,25-29
+2023 - 6,2,14,25-29 Male,1.0,25-29,Male,25-29
+2023 - 6,2,75,25-29 Male,1.0,25-29,Male,25-29
+2023 - 6,3,66,25-29 Male,1.0,25-29,Male,25-29
+2023 - 11,1,4,25-29 Male,3.0,25-29,Male,25-29
+2023 - 11,1,83,25-29 Male,2.0,25-29,Male,25-29
+2023 - 11,1,6,25-29 Male,4.0,25-29,Male,25-29
+2023 - 11,1,1,25-29 Male,13.0,25-29,Male,25-29
+2023 - 11,1,5,25-29 Male,1.0,25-29,Male,25-29
+2023 - 11,1,48,25-29 Male,1.0,25-29,Male,25-29
+2023 - 11,2,11,25-29 Male,2.0,25-29,Male,25-29
+2023 - 11,2,59,25-29 Male,4.0,25-29,Male,25-29
+2023 - 11,2,36,25-29 Male,2.0,25-29,Male,25-29
+2023 - 11,2,16,25-29 Male,1.0,25-29,Male,25-29
+2023 - 11,2,12,25-29 Male,1.0,25-29,Male,25-29
+2023 - 11,3,52,25-29 Male,1.0,25-29,Male,25-29
+2023 - 11,3,86,25-29 Male,1.0,25-29,Male,25-29
+2023 - 10,1,1,25-29 Male,9.0,25-29,Male,25-29
+2023 - 10,1,6,25-29 Male,1.0,25-29,Male,25-29
+2023 - 10,1,3,25-29 Male,2.0,25-29,Male,25-29
+2023 - 10,1,4,25-29 Male,4.0,25-29,Male,25-29
+2023 - 10,1,7,25-29 Male,2.0,25-29,Male,25-29
+2023 - 10,1,48,25-29 Male,2.0,25-29,Male,25-29
+2023 - 10,1,8,25-29 Male,3.0,25-29,Male,25-29
+2023 - 10,1,17,25-29 Male,5.0,25-29,Male,25-29
+2023 - 10,2,49,25-29 Male,1.0,25-29,Male,25-29
+2023 - 10,2,12,25-29 Male,2.0,25-29,Male,25-29
+2023 - 10,2,17,25-29 Male,4.0,25-29,Male,25-29
+2023 - 10,2,14,25-29 Male,3.0,25-29,Male,25-29
+2023 - 10,3,97,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,1,1,25-29 Male,5.0,25-29,Male,25-29
+2023 - 9,1,6,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,1,3,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,1,4,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,1,7,25-29 Male,3.0,25-29,Male,25-29
+2023 - 9,1,10,25-29 Male,4.0,25-29,Male,25-29
+2023 - 9,1,8,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,1,48,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,1,5,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,2,35,25-29 Male,0.0,25-29,Male,25-29
+2023 - 9,2,12,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,2,11,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,2,17,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,2,49,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,2,95,25-29 Male,0.0,25-29,Male,25-29
+2023 - 9,2,15,25-29 Male,1.0,25-29,Male,25-29
+2023 - 9,2,16,25-29 Male,0.0,25-29,Male,25-29
+2023 - 9,2,51,25-29 Male,0.0,25-29,Male,25-29
+2023 - 9,2,14,25-29 Male,0.0,25-29,Male,25-29
+2023 - 4,1,1,25-29 Female,7.0,25-29,Female,25-29
+2023 - 4,1,2,25-29 Female,48.0,25-29,Female,25-29
+2023 - 4,1,3,25-29 Female,1.0,25-29,Female,25-29
+2023 - 4,1,4,25-29 Female,7.0,25-29,Female,25-29
+2023 - 4,1,6,25-29 Female,2.0,25-29,Female,25-29
+2023 - 4,1,7,25-29 Female,3.0,25-29,Female,25-29
+2023 - 4,1,8,25-29 Female,6.0,25-29,Female,25-29
+2023 - 4,1,10,25-29 Female,3.0,25-29,Female,25-29
+2023 - 4,2,12,25-29 Female,7.0,25-29,Female,25-29
+2023 - 4,2,14,25-29 Female,2.0,25-29,Female,25-29
+2023 - 4,2,15,25-29 Female,3.0,25-29,Female,25-29
+2023 - 4,2,16,25-29 Female,1.0,25-29,Female,25-29
+2023 - 8,1,1,25-29 Female,6.0,25-29,Female,25-29
+2023 - 8,1,3,25-29 Female,3.0,25-29,Female,25-29
+2023 - 8,1,9,25-29 Female,2.0,25-29,Female,25-29
+2023 - 8,1,4,25-29 Female,4.0,25-29,Female,25-29
+2023 - 8,1,7,25-29 Female,3.0,25-29,Female,25-29
+2023 - 8,1,8,25-29 Female,4.0,25-29,Female,25-29
+2023 - 8,1,5,25-29 Female,1.0,25-29,Female,25-29
+2023 - 8,1,10,25-29 Female,4.0,25-29,Female,25-29
+2023 - 8,2,34,25-29 Female,5.0,25-29,Female,25-29
+2023 - 8,2,12,25-29 Female,6.0,25-29,Female,25-29
+2023 - 8,2,15,25-29 Female,2.0,25-29,Female,25-29
+2023 - 8,2,36,25-29 Female,1.0,25-29,Female,25-29
+2023 - 8,2,38,25-29 Female,1.0,25-29,Female,25-29
+2023 - 8,2,39,25-29 Female,1.0,25-29,Female,25-29
+2023 - 12,1,1,25-29 Female,5.0,25-29,Female,25-29
+2023 - 12,1,6,25-29 Female,7.0,25-29,Female,25-29
+2023 - 12,1,3,25-29 Female,2.0,25-29,Female,25-29
+2023 - 12,1,4,25-29 Female,14.0,25-29,Female,25-29
+2023 - 12,1,7,25-29 Female,2.0,25-29,Female,25-29
+2023 - 12,1,5,25-29 Female,3.0,25-29,Female,25-29
+2023 - 12,1,10,25-29 Female,3.0,25-29,Female,25-29
+2023 - 12,1,17,25-29 Female,1.0,25-29,Female,25-29
+2023 - 12,1,48,25-29 Female,3.0,25-29,Female,25-29
+2023 - 12,1,8,25-29 Female,4.0,25-29,Female,25-29
+2023 - 12,2,49,25-29 Female,1.0,25-29,Female,25-29
+2023 - 12,2,11,25-29 Female,1.0,25-29,Female,25-29
+2023 - 12,2,12,25-29 Female,5.0,25-29,Female,25-29
+2023 - 12,2,17,25-29 Female,1.0,25-29,Female,25-29
+2023 - 12,2,15,25-29 Female,1.0,25-29,Female,25-29
+2023 - 12,2,14,25-29 Female,1.0,25-29,Female,25-29
+2023 - 7,1,1,25-29 Female,2.0,25-29,Female,25-29
+2023 - 7,1,4,25-29 Female,9.0,25-29,Female,25-29
+2023 - 7,1,7,25-29 Female,3.0,25-29,Female,25-29
+2023 - 7,1,6,25-29 Female,1.0,25-29,Female,25-29
+2023 - 7,1,8,25-29 Female,7.0,25-29,Female,25-29
+2023 - 7,1,10,25-29 Female,4.0,25-29,Female,25-29
+2023 - 7,1,5,25-29 Female,2.0,25-29,Female,25-29
+2023 - 7,2,11,25-29 Female,3.0,25-29,Female,25-29
+2023 - 7,2,12,25-29 Female,8.0,25-29,Female,25-29
+2023 - 7,2,15,25-29 Female,2.0,25-29,Female,25-29
+2023 - 7,2,60,25-29 Female,2.0,25-29,Female,25-29
+2023 - 6,1,1,25-29 Female,4.0,25-29,Female,25-29
+2023 - 6,1,4,25-29 Female,11.0,25-29,Female,25-29
+2023 - 6,1,9,25-29 Female,2.0,25-29,Female,25-29
+2023 - 6,1,3,25-29 Female,2.0,25-29,Female,25-29
+2023 - 6,1,10,25-29 Female,2.0,25-29,Female,25-29
+2023 - 6,1,5,25-29 Female,1.0,25-29,Female,25-29
+2023 - 6,1,17,25-29 Female,1.0,25-29,Female,25-29
+2023 - 6,1,8,25-29 Female,5.0,25-29,Female,25-29
+2023 - 6,2,12,25-29 Female,9.0,25-29,Female,25-29
+2023 - 6,2,16,25-29 Female,1.0,25-29,Female,25-29
+2023 - 6,2,15,25-29 Female,1.0,25-29,Female,25-29
+2023 - 6,2,11,25-29 Female,1.0,25-29,Female,25-29
+2023 - 6,2,17,25-29 Female,1.0,25-29,Female,25-29
+2023 - 6,2,14,25-29 Female,2.0,25-29,Female,25-29
+2023 - 11,1,4,25-29 Female,9.0,25-29,Female,25-29
+2023 - 11,1,83,25-29 Female,1.0,25-29,Female,25-29
+2023 - 11,1,6,25-29 Female,6.0,25-29,Female,25-29
+2023 - 11,1,1,25-29 Female,9.0,25-29,Female,25-29
+2023 - 11,1,48,25-29 Female,4.0,25-29,Female,25-29
+2023 - 11,1,84,25-29 Female,1.0,25-29,Female,25-29
+2023 - 11,1,3,25-29 Female,3.0,25-29,Female,25-29
+2023 - 11,2,11,25-29 Female,1.0,25-29,Female,25-29
+2023 - 11,2,59,25-29 Female,3.0,25-29,Female,25-29
+2023 - 11,2,36,25-29 Female,3.0,25-29,Female,25-29
+2023 - 11,2,12,25-29 Female,4.0,25-29,Female,25-29
+2023 - 10,1,1,25-29 Female,5.0,25-29,Female,25-29
+2023 - 10,1,6,25-29 Female,6.0,25-29,Female,25-29
+2023 - 10,1,3,25-29 Female,1.0,25-29,Female,25-29
+2023 - 10,1,4,25-29 Female,4.0,25-29,Female,25-29
+2023 - 10,1,7,25-29 Female,4.0,25-29,Female,25-29
+2023 - 10,1,48,25-29 Female,3.0,25-29,Female,25-29
+2023 - 10,1,10,25-29 Female,2.0,25-29,Female,25-29
+2023 - 10,1,8,25-29 Female,3.0,25-29,Female,25-29
+2023 - 10,1,5,25-29 Female,2.0,25-29,Female,25-29
+2023 - 10,1,17,25-29 Female,4.0,25-29,Female,25-29
+2023 - 10,2,49,25-29 Female,1.0,25-29,Female,25-29
+2023 - 10,2,12,25-29 Female,4.0,25-29,Female,25-29
+2023 - 10,2,11,25-29 Female,3.0,25-29,Female,25-29
+2023 - 10,2,17,25-29 Female,4.0,25-29,Female,25-29
+2023 - 10,2,16,25-29 Female,1.0,25-29,Female,25-29
+2023 - 9,1,1,25-29 Female,4.0,25-29,Female,25-29
+2023 - 9,1,6,25-29 Female,1.0,25-29,Female,25-29
+2023 - 9,1,3,25-29 Female,1.0,25-29,Female,25-29
+2023 - 9,1,4,25-29 Female,3.0,25-29,Female,25-29
+2023 - 9,1,7,25-29 Female,5.0,25-29,Female,25-29
+2023 - 9,1,10,25-29 Female,1.0,25-29,Female,25-29
+2023 - 9,1,8,25-29 Female,2.0,25-29,Female,25-29
+2023 - 9,1,48,25-29 Female,2.0,25-29,Female,25-29
+2023 - 9,1,5,25-29 Female,1.0,25-29,Female,25-29
+2023 - 9,2,35,25-29 Female,0.0,25-29,Female,25-29
+2023 - 9,2,12,25-29 Female,4.0,25-29,Female,25-29
+2023 - 9,2,11,25-29 Female,1.0,25-29,Female,25-29
+2023 - 9,2,17,25-29 Female,0.0,25-29,Female,25-29
+2023 - 9,2,49,25-29 Female,2.0,25-29,Female,25-29
+2023 - 9,2,95,25-29 Female,0.0,25-29,Female,25-29
+2023 - 9,2,15,25-29 Female,0.0,25-29,Female,25-29
+2023 - 9,2,16,25-29 Female,1.0,25-29,Female,25-29
+2023 - 9,2,51,25-29 Female,0.0,25-29,Female,25-29
+2023 - 9,2,14,25-29 Female,0.0,25-29,Female,25-29
+2023 - 4,1,2,30-34 Male,13.0,30-34,Male,30-34
+2023 - 4,1,6,30-34 Male,1.0,30-34,Male,30-34
+2023 - 4,1,7,30-34 Male,2.0,30-34,Male,30-34
+2023 - 4,1,10,30-34 Male,1.0,30-34,Male,30-34
+2023 - 8,1,1,30-34 Male,2.0,30-34,Male,30-34
+2023 - 8,1,3,30-34 Male,1.0,30-34,Male,30-34
+2023 - 8,1,9,30-34 Male,1.0,30-34,Male,30-34
+2023 - 8,1,4,30-34 Male,5.0,30-34,Male,30-34
+2023 - 8,1,8,30-34 Male,1.0,30-34,Male,30-34
+2023 - 8,1,33,30-34 Male,2.0,30-34,Male,30-34
+2023 - 8,1,17,30-34 Male,1.0,30-34,Male,30-34
+2023 - 8,2,34,30-34 Male,2.0,30-34,Male,30-34
+2023 - 8,2,12,30-34 Male,2.0,30-34,Male,30-34
+2023 - 8,2,17,30-34 Male,2.0,30-34,Male,30-34
+2023 - 8,2,36,30-34 Male,3.0,30-34,Male,30-34
+2023 - 8,2,37,30-34 Male,1.0,30-34,Male,30-34
+2023 - 8,2,38,30-34 Male,1.0,30-34,Male,30-34
+2023 - 8,2,39,30-34 Male,2.0,30-34,Male,30-34
+2023 - 8,3,44,30-34 Male,1.0,30-34,Male,30-34
+2023 - 12,1,1,30-34 Male,4.0,30-34,Male,30-34
+2023 - 12,1,6,30-34 Male,5.0,30-34,Male,30-34
+2023 - 12,1,3,30-34 Male,4.0,30-34,Male,30-34
+2023 - 12,1,4,30-34 Male,5.0,30-34,Male,30-34
+2023 - 12,1,7,30-34 Male,2.0,30-34,Male,30-34
+2023 - 12,1,5,30-34 Male,1.0,30-34,Male,30-34
+2023 - 12,1,10,30-34 Male,1.0,30-34,Male,30-34
+2023 - 12,1,17,30-34 Male,2.0,30-34,Male,30-34
+2023 - 12,1,8,30-34 Male,1.0,30-34,Male,30-34
+2023 - 12,2,35,30-34 Male,1.0,30-34,Male,30-34
+2023 - 12,2,49,30-34 Male,3.0,30-34,Male,30-34
+2023 - 12,2,11,30-34 Male,2.0,30-34,Male,30-34
+2023 - 12,2,17,30-34 Male,2.0,30-34,Male,30-34
+2023 - 12,2,15,30-34 Male,1.0,30-34,Male,30-34
+2023 - 12,2,14,30-34 Male,1.0,30-34,Male,30-34
+2023 - 7,1,1,30-34 Male,2.0,30-34,Male,30-34
+2023 - 7,1,4,30-34 Male,5.0,30-34,Male,30-34
+2023 - 7,1,7,30-34 Male,1.0,30-34,Male,30-34
+2023 - 7,1,8,30-34 Male,1.0,30-34,Male,30-34
+2023 - 7,1,10,30-34 Male,2.0,30-34,Male,30-34
+2023 - 7,1,33,30-34 Male,1.0,30-34,Male,30-34
+2023 - 7,1,5,30-34 Male,2.0,30-34,Male,30-34
+2023 - 7,1,17,30-34 Male,6.0,30-34,Male,30-34
+2023 - 7,2,59,30-34 Male,2.0,30-34,Male,30-34
+2023 - 7,2,11,30-34 Male,1.0,30-34,Male,30-34
+2023 - 7,2,12,30-34 Male,2.0,30-34,Male,30-34
+2023 - 7,2,17,30-34 Male,6.0,30-34,Male,30-34
+2023 - 7,2,60,30-34 Male,1.0,30-34,Male,30-34
+2023 - 7,2,62,30-34 Male,1.0,30-34,Male,30-34
+2023 - 7,2,63,30-34 Male,2.0,30-34,Male,30-34
+2023 - 6,1,1,30-34 Male,1.0,30-34,Male,30-34
+2023 - 6,1,4,30-34 Male,4.0,30-34,Male,30-34
+2023 - 6,1,9,30-34 Male,3.0,30-34,Male,30-34
+2023 - 6,1,3,30-34 Male,1.0,30-34,Male,30-34
+2023 - 6,1,7,30-34 Male,1.0,30-34,Male,30-34
+2023 - 6,1,17,30-34 Male,2.0,30-34,Male,30-34
+2023 - 6,1,8,30-34 Male,4.0,30-34,Male,30-34
+2023 - 6,2,12,30-34 Male,1.0,30-34,Male,30-34
+2023 - 6,2,16,30-34 Male,1.0,30-34,Male,30-34
+2023 - 6,2,36,30-34 Male,1.0,30-34,Male,30-34
+2023 - 6,2,17,30-34 Male,2.0,30-34,Male,30-34
+2023 - 6,2,75,30-34 Male,3.0,30-34,Male,30-34
+2023 - 11,1,4,30-34 Male,5.0,30-34,Male,30-34
+2023 - 11,1,83,30-34 Male,2.0,30-34,Male,30-34
+2023 - 11,1,6,30-34 Male,3.0,30-34,Male,30-34
+2023 - 11,1,1,30-34 Male,5.0,30-34,Male,30-34
+2023 - 11,1,17,30-34 Male,2.0,30-34,Male,30-34
+2023 - 11,2,11,30-34 Male,1.0,30-34,Male,30-34
+2023 - 11,2,14,30-34 Male,1.0,30-34,Male,30-34
+2023 - 11,2,12,30-34 Male,2.0,30-34,Male,30-34
+2023 - 11,3,52,30-34 Male,2.0,30-34,Male,30-34
+2023 - 10,1,1,30-34 Male,1.0,30-34,Male,30-34
+2023 - 10,1,6,30-34 Male,1.0,30-34,Male,30-34
+2023 - 10,1,4,30-34 Male,2.0,30-34,Male,30-34
+2023 - 10,1,7,30-34 Male,2.0,30-34,Male,30-34
+2023 - 10,1,10,30-34 Male,1.0,30-34,Male,30-34
+2023 - 10,1,8,30-34 Male,2.0,30-34,Male,30-34
+2023 - 10,1,5,30-34 Male,1.0,30-34,Male,30-34
+2023 - 10,1,17,30-34 Male,3.0,30-34,Male,30-34
+2023 - 10,2,12,30-34 Male,2.0,30-34,Male,30-34
+2023 - 10,2,17,30-34 Male,3.0,30-34,Male,30-34
+2023 - 10,2,95,30-34 Male,1.0,30-34,Male,30-34
+2023 - 10,2,14,30-34 Male,1.0,30-34,Male,30-34
+2023 - 9,1,1,30-34 Male,1.0,30-34,Male,30-34
+2023 - 9,1,6,30-34 Male,2.0,30-34,Male,30-34
+2023 - 9,1,3,30-34 Male,2.0,30-34,Male,30-34
+2023 - 9,1,4,30-34 Male,3.0,30-34,Male,30-34
+2023 - 9,1,7,30-34 Male,2.0,30-34,Male,30-34
+2023 - 9,1,8,30-34 Male,4.0,30-34,Male,30-34
+2023 - 9,1,48,30-34 Male,3.0,30-34,Male,30-34
+2023 - 9,1,84,30-34 Male,1.0,30-34,Male,30-34
+2023 - 9,2,35,30-34 Male,0.0,30-34,Male,30-34
+2023 - 9,2,12,30-34 Male,2.0,30-34,Male,30-34
+2023 - 9,2,11,30-34 Male,0.0,30-34,Male,30-34
+2023 - 9,2,17,30-34 Male,1.0,30-34,Male,30-34
+2023 - 9,2,49,30-34 Male,1.0,30-34,Male,30-34
+2023 - 9,2,95,30-34 Male,0.0,30-34,Male,30-34
+2023 - 9,2,15,30-34 Male,0.0,30-34,Male,30-34
+2023 - 9,2,16,30-34 Male,0.0,30-34,Male,30-34
+2023 - 9,2,51,30-34 Male,0.0,30-34,Male,30-34
+2023 - 9,2,14,30-34 Male,0.0,30-34,Male,30-34
+2023 - 4,1,1,30-34 Female,2.0,30-34,Female,30-34
+2023 - 4,1,2,30-34 Female,44.0,30-34,Female,30-34
+2023 - 4,1,3,30-34 Female,1.0,30-34,Female,30-34
+2023 - 4,1,4,30-34 Female,6.0,30-34,Female,30-34
+2023 - 4,1,5,30-34 Female,1.0,30-34,Female,30-34
+2023 - 4,1,7,30-34 Female,2.0,30-34,Female,30-34
+2023 - 4,1,8,30-34 Female,3.0,30-34,Female,30-34
+2023 - 4,1,10,30-34 Female,5.0,30-34,Female,30-34
+2023 - 4,2,11,30-34 Female,2.0,30-34,Female,30-34
+2023 - 4,2,12,30-34 Female,8.0,30-34,Female,30-34
+2023 - 4,2,15,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,1,1,30-34 Female,2.0,30-34,Female,30-34
+2023 - 8,1,9,30-34 Female,2.0,30-34,Female,30-34
+2023 - 8,1,4,30-34 Female,5.0,30-34,Female,30-34
+2023 - 8,1,7,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,1,8,30-34 Female,3.0,30-34,Female,30-34
+2023 - 8,1,5,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,1,10,30-34 Female,3.0,30-34,Female,30-34
+2023 - 8,1,33,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,2,34,30-34 Female,2.0,30-34,Female,30-34
+2023 - 8,2,12,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,2,15,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,2,37,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,2,38,30-34 Female,1.0,30-34,Female,30-34
+2023 - 8,3,42,30-34 Female,1.0,30-34,Female,30-34
+2023 - 12,1,1,30-34 Female,4.0,30-34,Female,30-34
+2023 - 12,1,6,30-34 Female,5.0,30-34,Female,30-34
+2023 - 12,1,3,30-34 Female,2.0,30-34,Female,30-34
+2023 - 12,1,4,30-34 Female,7.0,30-34,Female,30-34
+2023 - 12,1,7,30-34 Female,2.0,30-34,Female,30-34
+2023 - 12,1,10,30-34 Female,1.0,30-34,Female,30-34
+2023 - 12,1,48,30-34 Female,1.0,30-34,Female,30-34
+2023 - 12,1,8,30-34 Female,7.0,30-34,Female,30-34
+2023 - 12,2,49,30-34 Female,2.0,30-34,Female,30-34
+2023 - 12,2,12,30-34 Female,2.0,30-34,Female,30-34
+2023 - 12,2,50,30-34 Female,1.0,30-34,Female,30-34
+2023 - 12,2,14,30-34 Female,2.0,30-34,Female,30-34
+2023 - 12,2,16,30-34 Female,1.0,30-34,Female,30-34
+2023 - 7,1,1,30-34 Female,3.0,30-34,Female,30-34
+2023 - 7,1,3,30-34 Female,2.0,30-34,Female,30-34
+2023 - 7,1,4,30-34 Female,3.0,30-34,Female,30-34
+2023 - 7,1,7,30-34 Female,2.0,30-34,Female,30-34
+2023 - 7,1,8,30-34 Female,5.0,30-34,Female,30-34
+2023 - 7,1,10,30-34 Female,2.0,30-34,Female,30-34
+2023 - 7,1,5,30-34 Female,1.0,30-34,Female,30-34
+2023 - 7,1,17,30-34 Female,1.0,30-34,Female,30-34
+2023 - 7,2,11,30-34 Female,4.0,30-34,Female,30-34
+2023 - 7,2,12,30-34 Female,3.0,30-34,Female,30-34
+2023 - 7,2,15,30-34 Female,2.0,30-34,Female,30-34
+2023 - 7,2,17,30-34 Female,1.0,30-34,Female,30-34
+2023 - 6,1,1,30-34 Female,2.0,30-34,Female,30-34
+2023 - 6,1,4,30-34 Female,10.0,30-34,Female,30-34
+2023 - 6,1,9,30-34 Female,1.0,30-34,Female,30-34
+2023 - 6,1,10,30-34 Female,3.0,30-34,Female,30-34
+2023 - 6,1,5,30-34 Female,2.0,30-34,Female,30-34
+2023 - 6,1,8,30-34 Female,7.0,30-34,Female,30-34
+2023 - 6,2,12,30-34 Female,6.0,30-34,Female,30-34
+2023 - 6,2,16,30-34 Female,1.0,30-34,Female,30-34
+2023 - 6,2,15,30-34 Female,1.0,30-34,Female,30-34
+2023 - 6,2,11,30-34 Female,1.0,30-34,Female,30-34
+2023 - 6,3,78,30-34 Female,1.0,30-34,Female,30-34
+2023 - 11,1,4,30-34 Female,7.0,30-34,Female,30-34
+2023 - 11,1,83,30-34 Female,4.0,30-34,Female,30-34
+2023 - 11,1,6,30-34 Female,1.0,30-34,Female,30-34
+2023 - 11,1,7,30-34 Female,4.0,30-34,Female,30-34
+2023 - 11,1,1,30-34 Female,5.0,30-34,Female,30-34
+2023 - 11,1,5,30-34 Female,2.0,30-34,Female,30-34
+2023 - 11,1,48,30-34 Female,2.0,30-34,Female,30-34
+2023 - 11,1,3,30-34 Female,3.0,30-34,Female,30-34
+2023 - 11,2,15,30-34 Female,1.0,30-34,Female,30-34
+2023 - 11,2,11,30-34 Female,2.0,30-34,Female,30-34
+2023 - 11,2,59,30-34 Female,1.0,30-34,Female,30-34
+2023 - 11,2,36,30-34 Female,2.0,30-34,Female,30-34
+2023 - 11,2,12,30-34 Female,3.0,30-34,Female,30-34
+2023 - 10,1,1,30-34 Female,2.0,30-34,Female,30-34
+2023 - 10,1,6,30-34 Female,6.0,30-34,Female,30-34
+2023 - 10,1,3,30-34 Female,2.0,30-34,Female,30-34
+2023 - 10,1,4,30-34 Female,7.0,30-34,Female,30-34
+2023 - 10,1,7,30-34 Female,3.0,30-34,Female,30-34
+2023 - 10,1,48,30-34 Female,4.0,30-34,Female,30-34
+2023 - 10,1,10,30-34 Female,2.0,30-34,Female,30-34
+2023 - 10,1,8,30-34 Female,5.0,30-34,Female,30-34
+2023 - 10,2,49,30-34 Female,2.0,30-34,Female,30-34
+2023 - 10,2,12,30-34 Female,6.0,30-34,Female,30-34
+2023 - 10,2,11,30-34 Female,1.0,30-34,Female,30-34
+2023 - 9,1,1,30-34 Female,3.0,30-34,Female,30-34
+2023 - 9,1,3,30-34 Female,2.0,30-34,Female,30-34
+2023 - 9,1,4,30-34 Female,3.0,30-34,Female,30-34
+2023 - 9,1,7,30-34 Female,4.0,30-34,Female,30-34
+2023 - 9,1,10,30-34 Female,4.0,30-34,Female,30-34
+2023 - 9,1,8,30-34 Female,4.0,30-34,Female,30-34
+2023 - 9,1,48,30-34 Female,1.0,30-34,Female,30-34
+2023 - 9,1,84,30-34 Female,2.0,30-34,Female,30-34
+2023 - 9,2,35,30-34 Female,0.0,30-34,Female,30-34
+2023 - 9,2,12,30-34 Female,1.0,30-34,Female,30-34
+2023 - 9,2,11,30-34 Female,2.0,30-34,Female,30-34
+2023 - 9,2,17,30-34 Female,1.0,30-34,Female,30-34
+2023 - 9,2,49,30-34 Female,0.0,30-34,Female,30-34
+2023 - 9,2,95,30-34 Female,0.0,30-34,Female,30-34
+2023 - 9,2,15,30-34 Female,0.0,30-34,Female,30-34
+2023 - 9,2,16,30-34 Female,1.0,30-34,Female,30-34
+2023 - 9,2,51,30-34 Female,0.0,30-34,Female,30-34
+2023 - 9,2,14,30-34 Female,0.0,30-34,Female,30-34
+2023 - 4,1,1,35-39 Male,3.0,35-39,Male,35-39
+2023 - 4,1,2,35-39 Male,9.0,35-39,Male,35-39
+2023 - 4,1,4,35-39 Male,3.0,35-39,Male,35-39
+2023 - 4,1,5,35-39 Male,1.0,35-39,Male,35-39
+2023 - 4,1,8,35-39 Male,1.0,35-39,Male,35-39
+2023 - 4,1,10,35-39 Male,1.0,35-39,Male,35-39
+2023 - 4,2,12,35-39 Male,2.0,35-39,Male,35-39
+2023 - 4,2,17,35-39 Male,1.0,35-39,Male,35-39
+2023 - 4,2,20,35-39 Male,1.0,35-39,Male,35-39
+2023 - 8,1,3,35-39 Male,2.0,35-39,Male,35-39
+2023 - 8,1,4,35-39 Male,3.0,35-39,Male,35-39
+2023 - 8,1,5,35-39 Male,1.0,35-39,Male,35-39
+2023 - 8,1,10,35-39 Male,1.0,35-39,Male,35-39
+2023 - 8,1,33,35-39 Male,1.0,35-39,Male,35-39
+2023 - 8,1,17,35-39 Male,3.0,35-39,Male,35-39
+2023 - 8,2,34,35-39 Male,2.0,35-39,Male,35-39
+2023 - 8,2,12,35-39 Male,2.0,35-39,Male,35-39
+2023 - 8,2,17,35-39 Male,4.0,35-39,Male,35-39
+2023 - 8,2,15,35-39 Male,1.0,35-39,Male,35-39
+2023 - 8,2,37,35-39 Male,1.0,35-39,Male,35-39
+2023 - 8,2,16,35-39 Male,1.0,35-39,Male,35-39
+2023 - 8,3,22,35-39 Male,1.0,35-39,Male,35-39
+2023 - 12,1,1,35-39 Male,2.0,35-39,Male,35-39
+2023 - 12,1,3,35-39 Male,1.0,35-39,Male,35-39
+2023 - 12,1,4,35-39 Male,1.0,35-39,Male,35-39
+2023 - 12,1,7,35-39 Male,2.0,35-39,Male,35-39
+2023 - 12,1,10,35-39 Male,2.0,35-39,Male,35-39
+2023 - 12,1,17,35-39 Male,1.0,35-39,Male,35-39
+2023 - 12,1,8,35-39 Male,2.0,35-39,Male,35-39
+2023 - 12,2,17,35-39 Male,2.0,35-39,Male,35-39
+2023 - 12,2,50,35-39 Male,2.0,35-39,Male,35-39
+2023 - 7,1,1,35-39 Male,1.0,35-39,Male,35-39
+2023 - 7,1,4,35-39 Male,1.0,35-39,Male,35-39
+2023 - 7,1,7,35-39 Male,2.0,35-39,Male,35-39
+2023 - 7,1,8,35-39 Male,1.0,35-39,Male,35-39
+2023 - 7,1,17,35-39 Male,3.0,35-39,Male,35-39
+2023 - 7,2,59,35-39 Male,1.0,35-39,Male,35-39
+2023 - 7,2,17,35-39 Male,2.0,35-39,Male,35-39
+2023 - 7,2,63,35-39 Male,1.0,35-39,Male,35-39
+2023 - 6,1,4,35-39 Male,2.0,35-39,Male,35-39
+2023 - 6,1,9,35-39 Male,1.0,35-39,Male,35-39
+2023 - 6,1,7,35-39 Male,2.0,35-39,Male,35-39
+2023 - 6,1,10,35-39 Male,2.0,35-39,Male,35-39
+2023 - 6,1,5,35-39 Male,2.0,35-39,Male,35-39
+2023 - 6,2,11,35-39 Male,1.0,35-39,Male,35-39
+2023 - 6,2,14,35-39 Male,1.0,35-39,Male,35-39
+2023 - 6,2,75,35-39 Male,1.0,35-39,Male,35-39
+2023 - 11,1,4,35-39 Male,6.0,35-39,Male,35-39
+2023 - 11,1,6,35-39 Male,1.0,35-39,Male,35-39
+2023 - 11,1,7,35-39 Male,4.0,35-39,Male,35-39
+2023 - 11,1,1,35-39 Male,1.0,35-39,Male,35-39
+2023 - 11,1,5,35-39 Male,1.0,35-39,Male,35-39
+2023 - 11,2,11,35-39 Male,1.0,35-39,Male,35-39
+2023 - 11,2,36,35-39 Male,1.0,35-39,Male,35-39
+2023 - 11,2,12,35-39 Male,1.0,35-39,Male,35-39
+2023 - 10,1,6,35-39 Male,4.0,35-39,Male,35-39
+2023 - 10,1,3,35-39 Male,1.0,35-39,Male,35-39
+2023 - 10,1,4,35-39 Male,3.0,35-39,Male,35-39
+2023 - 10,1,7,35-39 Male,2.0,35-39,Male,35-39
+2023 - 10,1,10,35-39 Male,5.0,35-39,Male,35-39
+2023 - 10,1,8,35-39 Male,2.0,35-39,Male,35-39
+2023 - 10,2,15,35-39 Male,1.0,35-39,Male,35-39
+2023 - 10,2,16,35-39 Male,1.0,35-39,Male,35-39
+2023 - 9,1,1,35-39 Male,2.0,35-39,Male,35-39
+2023 - 9,1,6,35-39 Male,1.0,35-39,Male,35-39
+2023 - 9,1,7,35-39 Male,2.0,35-39,Male,35-39
+2023 - 9,1,8,35-39 Male,2.0,35-39,Male,35-39
+2023 - 9,1,5,35-39 Male,1.0,35-39,Male,35-39
+2023 - 9,2,35,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,12,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,11,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,17,35-39 Male,3.0,35-39,Male,35-39
+2023 - 9,2,49,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,95,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,15,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,16,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,51,35-39 Male,0.0,35-39,Male,35-39
+2023 - 9,2,14,35-39 Male,0.0,35-39,Male,35-39
+2023 - 4,1,2,35-39 Female,34.0,35-39,Female,35-39
+2023 - 4,1,3,35-39 Female,1.0,35-39,Female,35-39
+2023 - 4,1,4,35-39 Female,5.0,35-39,Female,35-39
+2023 - 4,1,5,35-39 Female,2.0,35-39,Female,35-39
+2023 - 4,1,6,35-39 Female,1.0,35-39,Female,35-39
+2023 - 4,1,7,35-39 Female,2.0,35-39,Female,35-39
+2023 - 4,1,8,35-39 Female,5.0,35-39,Female,35-39
+2023 - 4,1,9,35-39 Female,2.0,35-39,Female,35-39
+2023 - 4,1,10,35-39 Female,3.0,35-39,Female,35-39
+2023 - 4,2,11,35-39 Female,2.0,35-39,Female,35-39
+2023 - 4,2,12,35-39 Female,6.0,35-39,Female,35-39
+2023 - 4,2,14,35-39 Female,1.0,35-39,Female,35-39
+2023 - 4,2,15,35-39 Female,3.0,35-39,Female,35-39
+2023 - 4,2,16,35-39 Female,1.0,35-39,Female,35-39
+2023 - 4,2,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,1,4,35-39 Female,3.0,35-39,Female,35-39
+2023 - 8,1,7,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,1,8,35-39 Female,4.0,35-39,Female,35-39
+2023 - 8,1,5,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,1,10,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,1,33,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,2,34,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,2,12,35-39 Female,3.0,35-39,Female,35-39
+2023 - 8,2,15,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,2,37,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,2,38,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,2,16,35-39 Female,1.0,35-39,Female,35-39
+2023 - 8,2,39,35-39 Female,1.0,35-39,Female,35-39
+2023 - 12,1,1,35-39 Female,1.0,35-39,Female,35-39
+2023 - 12,1,6,35-39 Female,5.0,35-39,Female,35-39
+2023 - 12,1,4,35-39 Female,4.0,35-39,Female,35-39
+2023 - 12,1,7,35-39 Female,4.0,35-39,Female,35-39
+2023 - 12,1,5,35-39 Female,1.0,35-39,Female,35-39
+2023 - 12,1,10,35-39 Female,2.0,35-39,Female,35-39
+2023 - 12,1,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 12,1,8,35-39 Female,3.0,35-39,Female,35-39
+2023 - 12,2,12,35-39 Female,3.0,35-39,Female,35-39
+2023 - 12,2,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 12,2,50,35-39 Female,2.0,35-39,Female,35-39
+2023 - 12,2,14,35-39 Female,1.0,35-39,Female,35-39
+2023 - 7,1,1,35-39 Female,3.0,35-39,Female,35-39
+2023 - 7,1,7,35-39 Female,2.0,35-39,Female,35-39
+2023 - 7,1,6,35-39 Female,1.0,35-39,Female,35-39
+2023 - 7,1,8,35-39 Female,3.0,35-39,Female,35-39
+2023 - 7,1,10,35-39 Female,2.0,35-39,Female,35-39
+2023 - 7,1,5,35-39 Female,2.0,35-39,Female,35-39
+2023 - 7,2,11,35-39 Female,2.0,35-39,Female,35-39
+2023 - 7,2,12,35-39 Female,6.0,35-39,Female,35-39
+2023 - 7,2,15,35-39 Female,1.0,35-39,Female,35-39
+2023 - 7,2,62,35-39 Female,1.0,35-39,Female,35-39
+2023 - 7,2,63,35-39 Female,1.0,35-39,Female,35-39
+2023 - 6,1,1,35-39 Female,2.0,35-39,Female,35-39
+2023 - 6,1,4,35-39 Female,4.0,35-39,Female,35-39
+2023 - 6,1,9,35-39 Female,2.0,35-39,Female,35-39
+2023 - 6,1,7,35-39 Female,2.0,35-39,Female,35-39
+2023 - 6,1,10,35-39 Female,2.0,35-39,Female,35-39
+2023 - 6,1,5,35-39 Female,1.0,35-39,Female,35-39
+2023 - 6,1,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 6,1,8,35-39 Female,4.0,35-39,Female,35-39
+2023 - 6,2,12,35-39 Female,8.0,35-39,Female,35-39
+2023 - 6,2,16,35-39 Female,1.0,35-39,Female,35-39
+2023 - 6,2,15,35-39 Female,3.0,35-39,Female,35-39
+2023 - 6,2,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 6,2,14,35-39 Female,1.0,35-39,Female,35-39
+2023 - 11,1,4,35-39 Female,4.0,35-39,Female,35-39
+2023 - 11,1,6,35-39 Female,6.0,35-39,Female,35-39
+2023 - 11,1,7,35-39 Female,1.0,35-39,Female,35-39
+2023 - 11,1,1,35-39 Female,1.0,35-39,Female,35-39
+2023 - 11,1,5,35-39 Female,1.0,35-39,Female,35-39
+2023 - 11,1,48,35-39 Female,1.0,35-39,Female,35-39
+2023 - 11,1,84,35-39 Female,3.0,35-39,Female,35-39
+2023 - 11,2,59,35-39 Female,3.0,35-39,Female,35-39
+2023 - 11,2,36,35-39 Female,2.0,35-39,Female,35-39
+2023 - 11,2,12,35-39 Female,1.0,35-39,Female,35-39
+2023 - 10,1,1,35-39 Female,3.0,35-39,Female,35-39
+2023 - 10,1,6,35-39 Female,1.0,35-39,Female,35-39
+2023 - 10,1,3,35-39 Female,1.0,35-39,Female,35-39
+2023 - 10,1,4,35-39 Female,3.0,35-39,Female,35-39
+2023 - 10,1,7,35-39 Female,3.0,35-39,Female,35-39
+2023 - 10,1,10,35-39 Female,7.0,35-39,Female,35-39
+2023 - 10,1,8,35-39 Female,4.0,35-39,Female,35-39
+2023 - 10,1,5,35-39 Female,2.0,35-39,Female,35-39
+2023 - 10,1,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 10,2,12,35-39 Female,3.0,35-39,Female,35-39
+2023 - 10,2,11,35-39 Female,2.0,35-39,Female,35-39
+2023 - 10,2,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 10,2,15,35-39 Female,1.0,35-39,Female,35-39
+2023 - 10,2,16,35-39 Female,1.0,35-39,Female,35-39
+2023 - 10,2,14,35-39 Female,1.0,35-39,Female,35-39
+2023 - 9,1,1,35-39 Female,1.0,35-39,Female,35-39
+2023 - 9,1,6,35-39 Female,1.0,35-39,Female,35-39
+2023 - 9,1,3,35-39 Female,2.0,35-39,Female,35-39
+2023 - 9,1,4,35-39 Female,3.0,35-39,Female,35-39
+2023 - 9,1,10,35-39 Female,4.0,35-39,Female,35-39
+2023 - 9,1,8,35-39 Female,7.0,35-39,Female,35-39
+2023 - 9,1,48,35-39 Female,1.0,35-39,Female,35-39
+2023 - 9,2,35,35-39 Female,0.0,35-39,Female,35-39
+2023 - 9,2,12,35-39 Female,4.0,35-39,Female,35-39
+2023 - 9,2,11,35-39 Female,2.0,35-39,Female,35-39
+2023 - 9,2,17,35-39 Female,1.0,35-39,Female,35-39
+2023 - 9,2,49,35-39 Female,0.0,35-39,Female,35-39
+2023 - 9,2,95,35-39 Female,0.0,35-39,Female,35-39
+2023 - 9,2,15,35-39 Female,2.0,35-39,Female,35-39
+2023 - 9,2,16,35-39 Female,0.0,35-39,Female,35-39
+2023 - 9,2,51,35-39 Female,0.0,35-39,Female,35-39
+2023 - 9,2,14,35-39 Female,0.0,35-39,Female,35-39
+2023 - 4,1,1,40-44 Male,1.0,40-44,Male,40-44
+2023 - 4,1,2,40-44 Male,3.0,40-44,Male,40-44
+2023 - 4,1,3,40-44 Male,1.0,40-44,Male,40-44
+2023 - 4,1,4,40-44 Male,2.0,40-44,Male,40-44
+2023 - 4,1,6,40-44 Male,2.0,40-44,Male,40-44
+2023 - 4,1,7,40-44 Male,4.0,40-44,Male,40-44
+2023 - 4,1,10,40-44 Male,2.0,40-44,Male,40-44
+2023 - 4,2,12,40-44 Male,1.0,40-44,Male,40-44
+2023 - 4,2,15,40-44 Male,2.0,40-44,Male,40-44
+2023 - 4,2,17,40-44 Male,2.0,40-44,Male,40-44
+2023 - 4,3,23,40-44 Male,1.0,40-44,Male,40-44
+2023 - 8,1,1,40-44 Male,1.0,40-44,Male,40-44
+2023 - 8,1,4,40-44 Male,2.0,40-44,Male,40-44
+2023 - 8,1,8,40-44 Male,2.0,40-44,Male,40-44
+2023 - 8,1,10,40-44 Male,1.0,40-44,Male,40-44
+2023 - 8,1,17,40-44 Male,2.0,40-44,Male,40-44
+2023 - 8,2,34,40-44 Male,1.0,40-44,Male,40-44
+2023 - 8,2,17,40-44 Male,3.0,40-44,Male,40-44
+2023 - 8,2,37,40-44 Male,1.0,40-44,Male,40-44
+2023 - 8,2,39,40-44 Male,1.0,40-44,Male,40-44
+2023 - 12,1,1,40-44 Male,4.0,40-44,Male,40-44
+2023 - 12,1,6,40-44 Male,1.0,40-44,Male,40-44
+2023 - 12,1,4,40-44 Male,3.0,40-44,Male,40-44
+2023 - 12,1,7,40-44 Male,3.0,40-44,Male,40-44
+2023 - 12,1,10,40-44 Male,5.0,40-44,Male,40-44
+2023 - 12,1,17,40-44 Male,1.0,40-44,Male,40-44
+2023 - 12,1,48,40-44 Male,1.0,40-44,Male,40-44
+2023 - 12,1,8,40-44 Male,5.0,40-44,Male,40-44
+2023 - 12,2,49,40-44 Male,1.0,40-44,Male,40-44
+2023 - 12,2,12,40-44 Male,1.0,40-44,Male,40-44
+2023 - 12,2,17,40-44 Male,1.0,40-44,Male,40-44
+2023 - 12,2,50,40-44 Male,2.0,40-44,Male,40-44
+2023 - 12,3,23,40-44 Male,1.0,40-44,Male,40-44
+2023 - 7,1,1,40-44 Male,3.0,40-44,Male,40-44
+2023 - 7,1,3,40-44 Male,1.0,40-44,Male,40-44
+2023 - 7,1,4,40-44 Male,2.0,40-44,Male,40-44
+2023 - 7,1,7,40-44 Male,2.0,40-44,Male,40-44
+2023 - 7,1,8,40-44 Male,3.0,40-44,Male,40-44
+2023 - 7,1,10,40-44 Male,1.0,40-44,Male,40-44
+2023 - 7,1,5,40-44 Male,1.0,40-44,Male,40-44
+2023 - 7,2,59,40-44 Male,2.0,40-44,Male,40-44
+2023 - 7,2,11,40-44 Male,3.0,40-44,Male,40-44
+2023 - 7,2,12,40-44 Male,2.0,40-44,Male,40-44
+2023 - 7,3,64,40-44 Male,1.0,40-44,Male,40-44
+2023 - 6,1,1,40-44 Male,4.0,40-44,Male,40-44
+2023 - 6,1,4,40-44 Male,5.0,40-44,Male,40-44
+2023 - 6,1,9,40-44 Male,1.0,40-44,Male,40-44
+2023 - 6,1,3,40-44 Male,1.0,40-44,Male,40-44
+2023 - 6,1,7,40-44 Male,5.0,40-44,Male,40-44
+2023 - 6,1,10,40-44 Male,3.0,40-44,Male,40-44
+2023 - 6,1,17,40-44 Male,1.0,40-44,Male,40-44
+2023 - 6,2,12,40-44 Male,1.0,40-44,Male,40-44
+2023 - 6,2,11,40-44 Male,1.0,40-44,Male,40-44
+2023 - 6,2,36,40-44 Male,2.0,40-44,Male,40-44
+2023 - 11,1,4,40-44 Male,1.0,40-44,Male,40-44
+2023 - 11,1,83,40-44 Male,1.0,40-44,Male,40-44
+2023 - 11,1,6,40-44 Male,2.0,40-44,Male,40-44
+2023 - 11,1,7,40-44 Male,3.0,40-44,Male,40-44
+2023 - 11,1,1,40-44 Male,3.0,40-44,Male,40-44
+2023 - 11,1,48,40-44 Male,1.0,40-44,Male,40-44
+2023 - 11,1,3,40-44 Male,1.0,40-44,Male,40-44
+2023 - 11,2,11,40-44 Male,1.0,40-44,Male,40-44
+2023 - 11,2,59,40-44 Male,1.0,40-44,Male,40-44
+2023 - 11,2,14,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,1,1,40-44 Male,2.0,40-44,Male,40-44
+2023 - 10,1,6,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,1,3,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,1,4,40-44 Male,3.0,40-44,Male,40-44
+2023 - 10,1,7,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,1,48,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,1,10,40-44 Male,2.0,40-44,Male,40-44
+2023 - 10,1,8,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,1,17,40-44 Male,2.0,40-44,Male,40-44
+2023 - 10,2,49,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,2,11,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,2,15,40-44 Male,1.0,40-44,Male,40-44
+2023 - 10,3,23,40-44 Male,1.0,40-44,Male,40-44
+2023 - 9,1,1,40-44 Male,2.0,40-44,Male,40-44
+2023 - 9,1,6,40-44 Male,1.0,40-44,Male,40-44
+2023 - 9,1,3,40-44 Male,2.0,40-44,Male,40-44
+2023 - 9,1,7,40-44 Male,3.0,40-44,Male,40-44
+2023 - 9,1,10,40-44 Male,3.0,40-44,Male,40-44
+2023 - 9,1,8,40-44 Male,3.0,40-44,Male,40-44
+2023 - 9,1,84,40-44 Male,3.0,40-44,Male,40-44
+2023 - 9,1,5,40-44 Male,1.0,40-44,Male,40-44
+2023 - 9,2,35,40-44 Male,0.0,40-44,Male,40-44
+2023 - 9,2,12,40-44 Male,0.0,40-44,Male,40-44
+2023 - 9,2,11,40-44 Male,2.0,40-44,Male,40-44
+2023 - 9,2,17,40-44 Male,2.0,40-44,Male,40-44
+2023 - 9,2,49,40-44 Male,0.0,40-44,Male,40-44
+2023 - 9,2,95,40-44 Male,0.0,40-44,Male,40-44
+2023 - 9,2,15,40-44 Male,0.0,40-44,Male,40-44
+2023 - 9,2,16,40-44 Male,1.0,40-44,Male,40-44
+2023 - 9,2,51,40-44 Male,0.0,40-44,Male,40-44
+2023 - 9,2,14,40-44 Male,0.0,40-44,Male,40-44
+2023 - 9,3,52,40-44 Male,1.0,40-44,Male,40-44
+2023 - 4,1,2,40-44 Female,32.0,40-44,Female,40-44
+2023 - 4,1,4,40-44 Female,1.0,40-44,Female,40-44
+2023 - 4,1,7,40-44 Female,2.0,40-44,Female,40-44
+2023 - 4,1,8,40-44 Female,5.0,40-44,Female,40-44
+2023 - 4,1,10,40-44 Female,2.0,40-44,Female,40-44
+2023 - 4,2,11,40-44 Female,1.0,40-44,Female,40-44
+2023 - 4,2,12,40-44 Female,2.0,40-44,Female,40-44
+2023 - 4,2,14,40-44 Female,1.0,40-44,Female,40-44
+2023 - 4,2,15,40-44 Female,2.0,40-44,Female,40-44
+2023 - 8,1,1,40-44 Female,1.0,40-44,Female,40-44
+2023 - 8,1,3,40-44 Female,1.0,40-44,Female,40-44
+2023 - 8,1,9,40-44 Female,1.0,40-44,Female,40-44
+2023 - 8,1,4,40-44 Female,2.0,40-44,Female,40-44
+2023 - 8,1,7,40-44 Female,5.0,40-44,Female,40-44
+2023 - 8,1,8,40-44 Female,5.0,40-44,Female,40-44
+2023 - 8,1,10,40-44 Female,5.0,40-44,Female,40-44
+2023 - 8,1,33,40-44 Female,1.0,40-44,Female,40-44
+2023 - 8,2,12,40-44 Female,1.0,40-44,Female,40-44
+2023 - 8,2,15,40-44 Female,1.0,40-44,Female,40-44
+2023 - 8,2,37,40-44 Female,2.0,40-44,Female,40-44
+2023 - 8,2,38,40-44 Female,2.0,40-44,Female,40-44
+2023 - 8,2,39,40-44 Female,1.0,40-44,Female,40-44
+2023 - 8,3,21,40-44 Female,1.0,40-44,Female,40-44
+2023 - 12,1,1,40-44 Female,2.0,40-44,Female,40-44
+2023 - 12,1,6,40-44 Female,2.0,40-44,Female,40-44
+2023 - 12,1,3,40-44 Female,1.0,40-44,Female,40-44
+2023 - 12,1,4,40-44 Female,4.0,40-44,Female,40-44
+2023 - 12,1,5,40-44 Female,1.0,40-44,Female,40-44
+2023 - 12,1,10,40-44 Female,3.0,40-44,Female,40-44
+2023 - 12,1,8,40-44 Female,2.0,40-44,Female,40-44
+2023 - 12,2,11,40-44 Female,1.0,40-44,Female,40-44
+2023 - 12,2,12,40-44 Female,5.0,40-44,Female,40-44
+2023 - 12,2,50,40-44 Female,1.0,40-44,Female,40-44
+2023 - 12,2,16,40-44 Female,1.0,40-44,Female,40-44
+2023 - 7,1,1,40-44 Female,1.0,40-44,Female,40-44
+2023 - 7,1,3,40-44 Female,2.0,40-44,Female,40-44
+2023 - 7,1,4,40-44 Female,3.0,40-44,Female,40-44
+2023 - 7,1,7,40-44 Female,3.0,40-44,Female,40-44
+2023 - 7,1,6,40-44 Female,2.0,40-44,Female,40-44
+2023 - 7,1,8,40-44 Female,2.0,40-44,Female,40-44
+2023 - 7,1,10,40-44 Female,5.0,40-44,Female,40-44
+2023 - 7,1,17,40-44 Female,1.0,40-44,Female,40-44
+2023 - 7,2,59,40-44 Female,7.0,40-44,Female,40-44
+2023 - 7,2,11,40-44 Female,2.0,40-44,Female,40-44
+2023 - 7,2,12,40-44 Female,6.0,40-44,Female,40-44
+2023 - 7,2,60,40-44 Female,2.0,40-44,Female,40-44
+2023 - 7,2,61,40-44 Female,1.0,40-44,Female,40-44
+2023 - 7,2,62,40-44 Female,2.0,40-44,Female,40-44
+2023 - 6,1,4,40-44 Female,1.0,40-44,Female,40-44
+2023 - 6,1,3,40-44 Female,1.0,40-44,Female,40-44
+2023 - 6,1,7,40-44 Female,2.0,40-44,Female,40-44
+2023 - 6,1,73,40-44 Female,1.0,40-44,Female,40-44
+2023 - 6,1,10,40-44 Female,4.0,40-44,Female,40-44
+2023 - 6,1,5,40-44 Female,1.0,40-44,Female,40-44
+2023 - 6,1,8,40-44 Female,2.0,40-44,Female,40-44
+2023 - 6,2,12,40-44 Female,6.0,40-44,Female,40-44
+2023 - 6,2,16,40-44 Female,1.0,40-44,Female,40-44
+2023 - 6,2,36,40-44 Female,1.0,40-44,Female,40-44
+2023 - 6,2,14,40-44 Female,1.0,40-44,Female,40-44
+2023 - 6,2,75,40-44 Female,1.0,40-44,Female,40-44
+2023 - 11,1,4,40-44 Female,4.0,40-44,Female,40-44
+2023 - 11,1,83,40-44 Female,5.0,40-44,Female,40-44
+2023 - 11,1,6,40-44 Female,4.0,40-44,Female,40-44
+2023 - 11,1,7,40-44 Female,3.0,40-44,Female,40-44
+2023 - 11,1,1,40-44 Female,4.0,40-44,Female,40-44
+2023 - 11,1,17,40-44 Female,2.0,40-44,Female,40-44
+2023 - 11,1,5,40-44 Female,1.0,40-44,Female,40-44
+2023 - 11,1,3,40-44 Female,1.0,40-44,Female,40-44
+2023 - 11,2,11,40-44 Female,1.0,40-44,Female,40-44
+2023 - 11,2,59,40-44 Female,2.0,40-44,Female,40-44
+2023 - 11,2,12,40-44 Female,1.0,40-44,Female,40-44
+2023 - 11,3,86,40-44 Female,1.0,40-44,Female,40-44
+2023 - 10,1,1,40-44 Female,2.0,40-44,Female,40-44
+2023 - 10,1,6,40-44 Female,4.0,40-44,Female,40-44
+2023 - 10,1,3,40-44 Female,2.0,40-44,Female,40-44
+2023 - 10,1,4,40-44 Female,6.0,40-44,Female,40-44
+2023 - 10,1,7,40-44 Female,5.0,40-44,Female,40-44
+2023 - 10,1,48,40-44 Female,1.0,40-44,Female,40-44
+2023 - 10,1,10,40-44 Female,5.0,40-44,Female,40-44
+2023 - 10,1,8,40-44 Female,4.0,40-44,Female,40-44
+2023 - 10,1,5,40-44 Female,1.0,40-44,Female,40-44
+2023 - 10,1,17,40-44 Female,2.0,40-44,Female,40-44
+2023 - 10,2,12,40-44 Female,6.0,40-44,Female,40-44
+2023 - 10,2,17,40-44 Female,1.0,40-44,Female,40-44
+2023 - 10,2,15,40-44 Female,3.0,40-44,Female,40-44
+2023 - 10,2,16,40-44 Female,1.0,40-44,Female,40-44
+2023 - 10,2,14,40-44 Female,1.0,40-44,Female,40-44
+2023 - 10,3,52,40-44 Female,1.0,40-44,Female,40-44
+2023 - 9,1,1,40-44 Female,3.0,40-44,Female,40-44
+2023 - 9,1,6,40-44 Female,1.0,40-44,Female,40-44
+2023 - 9,1,3,40-44 Female,3.0,40-44,Female,40-44
+2023 - 9,1,4,40-44 Female,1.0,40-44,Female,40-44
+2023 - 9,1,7,40-44 Female,5.0,40-44,Female,40-44
+2023 - 9,1,10,40-44 Female,4.0,40-44,Female,40-44
+2023 - 9,1,8,40-44 Female,4.0,40-44,Female,40-44
+2023 - 9,1,48,40-44 Female,1.0,40-44,Female,40-44
+2023 - 9,1,84,40-44 Female,1.0,40-44,Female,40-44
+2023 - 9,2,35,40-44 Female,0.0,40-44,Female,40-44
+2023 - 9,2,12,40-44 Female,3.0,40-44,Female,40-44
+2023 - 9,2,11,40-44 Female,0.0,40-44,Female,40-44
+2023 - 9,2,17,40-44 Female,2.0,40-44,Female,40-44
+2023 - 9,2,49,40-44 Female,0.0,40-44,Female,40-44
+2023 - 9,2,95,40-44 Female,0.0,40-44,Female,40-44
+2023 - 9,2,15,40-44 Female,0.0,40-44,Female,40-44
+2023 - 9,2,16,40-44 Female,0.0,40-44,Female,40-44
+2023 - 9,2,51,40-44 Female,0.0,40-44,Female,40-44
+2023 - 9,2,14,40-44 Female,1.0,40-44,Female,40-44
+2023 - 4,1,2,45-49 Male,9.0,45-49,Male,45-49
+2023 - 4,1,3,45-49 Male,1.0,45-49,Male,45-49
+2023 - 4,1,4,45-49 Male,1.0,45-49,Male,45-49
+2023 - 4,1,6,45-49 Male,1.0,45-49,Male,45-49
+2023 - 4,1,7,45-49 Male,3.0,45-49,Male,45-49
+2023 - 4,1,8,45-49 Male,1.0,45-49,Male,45-49
+2023 - 4,2,11,45-49 Male,1.0,45-49,Male,45-49
+2023 - 4,2,17,45-49 Male,1.0,45-49,Male,45-49
+2023 - 4,2,20,45-49 Male,1.0,45-49,Male,45-49
+2023 - 8,1,4,45-49 Male,1.0,45-49,Male,45-49
+2023 - 8,1,8,45-49 Male,4.0,45-49,Male,45-49
+2023 - 8,1,10,45-49 Male,6.0,45-49,Male,45-49
+2023 - 8,1,33,45-49 Male,1.0,45-49,Male,45-49
+2023 - 8,1,17,45-49 Male,2.0,45-49,Male,45-49
+2023 - 8,2,34,45-49 Male,2.0,45-49,Male,45-49
+2023 - 8,2,12,45-49 Male,1.0,45-49,Male,45-49
+2023 - 8,2,17,45-49 Male,3.0,45-49,Male,45-49
+2023 - 8,2,37,45-49 Male,4.0,45-49,Male,45-49
+2023 - 8,2,38,45-49 Male,2.0,45-49,Male,45-49
+2023 - 8,3,21,45-49 Male,1.0,45-49,Male,45-49
+2023 - 12,1,1,45-49 Male,1.0,45-49,Male,45-49
+2023 - 12,1,6,45-49 Male,1.0,45-49,Male,45-49
+2023 - 12,1,3,45-49 Male,2.0,45-49,Male,45-49
+2023 - 12,1,4,45-49 Male,2.0,45-49,Male,45-49
+2023 - 12,1,7,45-49 Male,1.0,45-49,Male,45-49
+2023 - 12,2,50,45-49 Male,1.0,45-49,Male,45-49
+2023 - 12,2,14,45-49 Male,1.0,45-49,Male,45-49
+2023 - 12,3,54,45-49 Male,1.0,45-49,Male,45-49
+2023 - 7,1,4,45-49 Male,3.0,45-49,Male,45-49
+2023 - 7,1,7,45-49 Male,3.0,45-49,Male,45-49
+2023 - 7,1,8,45-49 Male,1.0,45-49,Male,45-49
+2023 - 7,1,10,45-49 Male,2.0,45-49,Male,45-49
+2023 - 7,1,5,45-49 Male,2.0,45-49,Male,45-49
+2023 - 7,2,59,45-49 Male,2.0,45-49,Male,45-49
+2023 - 7,2,11,45-49 Male,1.0,45-49,Male,45-49
+2023 - 7,2,12,45-49 Male,1.0,45-49,Male,45-49
+2023 - 6,1,1,45-49 Male,1.0,45-49,Male,45-49
+2023 - 6,1,4,45-49 Male,2.0,45-49,Male,45-49
+2023 - 6,1,9,45-49 Male,1.0,45-49,Male,45-49
+2023 - 6,1,3,45-49 Male,2.0,45-49,Male,45-49
+2023 - 6,1,7,45-49 Male,2.0,45-49,Male,45-49
+2023 - 6,1,73,45-49 Male,1.0,45-49,Male,45-49
+2023 - 6,1,17,45-49 Male,1.0,45-49,Male,45-49
+2023 - 6,1,8,45-49 Male,2.0,45-49,Male,45-49
+2023 - 6,2,12,45-49 Male,2.0,45-49,Male,45-49
+2023 - 6,2,15,45-49 Male,1.0,45-49,Male,45-49
+2023 - 6,2,11,45-49 Male,1.0,45-49,Male,45-49
+2023 - 6,2,36,45-49 Male,3.0,45-49,Male,45-49
+2023 - 6,2,17,45-49 Male,2.0,45-49,Male,45-49
+2023 - 6,2,14,45-49 Male,1.0,45-49,Male,45-49
+2023 - 11,1,4,45-49 Male,4.0,45-49,Male,45-49
+2023 - 11,1,83,45-49 Male,7.0,45-49,Male,45-49
+2023 - 11,1,7,45-49 Male,4.0,45-49,Male,45-49
+2023 - 11,1,17,45-49 Male,1.0,45-49,Male,45-49
+2023 - 11,1,84,45-49 Male,2.0,45-49,Male,45-49
+2023 - 11,2,59,45-49 Male,1.0,45-49,Male,45-49
+2023 - 11,2,16,45-49 Male,1.0,45-49,Male,45-49
+2023 - 11,2,12,45-49 Male,1.0,45-49,Male,45-49
+2023 - 11,3,94,45-49 Male,1.0,45-49,Male,45-49
+2023 - 10,1,6,45-49 Male,1.0,45-49,Male,45-49
+2023 - 10,1,3,45-49 Male,2.0,45-49,Male,45-49
+2023 - 10,1,4,45-49 Male,2.0,45-49,Male,45-49
+2023 - 10,1,7,45-49 Male,4.0,45-49,Male,45-49
+2023 - 10,1,48,45-49 Male,1.0,45-49,Male,45-49
+2023 - 10,1,10,45-49 Male,1.0,45-49,Male,45-49
+2023 - 10,1,8,45-49 Male,1.0,45-49,Male,45-49
+2023 - 10,2,49,45-49 Male,3.0,45-49,Male,45-49
+2023 - 10,2,11,45-49 Male,1.0,45-49,Male,45-49
+2023 - 10,2,15,45-49 Male,1.0,45-49,Male,45-49
+2023 - 9,1,1,45-49 Male,1.0,45-49,Male,45-49
+2023 - 9,1,6,45-49 Male,1.0,45-49,Male,45-49
+2023 - 9,1,4,45-49 Male,6.0,45-49,Male,45-49
+2023 - 9,1,7,45-49 Male,3.0,45-49,Male,45-49
+2023 - 9,1,10,45-49 Male,2.0,45-49,Male,45-49
+2023 - 9,1,8,45-49 Male,4.0,45-49,Male,45-49
+2023 - 9,2,35,45-49 Male,0.0,45-49,Male,45-49
+2023 - 9,2,12,45-49 Male,2.0,45-49,Male,45-49
+2023 - 9,2,11,45-49 Male,1.0,45-49,Male,45-49
+2023 - 9,2,17,45-49 Male,3.0,45-49,Male,45-49
+2023 - 9,2,49,45-49 Male,0.0,45-49,Male,45-49
+2023 - 9,2,95,45-49 Male,0.0,45-49,Male,45-49
+2023 - 9,2,15,45-49 Male,1.0,45-49,Male,45-49
+2023 - 9,2,16,45-49 Male,0.0,45-49,Male,45-49
+2023 - 9,2,51,45-49 Male,0.0,45-49,Male,45-49
+2023 - 9,2,14,45-49 Male,0.0,45-49,Male,45-49
+2023 - 9,3,52,45-49 Male,1.0,45-49,Male,45-49
+2023 - 4,1,2,45-49 Female,14.0,45-49,Female,45-49
+2023 - 4,1,3,45-49 Female,1.0,45-49,Female,45-49
+2023 - 4,1,4,45-49 Female,2.0,45-49,Female,45-49
+2023 - 4,1,5,45-49 Female,1.0,45-49,Female,45-49
+2023 - 4,1,7,45-49 Female,1.0,45-49,Female,45-49
+2023 - 4,1,8,45-49 Female,1.0,45-49,Female,45-49
+2023 - 4,1,10,45-49 Female,5.0,45-49,Female,45-49
+2023 - 4,2,11,45-49 Female,1.0,45-49,Female,45-49
+2023 - 4,2,12,45-49 Female,2.0,45-49,Female,45-49
+2023 - 4,3,22,45-49 Female,1.0,45-49,Female,45-49
+2023 - 8,1,1,45-49 Female,2.0,45-49,Female,45-49
+2023 - 8,1,3,45-49 Female,2.0,45-49,Female,45-49
+2023 - 8,1,4,45-49 Female,1.0,45-49,Female,45-49
+2023 - 8,1,7,45-49 Female,1.0,45-49,Female,45-49
+2023 - 8,1,8,45-49 Female,2.0,45-49,Female,45-49
+2023 - 8,1,10,45-49 Female,4.0,45-49,Female,45-49
+2023 - 8,1,33,45-49 Female,1.0,45-49,Female,45-49
+2023 - 8,2,34,45-49 Female,1.0,45-49,Female,45-49
+2023 - 8,2,12,45-49 Female,4.0,45-49,Female,45-49
+2023 - 8,2,38,45-49 Female,1.0,45-49,Female,45-49
+2023 - 12,1,1,45-49 Female,2.0,45-49,Female,45-49
+2023 - 12,1,6,45-49 Female,4.0,45-49,Female,45-49
+2023 - 12,1,4,45-49 Female,4.0,45-49,Female,45-49
+2023 - 12,1,7,45-49 Female,3.0,45-49,Female,45-49
+2023 - 12,1,10,45-49 Female,2.0,45-49,Female,45-49
+2023 - 12,1,8,45-49 Female,2.0,45-49,Female,45-49
+2023 - 12,2,12,45-49 Female,3.0,45-49,Female,45-49
+2023 - 12,2,15,45-49 Female,1.0,45-49,Female,45-49
+2023 - 12,2,50,45-49 Female,1.0,45-49,Female,45-49
+2023 - 12,2,14,45-49 Female,1.0,45-49,Female,45-49
+2023 - 12,3,53,45-49 Female,1.0,45-49,Female,45-49
+2023 - 7,1,1,45-49 Female,3.0,45-49,Female,45-49
+2023 - 7,1,4,45-49 Female,3.0,45-49,Female,45-49
+2023 - 7,1,7,45-49 Female,1.0,45-49,Female,45-49
+2023 - 7,1,6,45-49 Female,1.0,45-49,Female,45-49
+2023 - 7,1,8,45-49 Female,1.0,45-49,Female,45-49
+2023 - 7,1,10,45-49 Female,5.0,45-49,Female,45-49
+2023 - 7,2,59,45-49 Female,2.0,45-49,Female,45-49
+2023 - 7,2,11,45-49 Female,2.0,45-49,Female,45-49
+2023 - 7,2,12,45-49 Female,2.0,45-49,Female,45-49
+2023 - 7,2,60,45-49 Female,1.0,45-49,Female,45-49
+2023 - 6,1,4,45-49 Female,4.0,45-49,Female,45-49
+2023 - 6,1,9,45-49 Female,1.0,45-49,Female,45-49
+2023 - 6,1,7,45-49 Female,2.0,45-49,Female,45-49
+2023 - 6,1,10,45-49 Female,4.0,45-49,Female,45-49
+2023 - 6,1,17,45-49 Female,1.0,45-49,Female,45-49
+2023 - 6,1,8,45-49 Female,2.0,45-49,Female,45-49
+2023 - 6,2,12,45-49 Female,6.0,45-49,Female,45-49
+2023 - 6,2,36,45-49 Female,1.0,45-49,Female,45-49
+2023 - 6,2,17,45-49 Female,1.0,45-49,Female,45-49
+2023 - 6,2,75,45-49 Female,1.0,45-49,Female,45-49
+2023 - 6,3,76,45-49 Female,1.0,45-49,Female,45-49
+2023 - 11,1,4,45-49 Female,6.0,45-49,Female,45-49
+2023 - 11,1,83,45-49 Female,2.0,45-49,Female,45-49
+2023 - 11,1,6,45-49 Female,2.0,45-49,Female,45-49
+2023 - 11,1,7,45-49 Female,2.0,45-49,Female,45-49
+2023 - 11,1,1,45-49 Female,2.0,45-49,Female,45-49
+2023 - 11,1,3,45-49 Female,1.0,45-49,Female,45-49
+2023 - 11,2,59,45-49 Female,2.0,45-49,Female,45-49
+2023 - 11,2,35,45-49 Female,1.0,45-49,Female,45-49
+2023 - 11,2,12,45-49 Female,3.0,45-49,Female,45-49
+2023 - 10,1,1,45-49 Female,1.0,45-49,Female,45-49
+2023 - 10,1,6,45-49 Female,5.0,45-49,Female,45-49
+2023 - 10,1,4,45-49 Female,4.0,45-49,Female,45-49
+2023 - 10,1,7,45-49 Female,3.0,45-49,Female,45-49
+2023 - 10,1,48,45-49 Female,1.0,45-49,Female,45-49
+2023 - 10,1,10,45-49 Female,4.0,45-49,Female,45-49
+2023 - 10,1,8,45-49 Female,2.0,45-49,Female,45-49
+2023 - 10,1,17,45-49 Female,1.0,45-49,Female,45-49
+2023 - 10,2,12,45-49 Female,3.0,45-49,Female,45-49
+2023 - 10,2,11,45-49 Female,1.0,45-49,Female,45-49
+2023 - 10,2,17,45-49 Female,1.0,45-49,Female,45-49
+2023 - 10,2,95,45-49 Female,1.0,45-49,Female,45-49
+2023 - 9,1,1,45-49 Female,2.0,45-49,Female,45-49
+2023 - 9,1,6,45-49 Female,1.0,45-49,Female,45-49
+2023 - 9,1,4,45-49 Female,3.0,45-49,Female,45-49
+2023 - 9,1,10,45-49 Female,6.0,45-49,Female,45-49
+2023 - 9,1,8,45-49 Female,2.0,45-49,Female,45-49
+2023 - 9,1,48,45-49 Female,1.0,45-49,Female,45-49
+2023 - 9,1,5,45-49 Female,1.0,45-49,Female,45-49
+2023 - 9,2,35,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,12,45-49 Female,1.0,45-49,Female,45-49
+2023 - 9,2,11,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,17,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,49,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,95,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,15,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,16,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,51,45-49 Female,0.0,45-49,Female,45-49
+2023 - 9,2,14,45-49 Female,0.0,45-49,Female,45-49
+2023 - 4,1,2,50-54 Male,3.0,50-54,Male,50-54
+2023 - 4,1,5,50-54 Male,2.0,50-54,Male,50-54
+2023 - 4,1,7,50-54 Male,2.0,50-54,Male,50-54
+2023 - 4,1,10,50-54 Male,3.0,50-54,Male,50-54
+2023 - 4,2,11,50-54 Male,1.0,50-54,Male,50-54
+2023 - 4,2,12,50-54 Male,3.0,50-54,Male,50-54
+2023 - 4,2,17,50-54 Male,1.0,50-54,Male,50-54
+2023 - 4,3,23,50-54 Male,1.0,50-54,Male,50-54
+2023 - 4,3,25,50-54 Male,1.0,50-54,Male,50-54
+2023 - 8,1,3,50-54 Male,3.0,50-54,Male,50-54
+2023 - 8,1,4,50-54 Male,5.0,50-54,Male,50-54
+2023 - 8,1,7,50-54 Male,2.0,50-54,Male,50-54
+2023 - 8,1,8,50-54 Male,1.0,50-54,Male,50-54
+2023 - 8,1,10,50-54 Male,5.0,50-54,Male,50-54
+2023 - 8,1,33,50-54 Male,2.0,50-54,Male,50-54
+2023 - 8,1,17,50-54 Male,3.0,50-54,Male,50-54
+2023 - 8,2,34,50-54 Male,2.0,50-54,Male,50-54
+2023 - 8,2,12,50-54 Male,1.0,50-54,Male,50-54
+2023 - 8,2,17,50-54 Male,3.0,50-54,Male,50-54
+2023 - 8,2,15,50-54 Male,3.0,50-54,Male,50-54
+2023 - 8,2,37,50-54 Male,1.0,50-54,Male,50-54
+2023 - 8,2,38,50-54 Male,1.0,50-54,Male,50-54
+2023 - 8,3,22,50-54 Male,1.0,50-54,Male,50-54
+2023 - 12,1,1,50-54 Male,1.0,50-54,Male,50-54
+2023 - 12,1,6,50-54 Male,2.0,50-54,Male,50-54
+2023 - 12,1,3,50-54 Male,1.0,50-54,Male,50-54
+2023 - 12,1,4,50-54 Male,1.0,50-54,Male,50-54
+2023 - 12,1,7,50-54 Male,3.0,50-54,Male,50-54
+2023 - 12,1,5,50-54 Male,1.0,50-54,Male,50-54
+2023 - 12,1,10,50-54 Male,1.0,50-54,Male,50-54
+2023 - 12,1,17,50-54 Male,2.0,50-54,Male,50-54
+2023 - 12,2,50,50-54 Male,1.0,50-54,Male,50-54
+2023 - 7,1,3,50-54 Male,2.0,50-54,Male,50-54
+2023 - 7,1,4,50-54 Male,4.0,50-54,Male,50-54
+2023 - 7,1,7,50-54 Male,4.0,50-54,Male,50-54
+2023 - 7,1,10,50-54 Male,1.0,50-54,Male,50-54
+2023 - 7,1,33,50-54 Male,2.0,50-54,Male,50-54
+2023 - 7,1,17,50-54 Male,1.0,50-54,Male,50-54
+2023 - 7,2,59,50-54 Male,4.0,50-54,Male,50-54
+2023 - 7,2,15,50-54 Male,1.0,50-54,Male,50-54
+2023 - 7,2,17,50-54 Male,1.0,50-54,Male,50-54
+2023 - 7,2,60,50-54 Male,1.0,50-54,Male,50-54
+2023 - 7,2,61,50-54 Male,1.0,50-54,Male,50-54
+2023 - 7,2,62,50-54 Male,2.0,50-54,Male,50-54
+2023 - 7,3,68,50-54 Male,1.0,50-54,Male,50-54
+2023 - 6,1,1,50-54 Male,1.0,50-54,Male,50-54
+2023 - 6,1,4,50-54 Male,2.0,50-54,Male,50-54
+2023 - 6,1,3,50-54 Male,2.0,50-54,Male,50-54
+2023 - 6,1,7,50-54 Male,6.0,50-54,Male,50-54
+2023 - 6,1,10,50-54 Male,3.0,50-54,Male,50-54
+2023 - 6,1,8,50-54 Male,1.0,50-54,Male,50-54
+2023 - 6,2,15,50-54 Male,1.0,50-54,Male,50-54
+2023 - 6,2,17,50-54 Male,1.0,50-54,Male,50-54
+2023 - 6,2,75,50-54 Male,2.0,50-54,Male,50-54
+2023 - 6,3,81,50-54 Male,1.0,50-54,Male,50-54
+2023 - 11,1,4,50-54 Male,2.0,50-54,Male,50-54
+2023 - 11,1,83,50-54 Male,1.0,50-54,Male,50-54
+2023 - 11,1,6,50-54 Male,3.0,50-54,Male,50-54
+2023 - 11,1,7,50-54 Male,7.0,50-54,Male,50-54
+2023 - 11,1,1,50-54 Male,1.0,50-54,Male,50-54
+2023 - 11,1,17,50-54 Male,1.0,50-54,Male,50-54
+2023 - 11,1,84,50-54 Male,1.0,50-54,Male,50-54
+2023 - 11,1,3,50-54 Male,1.0,50-54,Male,50-54
+2023 - 11,2,59,50-54 Male,4.0,50-54,Male,50-54
+2023 - 11,2,12,50-54 Male,2.0,50-54,Male,50-54
+2023 - 11,3,89,50-54 Male,1.0,50-54,Male,50-54
+2023 - 10,1,1,50-54 Male,1.0,50-54,Male,50-54
+2023 - 10,1,6,50-54 Male,3.0,50-54,Male,50-54
+2023 - 10,1,4,50-54 Male,1.0,50-54,Male,50-54
+2023 - 10,1,7,50-54 Male,4.0,50-54,Male,50-54
+2023 - 10,1,10,50-54 Male,1.0,50-54,Male,50-54
+2023 - 10,2,49,50-54 Male,2.0,50-54,Male,50-54
+2023 - 9,1,1,50-54 Male,3.0,50-54,Male,50-54
+2023 - 9,1,7,50-54 Male,5.0,50-54,Male,50-54
+2023 - 9,1,10,50-54 Male,2.0,50-54,Male,50-54
+2023 - 9,1,84,50-54 Male,1.0,50-54,Male,50-54
+2023 - 9,2,35,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,12,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,11,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,17,50-54 Male,2.0,50-54,Male,50-54
+2023 - 9,2,49,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,95,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,15,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,16,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,51,50-54 Male,0.0,50-54,Male,50-54
+2023 - 9,2,14,50-54 Male,0.0,50-54,Male,50-54
+2023 - 4,1,2,50-54 Female,16.0,50-54,Female,50-54
+2023 - 4,1,3,50-54 Female,1.0,50-54,Female,50-54
+2023 - 4,1,4,50-54 Female,3.0,50-54,Female,50-54
+2023 - 4,1,5,50-54 Female,2.0,50-54,Female,50-54
+2023 - 4,1,6,50-54 Female,1.0,50-54,Female,50-54
+2023 - 4,1,7,50-54 Female,2.0,50-54,Female,50-54
+2023 - 4,1,8,50-54 Female,2.0,50-54,Female,50-54
+2023 - 4,1,10,50-54 Female,4.0,50-54,Female,50-54
+2023 - 4,2,11,50-54 Female,2.0,50-54,Female,50-54
+2023 - 4,2,12,50-54 Female,3.0,50-54,Female,50-54
+2023 - 4,2,17,50-54 Female,1.0,50-54,Female,50-54
+2023 - 4,2,20,50-54 Female,2.0,50-54,Female,50-54
+2023 - 8,1,1,50-54 Female,2.0,50-54,Female,50-54
+2023 - 8,1,9,50-54 Female,1.0,50-54,Female,50-54
+2023 - 8,1,4,50-54 Female,3.0,50-54,Female,50-54
+2023 - 8,1,7,50-54 Female,2.0,50-54,Female,50-54
+2023 - 8,1,8,50-54 Female,2.0,50-54,Female,50-54
+2023 - 8,1,10,50-54 Female,2.0,50-54,Female,50-54
+2023 - 8,1,33,50-54 Female,1.0,50-54,Female,50-54
+2023 - 8,2,34,50-54 Female,2.0,50-54,Female,50-54
+2023 - 8,2,12,50-54 Female,1.0,50-54,Female,50-54
+2023 - 8,2,37,50-54 Female,4.0,50-54,Female,50-54
+2023 - 8,2,38,50-54 Female,1.0,50-54,Female,50-54
+2023 - 12,1,1,50-54 Female,2.0,50-54,Female,50-54
+2023 - 12,1,3,50-54 Female,4.0,50-54,Female,50-54
+2023 - 12,1,7,50-54 Female,2.0,50-54,Female,50-54
+2023 - 12,1,5,50-54 Female,1.0,50-54,Female,50-54
+2023 - 12,1,10,50-54 Female,1.0,50-54,Female,50-54
+2023 - 12,1,48,50-54 Female,1.0,50-54,Female,50-54
+2023 - 12,1,8,50-54 Female,2.0,50-54,Female,50-54
+2023 - 12,2,49,50-54 Female,2.0,50-54,Female,50-54
+2023 - 12,2,11,50-54 Female,1.0,50-54,Female,50-54
+2023 - 12,2,12,50-54 Female,2.0,50-54,Female,50-54
+2023 - 12,2,50,50-54 Female,3.0,50-54,Female,50-54
+2023 - 7,1,1,50-54 Female,1.0,50-54,Female,50-54
+2023 - 7,1,3,50-54 Female,3.0,50-54,Female,50-54
+2023 - 7,1,4,50-54 Female,3.0,50-54,Female,50-54
+2023 - 7,1,7,50-54 Female,3.0,50-54,Female,50-54
+2023 - 7,1,6,50-54 Female,1.0,50-54,Female,50-54
+2023 - 7,1,10,50-54 Female,1.0,50-54,Female,50-54
+2023 - 7,2,59,50-54 Female,2.0,50-54,Female,50-54
+2023 - 7,2,11,50-54 Female,2.0,50-54,Female,50-54
+2023 - 7,2,12,50-54 Female,3.0,50-54,Female,50-54
+2023 - 7,2,62,50-54 Female,4.0,50-54,Female,50-54
+2023 - 7,2,63,50-54 Female,1.0,50-54,Female,50-54
+2023 - 7,3,65,50-54 Female,1.0,50-54,Female,50-54
+2023 - 6,1,1,50-54 Female,1.0,50-54,Female,50-54
+2023 - 6,1,9,50-54 Female,2.0,50-54,Female,50-54
+2023 - 6,1,7,50-54 Female,1.0,50-54,Female,50-54
+2023 - 6,1,10,50-54 Female,1.0,50-54,Female,50-54
+2023 - 6,1,8,50-54 Female,3.0,50-54,Female,50-54
+2023 - 6,2,12,50-54 Female,3.0,50-54,Female,50-54
+2023 - 6,2,75,50-54 Female,3.0,50-54,Female,50-54
+2023 - 11,1,4,50-54 Female,6.0,50-54,Female,50-54
+2023 - 11,1,83,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,1,6,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,1,7,50-54 Female,6.0,50-54,Female,50-54
+2023 - 11,1,1,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,1,48,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,1,84,50-54 Female,2.0,50-54,Female,50-54
+2023 - 11,1,3,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,2,15,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,2,59,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,2,35,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,2,12,50-54 Female,4.0,50-54,Female,50-54
+2023 - 11,3,52,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,3,93,50-54 Female,1.0,50-54,Female,50-54
+2023 - 11,3,94,50-54 Female,1.0,50-54,Female,50-54
+2023 - 10,1,6,50-54 Female,3.0,50-54,Female,50-54
+2023 - 10,1,3,50-54 Female,1.0,50-54,Female,50-54
+2023 - 10,1,4,50-54 Female,4.0,50-54,Female,50-54
+2023 - 10,1,7,50-54 Female,2.0,50-54,Female,50-54
+2023 - 10,1,10,50-54 Female,2.0,50-54,Female,50-54
+2023 - 10,1,5,50-54 Female,1.0,50-54,Female,50-54
+2023 - 10,1,17,50-54 Female,1.0,50-54,Female,50-54
+2023 - 10,2,12,50-54 Female,2.0,50-54,Female,50-54
+2023 - 10,2,11,50-54 Female,1.0,50-54,Female,50-54
+2023 - 10,2,17,50-54 Female,1.0,50-54,Female,50-54
+2023 - 10,3,52,50-54 Female,1.0,50-54,Female,50-54
+2023 - 9,1,3,50-54 Female,1.0,50-54,Female,50-54
+2023 - 9,1,4,50-54 Female,1.0,50-54,Female,50-54
+2023 - 9,1,7,50-54 Female,4.0,50-54,Female,50-54
+2023 - 9,1,10,50-54 Female,5.0,50-54,Female,50-54
+2023 - 9,1,8,50-54 Female,1.0,50-54,Female,50-54
+2023 - 9,2,35,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,12,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,11,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,17,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,49,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,95,50-54 Female,1.0,50-54,Female,50-54
+2023 - 9,2,15,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,16,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,51,50-54 Female,0.0,50-54,Female,50-54
+2023 - 9,2,14,50-54 Female,0.0,50-54,Female,50-54
+2023 - 4,1,1,55-59 Male,4.0,55-59,Male,55-59
+2023 - 4,1,2,55-59 Male,6.0,55-59,Male,55-59
+2023 - 4,1,3,55-59 Male,1.0,55-59,Male,55-59
+2023 - 4,1,4,55-59 Male,2.0,55-59,Male,55-59
+2023 - 4,1,5,55-59 Male,1.0,55-59,Male,55-59
+2023 - 4,1,7,55-59 Male,7.0,55-59,Male,55-59
+2023 - 4,1,10,55-59 Male,2.0,55-59,Male,55-59
+2023 - 4,2,11,55-59 Male,1.0,55-59,Male,55-59
+2023 - 4,2,15,55-59 Male,1.0,55-59,Male,55-59
+2023 - 4,2,16,55-59 Male,2.0,55-59,Male,55-59
+2023 - 4,2,17,55-59 Male,2.0,55-59,Male,55-59
+2023 - 4,3,21,55-59 Male,1.0,55-59,Male,55-59
+2023 - 4,3,22,55-59 Male,1.0,55-59,Male,55-59
+2023 - 8,1,4,55-59 Male,2.0,55-59,Male,55-59
+2023 - 8,1,7,55-59 Male,9.0,55-59,Male,55-59
+2023 - 8,1,10,55-59 Male,3.0,55-59,Male,55-59
+2023 - 8,1,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 8,2,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 8,2,37,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,1,1,55-59 Male,3.0,55-59,Male,55-59
+2023 - 12,1,6,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,1,4,55-59 Male,3.0,55-59,Male,55-59
+2023 - 12,1,7,55-59 Male,9.0,55-59,Male,55-59
+2023 - 12,1,10,55-59 Male,2.0,55-59,Male,55-59
+2023 - 12,1,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,1,8,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,2,11,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,2,12,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,2,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,2,50,55-59 Male,1.0,55-59,Male,55-59
+2023 - 12,3,52,55-59 Male,1.0,55-59,Male,55-59
+2023 - 7,1,3,55-59 Male,1.0,55-59,Male,55-59
+2023 - 7,1,7,55-59 Male,9.0,55-59,Male,55-59
+2023 - 7,1,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 7,2,59,55-59 Male,7.0,55-59,Male,55-59
+2023 - 7,2,11,55-59 Male,1.0,55-59,Male,55-59
+2023 - 7,2,12,55-59 Male,2.0,55-59,Male,55-59
+2023 - 7,2,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 7,3,64,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,1,1,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,1,4,55-59 Male,5.0,55-59,Male,55-59
+2023 - 6,1,3,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,1,7,55-59 Male,7.0,55-59,Male,55-59
+2023 - 6,1,10,55-59 Male,3.0,55-59,Male,55-59
+2023 - 6,1,5,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,1,8,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,2,16,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,2,15,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,2,75,55-59 Male,4.0,55-59,Male,55-59
+2023 - 6,3,66,55-59 Male,1.0,55-59,Male,55-59
+2023 - 6,3,78,55-59 Male,1.0,55-59,Male,55-59
+2023 - 11,1,83,55-59 Male,3.0,55-59,Male,55-59
+2023 - 11,1,6,55-59 Male,1.0,55-59,Male,55-59
+2023 - 11,1,7,55-59 Male,5.0,55-59,Male,55-59
+2023 - 11,1,1,55-59 Male,3.0,55-59,Male,55-59
+2023 - 11,1,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 11,1,84,55-59 Male,1.0,55-59,Male,55-59
+2023 - 11,1,3,55-59 Male,1.0,55-59,Male,55-59
+2023 - 11,2,85,55-59 Male,1.0,55-59,Male,55-59
+2023 - 11,2,59,55-59 Male,2.0,55-59,Male,55-59
+2023 - 11,2,16,55-59 Male,2.0,55-59,Male,55-59
+2023 - 11,2,12,55-59 Male,2.0,55-59,Male,55-59
+2023 - 10,1,6,55-59 Male,1.0,55-59,Male,55-59
+2023 - 10,1,3,55-59 Male,2.0,55-59,Male,55-59
+2023 - 10,1,4,55-59 Male,1.0,55-59,Male,55-59
+2023 - 10,1,7,55-59 Male,7.0,55-59,Male,55-59
+2023 - 10,1,10,55-59 Male,3.0,55-59,Male,55-59
+2023 - 10,1,8,55-59 Male,3.0,55-59,Male,55-59
+2023 - 10,1,17,55-59 Male,2.0,55-59,Male,55-59
+2023 - 10,2,12,55-59 Male,2.0,55-59,Male,55-59
+2023 - 10,2,17,55-59 Male,2.0,55-59,Male,55-59
+2023 - 10,3,52,55-59 Male,1.0,55-59,Male,55-59
+2023 - 9,1,6,55-59 Male,1.0,55-59,Male,55-59
+2023 - 9,1,3,55-59 Male,1.0,55-59,Male,55-59
+2023 - 9,1,4,55-59 Male,1.0,55-59,Male,55-59
+2023 - 9,1,7,55-59 Male,9.0,55-59,Male,55-59
+2023 - 9,1,10,55-59 Male,3.0,55-59,Male,55-59
+2023 - 9,1,8,55-59 Male,2.0,55-59,Male,55-59
+2023 - 9,1,84,55-59 Male,1.0,55-59,Male,55-59
+2023 - 9,1,5,55-59 Male,1.0,55-59,Male,55-59
+2023 - 9,2,35,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,2,12,55-59 Male,2.0,55-59,Male,55-59
+2023 - 9,2,11,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,2,17,55-59 Male,1.0,55-59,Male,55-59
+2023 - 9,2,49,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,2,95,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,2,15,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,2,16,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,2,51,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,2,14,55-59 Male,0.0,55-59,Male,55-59
+2023 - 9,3,100,55-59 Male,1.0,55-59,Male,55-59
+2023 - 4,1,1,55-59 Female,2.0,55-59,Female,55-59
+2023 - 4,1,2,55-59 Female,13.0,55-59,Female,55-59
+2023 - 4,1,4,55-59 Female,2.0,55-59,Female,55-59
+2023 - 4,1,5,55-59 Female,1.0,55-59,Female,55-59
+2023 - 4,1,6,55-59 Female,2.0,55-59,Female,55-59
+2023 - 4,1,7,55-59 Female,3.0,55-59,Female,55-59
+2023 - 4,1,8,55-59 Female,3.0,55-59,Female,55-59
+2023 - 4,1,9,55-59 Female,1.0,55-59,Female,55-59
+2023 - 4,2,12,55-59 Female,3.0,55-59,Female,55-59
+2023 - 4,2,15,55-59 Female,3.0,55-59,Female,55-59
+2023 - 4,2,17,55-59 Female,1.0,55-59,Female,55-59
+2023 - 8,1,3,55-59 Female,2.0,55-59,Female,55-59
+2023 - 8,1,7,55-59 Female,3.0,55-59,Female,55-59
+2023 - 8,1,8,55-59 Female,2.0,55-59,Female,55-59
+2023 - 8,1,5,55-59 Female,2.0,55-59,Female,55-59
+2023 - 8,1,10,55-59 Female,6.0,55-59,Female,55-59
+2023 - 8,2,34,55-59 Female,7.0,55-59,Female,55-59
+2023 - 8,2,12,55-59 Female,2.0,55-59,Female,55-59
+2023 - 8,2,37,55-59 Female,2.0,55-59,Female,55-59
+2023 - 12,1,1,55-59 Female,2.0,55-59,Female,55-59
+2023 - 12,1,6,55-59 Female,1.0,55-59,Female,55-59
+2023 - 12,1,3,55-59 Female,1.0,55-59,Female,55-59
+2023 - 12,1,4,55-59 Female,3.0,55-59,Female,55-59
+2023 - 12,1,7,55-59 Female,5.0,55-59,Female,55-59
+2023 - 12,1,10,55-59 Female,8.0,55-59,Female,55-59
+2023 - 12,1,48,55-59 Female,1.0,55-59,Female,55-59
+2023 - 12,1,8,55-59 Female,1.0,55-59,Female,55-59
+2023 - 12,2,12,55-59 Female,1.0,55-59,Female,55-59
+2023 - 12,2,50,55-59 Female,1.0,55-59,Female,55-59
+2023 - 12,2,16,55-59 Female,1.0,55-59,Female,55-59
+2023 - 7,1,1,55-59 Female,2.0,55-59,Female,55-59
+2023 - 7,1,3,55-59 Female,2.0,55-59,Female,55-59
+2023 - 7,1,4,55-59 Female,3.0,55-59,Female,55-59
+2023 - 7,1,7,55-59 Female,4.0,55-59,Female,55-59
+2023 - 7,1,6,55-59 Female,1.0,55-59,Female,55-59
+2023 - 7,1,8,55-59 Female,4.0,55-59,Female,55-59
+2023 - 7,1,10,55-59 Female,3.0,55-59,Female,55-59
+2023 - 7,1,33,55-59 Female,1.0,55-59,Female,55-59
+2023 - 7,2,59,55-59 Female,3.0,55-59,Female,55-59
+2023 - 7,2,11,55-59 Female,1.0,55-59,Female,55-59
+2023 - 7,2,12,55-59 Female,2.0,55-59,Female,55-59
+2023 - 7,2,15,55-59 Female,2.0,55-59,Female,55-59
+2023 - 7,2,60,55-59 Female,3.0,55-59,Female,55-59
+2023 - 7,2,61,55-59 Female,1.0,55-59,Female,55-59
+2023 - 7,2,62,55-59 Female,3.0,55-59,Female,55-59
+2023 - 7,3,64,55-59 Female,1.0,55-59,Female,55-59
+2023 - 7,3,69,55-59 Female,1.0,55-59,Female,55-59
+2023 - 6,1,1,55-59 Female,1.0,55-59,Female,55-59
+2023 - 6,1,4,55-59 Female,3.0,55-59,Female,55-59
+2023 - 6,1,9,55-59 Female,1.0,55-59,Female,55-59
+2023 - 6,1,7,55-59 Female,5.0,55-59,Female,55-59
+2023 - 6,1,10,55-59 Female,3.0,55-59,Female,55-59
+2023 - 6,1,17,55-59 Female,1.0,55-59,Female,55-59
+2023 - 6,2,12,55-59 Female,3.0,55-59,Female,55-59
+2023 - 6,2,15,55-59 Female,1.0,55-59,Female,55-59
+2023 - 6,2,17,55-59 Female,1.0,55-59,Female,55-59
+2023 - 6,2,14,55-59 Female,1.0,55-59,Female,55-59
+2023 - 11,1,4,55-59 Female,2.0,55-59,Female,55-59
+2023 - 11,1,83,55-59 Female,4.0,55-59,Female,55-59
+2023 - 11,1,6,55-59 Female,4.0,55-59,Female,55-59
+2023 - 11,1,7,55-59 Female,4.0,55-59,Female,55-59
+2023 - 11,1,17,55-59 Female,1.0,55-59,Female,55-59
+2023 - 11,1,84,55-59 Female,1.0,55-59,Female,55-59
+2023 - 11,1,3,55-59 Female,4.0,55-59,Female,55-59
+2023 - 11,2,59,55-59 Female,2.0,55-59,Female,55-59
+2023 - 11,2,12,55-59 Female,1.0,55-59,Female,55-59
+2023 - 10,1,1,55-59 Female,1.0,55-59,Female,55-59
+2023 - 10,1,3,55-59 Female,2.0,55-59,Female,55-59
+2023 - 10,1,4,55-59 Female,2.0,55-59,Female,55-59
+2023 - 10,1,7,55-59 Female,4.0,55-59,Female,55-59
+2023 - 10,1,10,55-59 Female,7.0,55-59,Female,55-59
+2023 - 10,1,8,55-59 Female,2.0,55-59,Female,55-59
+2023 - 10,2,14,55-59 Female,1.0,55-59,Female,55-59
+2023 - 9,1,1,55-59 Female,1.0,55-59,Female,55-59
+2023 - 9,1,6,55-59 Female,1.0,55-59,Female,55-59
+2023 - 9,1,3,55-59 Female,1.0,55-59,Female,55-59
+2023 - 9,1,4,55-59 Female,4.0,55-59,Female,55-59
+2023 - 9,1,7,55-59 Female,1.0,55-59,Female,55-59
+2023 - 9,1,10,55-59 Female,4.0,55-59,Female,55-59
+2023 - 9,1,8,55-59 Female,1.0,55-59,Female,55-59
+2023 - 9,2,35,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,2,12,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,2,11,55-59 Female,2.0,55-59,Female,55-59
+2023 - 9,2,17,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,2,49,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,2,95,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,2,15,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,2,16,55-59 Female,1.0,55-59,Female,55-59
+2023 - 9,2,51,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,2,14,55-59 Female,0.0,55-59,Female,55-59
+2023 - 9,3,107,55-59 Female,1.0,55-59,Female,55-59
+2023 - 4,1,1,60-64 Male,1.0,60-64,Male,60-64
+2023 - 4,1,2,60-64 Male,2.0,60-64,Male,60-64
+2023 - 4,1,3,60-64 Male,3.0,60-64,Male,60-64
+2023 - 4,1,4,60-64 Male,1.0,60-64,Male,60-64
+2023 - 4,1,5,60-64 Male,1.0,60-64,Male,60-64
+2023 - 4,1,7,60-64 Male,4.0,60-64,Male,60-64
+2023 - 4,1,8,60-64 Male,2.0,60-64,Male,60-64
+2023 - 4,1,10,60-64 Male,6.0,60-64,Male,60-64
+2023 - 4,2,12,60-64 Male,2.0,60-64,Male,60-64
+2023 - 4,2,17,60-64 Male,1.0,60-64,Male,60-64
+2023 - 8,1,3,60-64 Male,1.0,60-64,Male,60-64
+2023 - 8,1,9,60-64 Male,1.0,60-64,Male,60-64
+2023 - 8,1,7,60-64 Male,6.0,60-64,Male,60-64
+2023 - 8,1,8,60-64 Male,1.0,60-64,Male,60-64
+2023 - 8,1,5,60-64 Male,1.0,60-64,Male,60-64
+2023 - 8,1,10,60-64 Male,4.0,60-64,Male,60-64
+2023 - 8,2,34,60-64 Male,1.0,60-64,Male,60-64
+2023 - 8,2,12,60-64 Male,2.0,60-64,Male,60-64
+2023 - 8,2,37,60-64 Male,4.0,60-64,Male,60-64
+2023 - 12,1,1,60-64 Male,2.0,60-64,Male,60-64
+2023 - 12,1,6,60-64 Male,1.0,60-64,Male,60-64
+2023 - 12,1,3,60-64 Male,1.0,60-64,Male,60-64
+2023 - 12,1,7,60-64 Male,3.0,60-64,Male,60-64
+2023 - 12,1,10,60-64 Male,3.0,60-64,Male,60-64
+2023 - 12,2,12,60-64 Male,1.0,60-64,Male,60-64
+2023 - 12,2,50,60-64 Male,4.0,60-64,Male,60-64
+2023 - 7,1,3,60-64 Male,2.0,60-64,Male,60-64
+2023 - 7,1,4,60-64 Male,1.0,60-64,Male,60-64
+2023 - 7,1,7,60-64 Male,8.0,60-64,Male,60-64
+2023 - 7,1,8,60-64 Male,1.0,60-64,Male,60-64
+2023 - 7,1,10,60-64 Male,3.0,60-64,Male,60-64
+2023 - 7,1,5,60-64 Male,1.0,60-64,Male,60-64
+2023 - 7,2,59,60-64 Male,5.0,60-64,Male,60-64
+2023 - 7,2,11,60-64 Male,2.0,60-64,Male,60-64
+2023 - 7,3,66,60-64 Male,1.0,60-64,Male,60-64
+2023 - 6,1,4,60-64 Male,1.0,60-64,Male,60-64
+2023 - 6,1,7,60-64 Male,9.0,60-64,Male,60-64
+2023 - 6,1,10,60-64 Male,2.0,60-64,Male,60-64
+2023 - 6,1,5,60-64 Male,1.0,60-64,Male,60-64
+2023 - 6,1,17,60-64 Male,3.0,60-64,Male,60-64
+2023 - 6,1,8,60-64 Male,1.0,60-64,Male,60-64
+2023 - 6,2,12,60-64 Male,2.0,60-64,Male,60-64
+2023 - 6,2,17,60-64 Male,3.0,60-64,Male,60-64
+2023 - 11,1,7,60-64 Male,2.0,60-64,Male,60-64
+2023 - 11,1,1,60-64 Male,1.0,60-64,Male,60-64
+2023 - 11,1,17,60-64 Male,1.0,60-64,Male,60-64
+2023 - 11,1,84,60-64 Male,2.0,60-64,Male,60-64
+2023 - 11,1,3,60-64 Male,1.0,60-64,Male,60-64
+2023 - 11,2,59,60-64 Male,1.0,60-64,Male,60-64
+2023 - 11,3,52,60-64 Male,1.0,60-64,Male,60-64
+2023 - 10,1,1,60-64 Male,1.0,60-64,Male,60-64
+2023 - 10,1,3,60-64 Male,1.0,60-64,Male,60-64
+2023 - 10,1,4,60-64 Male,1.0,60-64,Male,60-64
+2023 - 10,1,7,60-64 Male,3.0,60-64,Male,60-64
+2023 - 10,1,10,60-64 Male,3.0,60-64,Male,60-64
+2023 - 10,1,17,60-64 Male,1.0,60-64,Male,60-64
+2023 - 10,2,11,60-64 Male,1.0,60-64,Male,60-64
+2023 - 10,2,17,60-64 Male,1.0,60-64,Male,60-64
+2023 - 10,3,99,60-64 Male,1.0,60-64,Male,60-64
+2023 - 9,1,6,60-64 Male,1.0,60-64,Male,60-64
+2023 - 9,1,4,60-64 Male,4.0,60-64,Male,60-64
+2023 - 9,1,7,60-64 Male,1.0,60-64,Male,60-64
+2023 - 9,1,10,60-64 Male,6.0,60-64,Male,60-64
+2023 - 9,1,84,60-64 Male,1.0,60-64,Male,60-64
+2023 - 9,1,5,60-64 Male,1.0,60-64,Male,60-64
+2023 - 9,2,35,60-64 Male,0.0,60-64,Male,60-64
+2023 - 9,2,12,60-64 Male,1.0,60-64,Male,60-64
+2023 - 9,2,11,60-64 Male,0.0,60-64,Male,60-64
+2023 - 9,2,17,60-64 Male,0.0,60-64,Male,60-64
+2023 - 9,2,49,60-64 Male,0.0,60-64,Male,60-64
+2023 - 9,2,95,60-64 Male,1.0,60-64,Male,60-64
+2023 - 9,2,15,60-64 Male,0.0,60-64,Male,60-64
+2023 - 9,2,16,60-64 Male,0.0,60-64,Male,60-64
+2023 - 9,2,51,60-64 Male,0.0,60-64,Male,60-64
+2023 - 9,2,14,60-64 Male,0.0,60-64,Male,60-64
+2023 - 4,1,2,60-64 Female,6.0,60-64,Female,60-64
+2023 - 4,1,4,60-64 Female,5.0,60-64,Female,60-64
+2023 - 4,1,5,60-64 Female,1.0,60-64,Female,60-64
+2023 - 4,1,6,60-64 Female,2.0,60-64,Female,60-64
+2023 - 4,1,7,60-64 Female,5.0,60-64,Female,60-64
+2023 - 4,1,8,60-64 Female,2.0,60-64,Female,60-64
+2023 - 4,1,10,60-64 Female,1.0,60-64,Female,60-64
+2023 - 4,2,11,60-64 Female,3.0,60-64,Female,60-64
+2023 - 4,2,12,60-64 Female,3.0,60-64,Female,60-64
+2023 - 8,1,4,60-64 Female,1.0,60-64,Female,60-64
+2023 - 8,1,7,60-64 Female,3.0,60-64,Female,60-64
+2023 - 8,1,8,60-64 Female,1.0,60-64,Female,60-64
+2023 - 8,1,10,60-64 Female,9.0,60-64,Female,60-64
+2023 - 8,1,33,60-64 Female,2.0,60-64,Female,60-64
+2023 - 8,2,34,60-64 Female,2.0,60-64,Female,60-64
+2023 - 8,2,12,60-64 Female,4.0,60-64,Female,60-64
+2023 - 8,2,39,60-64 Female,3.0,60-64,Female,60-64
+2023 - 8,3,22,60-64 Female,1.0,60-64,Female,60-64
+2023 - 8,3,21,60-64 Female,1.0,60-64,Female,60-64
+2023 - 12,1,6,60-64 Female,1.0,60-64,Female,60-64
+2023 - 12,1,3,60-64 Female,1.0,60-64,Female,60-64
+2023 - 12,1,7,60-64 Female,2.0,60-64,Female,60-64
+2023 - 12,1,5,60-64 Female,1.0,60-64,Female,60-64
+2023 - 12,1,10,60-64 Female,3.0,60-64,Female,60-64
+2023 - 12,1,17,60-64 Female,1.0,60-64,Female,60-64
+2023 - 12,1,8,60-64 Female,2.0,60-64,Female,60-64
+2023 - 12,2,12,60-64 Female,1.0,60-64,Female,60-64
+2023 - 12,2,17,60-64 Female,1.0,60-64,Female,60-64
+2023 - 12,2,50,60-64 Female,3.0,60-64,Female,60-64
+2023 - 7,1,1,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,1,3,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,1,4,60-64 Female,2.0,60-64,Female,60-64
+2023 - 7,1,7,60-64 Female,3.0,60-64,Female,60-64
+2023 - 7,1,8,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,1,10,60-64 Female,10.0,60-64,Female,60-64
+2023 - 7,1,17,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,2,59,60-64 Female,3.0,60-64,Female,60-64
+2023 - 7,2,11,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,2,12,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,2,17,60-64 Female,2.0,60-64,Female,60-64
+2023 - 7,2,60,60-64 Female,2.0,60-64,Female,60-64
+2023 - 7,2,62,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,2,63,60-64 Female,1.0,60-64,Female,60-64
+2023 - 7,3,22,60-64 Female,1.0,60-64,Female,60-64
+2023 - 6,1,1,60-64 Female,1.0,60-64,Female,60-64
+2023 - 6,1,4,60-64 Female,3.0,60-64,Female,60-64
+2023 - 6,1,9,60-64 Female,1.0,60-64,Female,60-64
+2023 - 6,1,3,60-64 Female,3.0,60-64,Female,60-64
+2023 - 6,1,7,60-64 Female,5.0,60-64,Female,60-64
+2023 - 6,1,10,60-64 Female,3.0,60-64,Female,60-64
+2023 - 6,2,12,60-64 Female,2.0,60-64,Female,60-64
+2023 - 6,2,15,60-64 Female,2.0,60-64,Female,60-64
+2023 - 6,2,17,60-64 Female,1.0,60-64,Female,60-64
+2023 - 6,2,14,60-64 Female,1.0,60-64,Female,60-64
+2023 - 6,2,75,60-64 Female,4.0,60-64,Female,60-64
+2023 - 6,3,77,60-64 Female,1.0,60-64,Female,60-64
+2023 - 11,1,4,60-64 Female,4.0,60-64,Female,60-64
+2023 - 11,1,83,60-64 Female,1.0,60-64,Female,60-64
+2023 - 11,1,6,60-64 Female,2.0,60-64,Female,60-64
+2023 - 11,1,7,60-64 Female,5.0,60-64,Female,60-64
+2023 - 11,1,1,60-64 Female,2.0,60-64,Female,60-64
+2023 - 11,2,59,60-64 Female,3.0,60-64,Female,60-64
+2023 - 11,2,36,60-64 Female,1.0,60-64,Female,60-64
+2023 - 11,2,12,60-64 Female,3.0,60-64,Female,60-64
+2023 - 11,3,52,60-64 Female,1.0,60-64,Female,60-64
+2023 - 10,1,1,60-64 Female,1.0,60-64,Female,60-64
+2023 - 10,1,6,60-64 Female,3.0,60-64,Female,60-64
+2023 - 10,1,3,60-64 Female,1.0,60-64,Female,60-64
+2023 - 10,1,4,60-64 Female,2.0,60-64,Female,60-64
+2023 - 10,1,7,60-64 Female,8.0,60-64,Female,60-64
+2023 - 10,1,10,60-64 Female,6.0,60-64,Female,60-64
+2023 - 10,1,8,60-64 Female,1.0,60-64,Female,60-64
+2023 - 10,1,5,60-64 Female,2.0,60-64,Female,60-64
+2023 - 10,1,17,60-64 Female,1.0,60-64,Female,60-64
+2023 - 10,2,35,60-64 Female,1.0,60-64,Female,60-64
+2023 - 10,2,12,60-64 Female,2.0,60-64,Female,60-64
+2023 - 10,2,17,60-64 Female,1.0,60-64,Female,60-64
+2023 - 9,1,1,60-64 Female,1.0,60-64,Female,60-64
+2023 - 9,1,6,60-64 Female,2.0,60-64,Female,60-64
+2023 - 9,1,4,60-64 Female,3.0,60-64,Female,60-64
+2023 - 9,1,7,60-64 Female,3.0,60-64,Female,60-64
+2023 - 9,1,10,60-64 Female,4.0,60-64,Female,60-64
+2023 - 9,1,8,60-64 Female,1.0,60-64,Female,60-64
+2023 - 9,2,35,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,2,12,60-64 Female,2.0,60-64,Female,60-64
+2023 - 9,2,11,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,2,17,60-64 Female,1.0,60-64,Female,60-64
+2023 - 9,2,49,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,2,95,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,2,15,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,2,16,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,2,51,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,2,14,60-64 Female,0.0,60-64,Female,60-64
+2023 - 9,3,52,60-64 Female,1.0,60-64,Female,60-64
+2023 - 9,3,105,60-64 Female,1.0,60-64,Female,60-64
+2023 - 4,1,2,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,1,4,65-69 Male,2.0,65-69,Male,65-69
+2023 - 4,1,5,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,1,6,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,1,7,65-69 Male,4.0,65-69,Male,65-69
+2023 - 4,1,8,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,1,10,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,2,12,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,2,15,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,3,21,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,3,23,65-69 Male,1.0,65-69,Male,65-69
+2023 - 8,1,4,65-69 Male,1.0,65-69,Male,65-69
+2023 - 8,1,7,65-69 Male,6.0,65-69,Male,65-69
+2023 - 8,1,17,65-69 Male,3.0,65-69,Male,65-69
+2023 - 8,2,34,65-69 Male,1.0,65-69,Male,65-69
+2023 - 8,2,12,65-69 Male,1.0,65-69,Male,65-69
+2023 - 8,2,17,65-69 Male,2.0,65-69,Male,65-69
+2023 - 8,2,37,65-69 Male,5.0,65-69,Male,65-69
+2023 - 8,2,38,65-69 Male,1.0,65-69,Male,65-69
+2023 - 8,3,22,65-69 Male,1.0,65-69,Male,65-69
+2023 - 8,3,40,65-69 Male,1.0,65-69,Male,65-69
+2023 - 8,3,47,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,1,1,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,1,6,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,1,3,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,1,4,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,1,7,65-69 Male,5.0,65-69,Male,65-69
+2023 - 12,1,10,65-69 Male,2.0,65-69,Male,65-69
+2023 - 12,1,8,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,2,11,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,2,12,65-69 Male,1.0,65-69,Male,65-69
+2023 - 12,2,50,65-69 Male,1.0,65-69,Male,65-69
+2023 - 7,1,1,65-69 Male,1.0,65-69,Male,65-69
+2023 - 7,1,3,65-69 Male,1.0,65-69,Male,65-69
+2023 - 7,1,4,65-69 Male,1.0,65-69,Male,65-69
+2023 - 7,1,7,65-69 Male,4.0,65-69,Male,65-69
+2023 - 7,1,10,65-69 Male,3.0,65-69,Male,65-69
+2023 - 7,1,17,65-69 Male,1.0,65-69,Male,65-69
+2023 - 7,2,59,65-69 Male,7.0,65-69,Male,65-69
+2023 - 7,2,17,65-69 Male,1.0,65-69,Male,65-69
+2023 - 7,2,62,65-69 Male,1.0,65-69,Male,65-69
+2023 - 7,3,71,65-69 Male,1.0,65-69,Male,65-69
+2023 - 6,1,1,65-69 Male,1.0,65-69,Male,65-69
+2023 - 6,1,4,65-69 Male,2.0,65-69,Male,65-69
+2023 - 6,1,9,65-69 Male,2.0,65-69,Male,65-69
+2023 - 6,1,7,65-69 Male,9.0,65-69,Male,65-69
+2023 - 6,1,10,65-69 Male,3.0,65-69,Male,65-69
+2023 - 6,1,5,65-69 Male,1.0,65-69,Male,65-69
+2023 - 6,1,17,65-69 Male,1.0,65-69,Male,65-69
+2023 - 6,2,12,65-69 Male,3.0,65-69,Male,65-69
+2023 - 6,2,16,65-69 Male,1.0,65-69,Male,65-69
+2023 - 6,2,17,65-69 Male,1.0,65-69,Male,65-69
+2023 - 6,2,75,65-69 Male,3.0,65-69,Male,65-69
+2023 - 6,3,76,65-69 Male,1.0,65-69,Male,65-69
+2023 - 6,3,23,65-69 Male,2.0,65-69,Male,65-69
+2023 - 6,3,62,65-69 Male,2.0,65-69,Male,65-69
+2023 - 11,1,83,65-69 Male,1.0,65-69,Male,65-69
+2023 - 11,1,6,65-69 Male,3.0,65-69,Male,65-69
+2023 - 11,1,7,65-69 Male,3.0,65-69,Male,65-69
+2023 - 11,1,1,65-69 Male,1.0,65-69,Male,65-69
+2023 - 11,1,17,65-69 Male,3.0,65-69,Male,65-69
+2023 - 11,1,84,65-69 Male,1.0,65-69,Male,65-69
+2023 - 11,2,59,65-69 Male,3.0,65-69,Male,65-69
+2023 - 11,3,91,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,1,1,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,1,6,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,1,3,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,1,7,65-69 Male,7.0,65-69,Male,65-69
+2023 - 10,1,10,65-69 Male,2.0,65-69,Male,65-69
+2023 - 10,1,17,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,2,17,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,2,95,65-69 Male,2.0,65-69,Male,65-69
+2023 - 10,3,52,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,3,23,65-69 Male,1.0,65-69,Male,65-69
+2023 - 10,3,95,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,1,6,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,1,3,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,1,4,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,1,7,65-69 Male,5.0,65-69,Male,65-69
+2023 - 9,1,10,65-69 Male,2.0,65-69,Male,65-69
+2023 - 9,1,8,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,1,84,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,2,35,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,12,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,11,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,17,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,49,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,95,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,15,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,2,16,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,51,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,2,14,65-69 Male,0.0,65-69,Male,65-69
+2023 - 9,3,52,65-69 Male,2.0,65-69,Male,65-69
+2023 - 9,3,101,65-69 Male,1.0,65-69,Male,65-69
+2023 - 9,3,108,65-69 Male,1.0,65-69,Male,65-69
+2023 - 4,1,2,65-69 Female,2.0,65-69,Female,65-69
+2023 - 4,1,5,65-69 Female,2.0,65-69,Female,65-69
+2023 - 4,1,7,65-69 Female,4.0,65-69,Female,65-69
+2023 - 4,1,8,65-69 Female,2.0,65-69,Female,65-69
+2023 - 4,1,10,65-69 Female,4.0,65-69,Female,65-69
+2023 - 4,2,11,65-69 Female,2.0,65-69,Female,65-69
+2023 - 4,2,12,65-69 Female,3.0,65-69,Female,65-69
+2023 - 4,2,17,65-69 Female,1.0,65-69,Female,65-69
+2023 - 8,1,3,65-69 Female,3.0,65-69,Female,65-69
+2023 - 8,1,9,65-69 Female,1.0,65-69,Female,65-69
+2023 - 8,1,4,65-69 Female,2.0,65-69,Female,65-69
+2023 - 8,1,7,65-69 Female,2.0,65-69,Female,65-69
+2023 - 8,1,8,65-69 Female,5.0,65-69,Female,65-69
+2023 - 8,1,10,65-69 Female,2.0,65-69,Female,65-69
+2023 - 8,1,17,65-69 Female,1.0,65-69,Female,65-69
+2023 - 8,2,12,65-69 Female,2.0,65-69,Female,65-69
+2023 - 8,2,17,65-69 Female,1.0,65-69,Female,65-69
+2023 - 8,2,15,65-69 Female,1.0,65-69,Female,65-69
+2023 - 8,2,38,65-69 Female,3.0,65-69,Female,65-69
+2023 - 8,2,39,65-69 Female,1.0,65-69,Female,65-69
+2023 - 12,1,1,65-69 Female,1.0,65-69,Female,65-69
+2023 - 12,1,6,65-69 Female,2.0,65-69,Female,65-69
+2023 - 12,1,3,65-69 Female,1.0,65-69,Female,65-69
+2023 - 12,1,4,65-69 Female,3.0,65-69,Female,65-69
+2023 - 12,1,7,65-69 Female,4.0,65-69,Female,65-69
+2023 - 12,1,10,65-69 Female,13.0,65-69,Female,65-69
+2023 - 12,1,8,65-69 Female,3.0,65-69,Female,65-69
+2023 - 12,2,11,65-69 Female,1.0,65-69,Female,65-69
+2023 - 12,2,12,65-69 Female,3.0,65-69,Female,65-69
+2023 - 12,2,50,65-69 Female,4.0,65-69,Female,65-69
+2023 - 12,3,22,65-69 Female,1.0,65-69,Female,65-69
+2023 - 12,3,56,65-69 Female,1.0,65-69,Female,65-69
+2023 - 12,3,57,65-69 Female,1.0,65-69,Female,65-69
+2023 - 12,3,58,65-69 Female,1.0,65-69,Female,65-69
+2023 - 7,1,1,65-69 Female,2.0,65-69,Female,65-69
+2023 - 7,1,3,65-69 Female,1.0,65-69,Female,65-69
+2023 - 7,1,4,65-69 Female,2.0,65-69,Female,65-69
+2023 - 7,1,7,65-69 Female,4.0,65-69,Female,65-69
+2023 - 7,1,6,65-69 Female,1.0,65-69,Female,65-69
+2023 - 7,1,8,65-69 Female,4.0,65-69,Female,65-69
+2023 - 7,1,10,65-69 Female,2.0,65-69,Female,65-69
+2023 - 7,1,33,65-69 Female,2.0,65-69,Female,65-69
+2023 - 7,2,59,65-69 Female,3.0,65-69,Female,65-69
+2023 - 7,2,15,65-69 Female,1.0,65-69,Female,65-69
+2023 - 7,2,61,65-69 Female,1.0,65-69,Female,65-69
+2023 - 7,2,62,65-69 Female,1.0,65-69,Female,65-69
+2023 - 6,1,1,65-69 Female,5.0,65-69,Female,65-69
+2023 - 6,1,9,65-69 Female,2.0,65-69,Female,65-69
+2023 - 6,1,3,65-69 Female,1.0,65-69,Female,65-69
+2023 - 6,1,7,65-69 Female,4.0,65-69,Female,65-69
+2023 - 6,1,10,65-69 Female,3.0,65-69,Female,65-69
+2023 - 6,1,17,65-69 Female,1.0,65-69,Female,65-69
+2023 - 6,1,8,65-69 Female,2.0,65-69,Female,65-69
+2023 - 6,2,12,65-69 Female,3.0,65-69,Female,65-69
+2023 - 6,2,15,65-69 Female,3.0,65-69,Female,65-69
+2023 - 6,2,36,65-69 Female,1.0,65-69,Female,65-69
+2023 - 6,3,66,65-69 Female,1.0,65-69,Female,65-69
+2023 - 6,3,76,65-69 Female,1.0,65-69,Female,65-69
+2023 - 11,1,4,65-69 Female,2.0,65-69,Female,65-69
+2023 - 11,1,83,65-69 Female,3.0,65-69,Female,65-69
+2023 - 11,1,6,65-69 Female,2.0,65-69,Female,65-69
+2023 - 11,1,7,65-69 Female,6.0,65-69,Female,65-69
+2023 - 11,1,17,65-69 Female,1.0,65-69,Female,65-69
+2023 - 11,1,5,65-69 Female,1.0,65-69,Female,65-69
+2023 - 11,1,3,65-69 Female,1.0,65-69,Female,65-69
+2023 - 11,2,59,65-69 Female,3.0,65-69,Female,65-69
+2023 - 11,2,12,65-69 Female,3.0,65-69,Female,65-69
+2023 - 11,3,52,65-69 Female,1.0,65-69,Female,65-69
+2023 - 10,1,1,65-69 Female,1.0,65-69,Female,65-69
+2023 - 10,1,6,65-69 Female,2.0,65-69,Female,65-69
+2023 - 10,1,3,65-69 Female,1.0,65-69,Female,65-69
+2023 - 10,1,4,65-69 Female,4.0,65-69,Female,65-69
+2023 - 10,1,48,65-69 Female,1.0,65-69,Female,65-69
+2023 - 10,1,10,65-69 Female,5.0,65-69,Female,65-69
+2023 - 10,1,8,65-69 Female,4.0,65-69,Female,65-69
+2023 - 10,2,12,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,1,1,65-69 Female,2.0,65-69,Female,65-69
+2023 - 9,1,6,65-69 Female,2.0,65-69,Female,65-69
+2023 - 9,1,3,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,1,4,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,1,7,65-69 Female,5.0,65-69,Female,65-69
+2023 - 9,1,10,65-69 Female,4.0,65-69,Female,65-69
+2023 - 9,1,8,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,1,84,65-69 Female,2.0,65-69,Female,65-69
+2023 - 9,1,5,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,2,35,65-69 Female,0.0,65-69,Female,65-69
+2023 - 9,2,12,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,2,11,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,2,17,65-69 Female,1.0,65-69,Female,65-69
+2023 - 9,2,49,65-69 Female,0.0,65-69,Female,65-69
+2023 - 9,2,95,65-69 Female,2.0,65-69,Female,65-69
+2023 - 9,2,15,65-69 Female,0.0,65-69,Female,65-69
+2023 - 9,2,16,65-69 Female,0.0,65-69,Female,65-69
+2023 - 9,2,51,65-69 Female,0.0,65-69,Female,65-69
+2023 - 9,2,14,65-69 Female,0.0,65-69,Female,65-69
+2023 - 4,1,1,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,1,2,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,1,4,70 Over Male,2.0,70 Over,Male,70+
+2023 - 4,1,6,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,1,7,70 Over Male,7.0,70 Over,Male,70+
+2023 - 4,1,8,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,1,10,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,2,12,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,2,20,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,3,21,70 Over Male,3.0,70 Over,Male,70+
+2023 - 4,3,22,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,3,28,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,3,30,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,1,3,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,1,9,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,1,4,70 Over Male,3.0,70 Over,Male,70+
+2023 - 8,1,7,70 Over Male,10.0,70 Over,Male,70+
+2023 - 8,1,8,70 Over Male,2.0,70 Over,Male,70+
+2023 - 8,1,10,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,1,33,70 Over Male,2.0,70 Over,Male,70+
+2023 - 8,1,17,70 Over Male,2.0,70 Over,Male,70+
+2023 - 8,2,34,70 Over Male,2.0,70 Over,Male,70+
+2023 - 8,2,12,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,2,17,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,2,37,70 Over Male,3.0,70 Over,Male,70+
+2023 - 8,2,38,70 Over Male,2.0,70 Over,Male,70+
+2023 - 8,3,22,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,3,40,70 Over Male,2.0,70 Over,Male,70+
+2023 - 8,3,41,70 Over Male,1.0,70 Over,Male,70+
+2023 - 8,3,45,70 Over Male,1.0,70 Over,Male,70+
+2023 - 12,1,6,70 Over Male,5.0,70 Over,Male,70+
+2023 - 12,1,3,70 Over Male,4.0,70 Over,Male,70+
+2023 - 12,1,4,70 Over Male,1.0,70 Over,Male,70+
+2023 - 12,1,7,70 Over Male,19.0,70 Over,Male,70+
+2023 - 12,1,10,70 Over Male,3.0,70 Over,Male,70+
+2023 - 12,1,17,70 Over Male,3.0,70 Over,Male,70+
+2023 - 12,1,8,70 Over Male,2.0,70 Over,Male,70+
+2023 - 12,2,49,70 Over Male,1.0,70 Over,Male,70+
+2023 - 12,2,17,70 Over Male,4.0,70 Over,Male,70+
+2023 - 12,2,50,70 Over Male,1.0,70 Over,Male,70+
+2023 - 12,2,16,70 Over Male,1.0,70 Over,Male,70+
+2023 - 12,3,52,70 Over Male,1.0,70 Over,Male,70+
+2023 - 12,3,53,70 Over Male,1.0,70 Over,Male,70+
+2023 - 12,3,55,70 Over Male,1.0,70 Over,Male,70+
+2023 - 7,1,1,70 Over Male,2.0,70 Over,Male,70+
+2023 - 7,1,4,70 Over Male,2.0,70 Over,Male,70+
+2023 - 7,1,7,70 Over Male,6.0,70 Over,Male,70+
+2023 - 7,1,6,70 Over Male,1.0,70 Over,Male,70+
+2023 - 7,1,10,70 Over Male,2.0,70 Over,Male,70+
+2023 - 7,1,33,70 Over Male,1.0,70 Over,Male,70+
+2023 - 7,1,5,70 Over Male,2.0,70 Over,Male,70+
+2023 - 7,1,17,70 Over Male,2.0,70 Over,Male,70+
+2023 - 7,2,59,70 Over Male,9.0,70 Over,Male,70+
+2023 - 7,2,11,70 Over Male,2.0,70 Over,Male,70+
+2023 - 7,2,17,70 Over Male,2.0,70 Over,Male,70+
+2023 - 7,2,61,70 Over Male,1.0,70 Over,Male,70+
+2023 - 7,2,62,70 Over Male,1.0,70 Over,Male,70+
+2023 - 7,3,65,70 Over Male,1.0,70 Over,Male,70+
+2023 - 6,1,1,70 Over Male,2.0,70 Over,Male,70+
+2023 - 6,1,9,70 Over Male,1.0,70 Over,Male,70+
+2023 - 6,1,3,70 Over Male,2.0,70 Over,Male,70+
+2023 - 6,1,7,70 Over Male,10.0,70 Over,Male,70+
+2023 - 6,1,10,70 Over Male,2.0,70 Over,Male,70+
+2023 - 6,1,8,70 Over Male,1.0,70 Over,Male,70+
+2023 - 6,2,16,70 Over Male,1.0,70 Over,Male,70+
+2023 - 6,2,11,70 Over Male,2.0,70 Over,Male,70+
+2023 - 6,2,75,70 Over Male,3.0,70 Over,Male,70+
+2023 - 6,3,66,70 Over Male,1.0,70 Over,Male,70+
+2023 - 11,1,4,70 Over Male,3.0,70 Over,Male,70+
+2023 - 11,1,83,70 Over Male,5.0,70 Over,Male,70+
+2023 - 11,1,6,70 Over Male,5.0,70 Over,Male,70+
+2023 - 11,1,7,70 Over Male,7.0,70 Over,Male,70+
+2023 - 11,1,1,70 Over Male,2.0,70 Over,Male,70+
+2023 - 11,1,5,70 Over Male,1.0,70 Over,Male,70+
+2023 - 11,1,84,70 Over Male,4.0,70 Over,Male,70+
+2023 - 11,1,3,70 Over Male,2.0,70 Over,Male,70+
+2023 - 11,2,59,70 Over Male,7.0,70 Over,Male,70+
+2023 - 11,2,35,70 Over Male,1.0,70 Over,Male,70+
+2023 - 11,2,12,70 Over Male,1.0,70 Over,Male,70+
+2023 - 11,3,52,70 Over Male,3.0,70 Over,Male,70+
+2023 - 11,3,87,70 Over Male,1.0,70 Over,Male,70+
+2023 - 10,1,1,70 Over Male,1.0,70 Over,Male,70+
+2023 - 10,1,6,70 Over Male,2.0,70 Over,Male,70+
+2023 - 10,1,3,70 Over Male,1.0,70 Over,Male,70+
+2023 - 10,1,7,70 Over Male,13.0,70 Over,Male,70+
+2023 - 10,1,10,70 Over Male,4.0,70 Over,Male,70+
+2023 - 10,2,95,70 Over Male,1.0,70 Over,Male,70+
+2023 - 10,3,52,70 Over Male,1.0,70 Over,Male,70+
+2023 - 10,3,21,70 Over Male,1.0,70 Over,Male,70+
+2023 - 10,3,96,70 Over Male,1.0,70 Over,Male,70+
+2023 - 10,3,98,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,1,6,70 Over Male,2.0,70 Over,Male,70+
+2023 - 9,1,3,70 Over Male,2.0,70 Over,Male,70+
+2023 - 9,1,4,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,1,7,70 Over Male,9.0,70 Over,Male,70+
+2023 - 9,1,10,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,1,8,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,1,84,70 Over Male,7.0,70 Over,Male,70+
+2023 - 9,1,5,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,2,35,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,2,12,70 Over Male,0.0,70 Over,Male,70+
+2023 - 9,2,11,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,2,17,70 Over Male,2.0,70 Over,Male,70+
+2023 - 9,2,49,70 Over Male,0.0,70 Over,Male,70+
+2023 - 9,2,95,70 Over Male,2.0,70 Over,Male,70+
+2023 - 9,2,15,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,2,16,70 Over Male,0.0,70 Over,Male,70+
+2023 - 9,2,51,70 Over Male,0.0,70 Over,Male,70+
+2023 - 9,2,14,70 Over Male,1.0,70 Over,Male,70+
+2023 - 9,3,106,70 Over Male,1.0,70 Over,Male,70+
+2023 - 4,1,1,70 Over Female,2.0,70 Over,Female,70+
+2023 - 4,1,2,70 Over Female,1.0,70 Over,Female,70+
+2023 - 4,1,3,70 Over Female,2.0,70 Over,Female,70+
+2023 - 4,1,4,70 Over Female,3.0,70 Over,Female,70+
+2023 - 4,1,5,70 Over Female,1.0,70 Over,Female,70+
+2023 - 4,1,6,70 Over Female,6.0,70 Over,Female,70+
+2023 - 4,1,7,70 Over Female,7.0,70 Over,Female,70+
+2023 - 4,1,8,70 Over Female,3.0,70 Over,Female,70+
+2023 - 4,1,10,70 Over Female,5.0,70 Over,Female,70+
+2023 - 4,2,12,70 Over Female,7.0,70 Over,Female,70+
+2023 - 4,2,15,70 Over Female,1.0,70 Over,Female,70+
+2023 - 4,2,16,70 Over Female,1.0,70 Over,Female,70+
+2023 - 4,2,17,70 Over Female,3.0,70 Over,Female,70+
+2023 - 4,3,24,70 Over Female,1.0,70 Over,Female,70+
+2023 - 4,3,29,70 Over Female,1.0,70 Over,Female,70+
+2023 - 4,3,32,70 Over Female,1.0,70 Over,Female,70+
+2023 - 8,1,1,70 Over Female,3.0,70 Over,Female,70+
+2023 - 8,1,3,70 Over Female,3.0,70 Over,Female,70+
+2023 - 8,1,4,70 Over Female,1.0,70 Over,Female,70+
+2023 - 8,1,7,70 Over Female,9.0,70 Over,Female,70+
+2023 - 8,1,8,70 Over Female,7.0,70 Over,Female,70+
+2023 - 8,1,5,70 Over Female,1.0,70 Over,Female,70+
+2023 - 8,1,10,70 Over Female,3.0,70 Over,Female,70+
+2023 - 8,1,33,70 Over Female,5.0,70 Over,Female,70+
+2023 - 8,2,34,70 Over Female,4.0,70 Over,Female,70+
+2023 - 8,2,12,70 Over Female,2.0,70 Over,Female,70+
+2023 - 8,2,35,70 Over Female,1.0,70 Over,Female,70+
+2023 - 8,2,15,70 Over Female,1.0,70 Over,Female,70+
+2023 - 8,2,37,70 Over Female,7.0,70 Over,Female,70+
+2023 - 8,2,16,70 Over Female,1.0,70 Over,Female,70+
+2023 - 8,2,39,70 Over Female,2.0,70 Over,Female,70+
+2023 - 8,3,22,70 Over Female,1.0,70 Over,Female,70+
+2023 - 8,3,43,70 Over Female,1.0,70 Over,Female,70+
+2023 - 12,1,1,70 Over Female,6.0,70 Over,Female,70+
+2023 - 12,1,6,70 Over Female,9.0,70 Over,Female,70+
+2023 - 12,1,3,70 Over Female,4.0,70 Over,Female,70+
+2023 - 12,1,4,70 Over Female,4.0,70 Over,Female,70+
+2023 - 12,1,7,70 Over Female,10.0,70 Over,Female,70+
+2023 - 12,1,5,70 Over Female,4.0,70 Over,Female,70+
+2023 - 12,1,10,70 Over Female,4.0,70 Over,Female,70+
+2023 - 12,1,17,70 Over Female,4.0,70 Over,Female,70+
+2023 - 12,1,8,70 Over Female,2.0,70 Over,Female,70+
+2023 - 12,2,11,70 Over Female,4.0,70 Over,Female,70+
+2023 - 12,2,12,70 Over Female,4.0,70 Over,Female,70+
+2023 - 12,2,17,70 Over Female,3.0,70 Over,Female,70+
+2023 - 12,2,50,70 Over Female,3.0,70 Over,Female,70+
+2023 - 12,3,52,70 Over Female,2.0,70 Over,Female,70+
+2023 - 12,3,23,70 Over Female,1.0,70 Over,Female,70+
+2023 - 7,1,1,70 Over Female,6.0,70 Over,Female,70+
+2023 - 7,1,3,70 Over Female,1.0,70 Over,Female,70+
+2023 - 7,1,4,70 Over Female,2.0,70 Over,Female,70+
+2023 - 7,1,7,70 Over Female,12.0,70 Over,Female,70+
+2023 - 7,1,8,70 Over Female,3.0,70 Over,Female,70+
+2023 - 7,1,10,70 Over Female,8.0,70 Over,Female,70+
+2023 - 7,1,33,70 Over Female,1.0,70 Over,Female,70+
+2023 - 7,1,5,70 Over Female,1.0,70 Over,Female,70+
+2023 - 7,2,59,70 Over Female,17.0,70 Over,Female,70+
+2023 - 7,2,11,70 Over Female,3.0,70 Over,Female,70+
+2023 - 7,2,12,70 Over Female,2.0,70 Over,Female,70+
+2023 - 7,2,60,70 Over Female,1.0,70 Over,Female,70+
+2023 - 7,2,62,70 Over Female,5.0,70 Over,Female,70+
+2023 - 7,3,65,70 Over Female,1.0,70 Over,Female,70+
+2023 - 7,3,22,70 Over Female,1.0,70 Over,Female,70+
+2023 - 6,1,1,70 Over Female,2.0,70 Over,Female,70+
+2023 - 6,1,4,70 Over Female,5.0,70 Over,Female,70+
+2023 - 6,1,9,70 Over Female,4.0,70 Over,Female,70+
+2023 - 6,1,3,70 Over Female,3.0,70 Over,Female,70+
+2023 - 6,1,7,70 Over Female,12.0,70 Over,Female,70+
+2023 - 6,1,10,70 Over Female,6.0,70 Over,Female,70+
+2023 - 6,1,5,70 Over Female,3.0,70 Over,Female,70+
+2023 - 6,1,17,70 Over Female,1.0,70 Over,Female,70+
+2023 - 6,1,8,70 Over Female,1.0,70 Over,Female,70+
+2023 - 6,2,12,70 Over Female,2.0,70 Over,Female,70+
+2023 - 6,2,15,70 Over Female,1.0,70 Over,Female,70+
+2023 - 6,2,36,70 Over Female,1.0,70 Over,Female,70+
+2023 - 6,2,75,70 Over Female,3.0,70 Over,Female,70+
+2023 - 6,3,66,70 Over Female,2.0,70 Over,Female,70+
+2023 - 6,3,77,70 Over Female,1.0,70 Over,Female,70+
+2023 - 6,3,79,70 Over Female,1.0,70 Over,Female,70+
+2023 - 11,1,4,70 Over Female,3.0,70 Over,Female,70+
+2023 - 11,1,83,70 Over Female,6.0,70 Over,Female,70+
+2023 - 11,1,6,70 Over Female,4.0,70 Over,Female,70+
+2023 - 11,1,7,70 Over Female,12.0,70 Over,Female,70+
+2023 - 11,1,1,70 Over Female,2.0,70 Over,Female,70+
+2023 - 11,1,17,70 Over Female,1.0,70 Over,Female,70+
+2023 - 11,1,5,70 Over Female,1.0,70 Over,Female,70+
+2023 - 11,1,84,70 Over Female,2.0,70 Over,Female,70+
+2023 - 11,1,3,70 Over Female,2.0,70 Over,Female,70+
+2023 - 11,2,39,70 Over Female,2.0,70 Over,Female,70+
+2023 - 11,2,59,70 Over Female,15.0,70 Over,Female,70+
+2023 - 11,2,16,70 Over Female,1.0,70 Over,Female,70+
+2023 - 11,2,12,70 Over Female,2.0,70 Over,Female,70+
+2023 - 11,3,52,70 Over Female,2.0,70 Over,Female,70+
+2023 - 11,3,93,70 Over Female,1.0,70 Over,Female,70+
+2023 - 11,3,94,70 Over Female,1.0,70 Over,Female,70+
+2023 - 10,1,6,70 Over Female,8.0,70 Over,Female,70+
+2023 - 10,1,3,70 Over Female,1.0,70 Over,Female,70+
+2023 - 10,1,4,70 Over Female,4.0,70 Over,Female,70+
+2023 - 10,1,7,70 Over Female,11.0,70 Over,Female,70+
+2023 - 10,1,10,70 Over Female,13.0,70 Over,Female,70+
+2023 - 10,1,8,70 Over Female,2.0,70 Over,Female,70+
+2023 - 10,1,17,70 Over Female,1.0,70 Over,Female,70+
+2023 - 10,2,12,70 Over Female,5.0,70 Over,Female,70+
+2023 - 10,2,17,70 Over Female,2.0,70 Over,Female,70+
+2023 - 10,2,15,70 Over Female,2.0,70 Over,Female,70+
+2023 - 10,2,95,70 Over Female,5.0,70 Over,Female,70+
+2023 - 10,3,41,70 Over Female,1.0,70 Over,Female,70+
+2023 - 9,1,1,70 Over Female,1.0,70 Over,Female,70+
+2023 - 9,1,3,70 Over Female,3.0,70 Over,Female,70+
+2023 - 9,1,4,70 Over Female,6.0,70 Over,Female,70+
+2023 - 9,1,7,70 Over Female,11.0,70 Over,Female,70+
+2023 - 9,1,10,70 Over Female,13.0,70 Over,Female,70+
+2023 - 9,1,8,70 Over Female,4.0,70 Over,Female,70+
+2023 - 9,1,48,70 Over Female,1.0,70 Over,Female,70+
+2023 - 9,1,84,70 Over Female,1.0,70 Over,Female,70+
+2023 - 9,1,5,70 Over Female,1.0,70 Over,Female,70+
+2023 - 9,2,35,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,12,70 Over Female,6.0,70 Over,Female,70+
+2023 - 9,2,11,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,17,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,49,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,95,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,15,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,16,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,51,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,2,14,70 Over Female,0.0,70 Over,Female,70+
+2023 - 9,3,102,70 Over Female,1.0,70 Over,Female,70+
+2023 - 9,3,103,70 Over Female,1.0,70 Over,Female,70+

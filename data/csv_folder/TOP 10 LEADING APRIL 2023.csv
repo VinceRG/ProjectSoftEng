@@ -1,0 +1,33 @@
+Month_year,Consultation_Type,Case,Under 1 Male,Under 1 Female,1-4 Male,1-4 Female,5-9 Male,5-9 Female,10-14 Male,10-14 Female,15-18 Male,15-18 Female,19-24 Male,19-24 Female,25-29 Male,25-29 Female,30-34 Male,30-34 Female,35-39 Male,35-39 Female,40-44 Male,40-44 Female,45-49 Male,45-49 Female,50-54 Male,50-54 Female,55-59 Male,55-59 Female,60-64 Male,60-64 Female,65-69 Male,65-69 Female,70 Over Male,70 Over Female
+2023 - 4,Consultation,FEVER,29,29,93,66,55,56,14,7,6,2,4,2,2,7,,2,3,,1,,,,,,4,2,1,,,,1,2
+2023 - 4,Consultation,FOR RAT ONLY,,,,,1,,6,,2,3,12,33,10,48,13,44,9,34,3,32,9,14,3,16,6,13,2,6,1,2,1,1
+2023 - 4,Consultation,VOMITING,12,12,37,39,25,16,,6,4,1,,2,,1,,1,,1,1,,1,1,,1,1,,3,,,,,2
+2023 - 4,Consultation,ABDOMINAL PAIN,1,,12,15,14,14,11,7,7,6,2,10,4,7,,6,3,5,2,1,1,2,,3,2,2,1,5,2,,2,3
+2023 - 4,Consultation,LBM,30,14,42,19,5,6,3,3,1,1,,4,2,,,1,1,2,,,,1,2,2,1,1,1,1,1,2,,1
+2023 - 4,Consultation,COUGH,13,18,26,19,8,11,,2,2,2,,1,,2,1,,,1,2,,1,,,1,,2,,2,1,,1,6
+2023 - 4,Consultation,DOB,5,2,4,3,3,2,1,3,,1,6,3,3,3,2,2,,2,4,2,3,1,2,2,7,3,4,5,4,4,7,7
+2023 - 4,Consultation,EPIGASTRIC PAIN,,,2,3,4,3,3,4,3,9,1,9,3,6,,3,1,5,,5,1,1,,2,,3,2,2,1,2,1,3
+2023 - 4,Consultation,COUGH AND COLDS,15,10,32,9,1,6,1,,,1,,,,,,,,2,,,,,,,,1,,,,,,
+2023 - 4,Consultation,DIZZINESS,,,,,1,,1,3,1,1,1,1,1,3,1,5,1,3,2,2,,5,3,4,2,,6,1,1,4,1,5
+2023 - 4,Diagnosis,AGE,29,29,57,28,13,6,3,3,1,2,1,4,4,,,2,,2,,1,1,1,1,2,1,,,3,,2,,
+2023 - 4,Diagnosis,UTI,,,17,23,10,29,3,6,5,6,,9,3,7,,8,2,6,1,2,,2,3,3,,3,2,3,1,3,1,7
+2023 - 4,Diagnosis,PCAP-A,12,12,43,28,16,18,2,4,1,2,,,,,,,,,,,,,,,,,,,,,,
+2023 - 4,Diagnosis,URTI,1,,22,12,7,5,1,2,2,2,,4,1,2,,,,1,,1,,,,,,,,,,,,
+2023 - 4,Diagnosis,ACUTE GASTRITIS,30,14,5,9,8,13,4,5,2,4,3,6,,3,,1,,3,2,2,,,,,1,3,,,1,,,1
+2023 - 4,Diagnosis,SVI,13,18,17,12,9,7,1,2,4,,2,,,1,,,,1,,,,,,,2,,,,,,,1
+2023 - 4,Diagnosis,LACERATED WOUND,5,2,7,6,8,5,7,3,2,1,4,2,5,,,,1,1,2,,1,,1,1,2,1,1,,,1,,3
+2023 - 4,Diagnosis,PCAP-B,,,15,15,2,2,,,1,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 4,Diagnosis,PCAP-C,15,10,17,9,3,3,,,,,,1,,,,,,,,,,,,,,,,,,,,
+2023 - 4,Diagnosis,ATP,,,8,5,10,7,5,,2,1,,,,,,,1,,,,1,,,2,,,,,,,1,
+2023 - 4,Mortality,OUT OF HOSPITAL CARDIAC ARREST,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,3,
+2023 - 4,Mortality,SEPTIC SHOCK,1,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,1,
+2023 - 4,Mortality,ACUTE MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,1,,,
+2023 - 4,Mortality,"SUBARACHNOID HEMORRHAGE; CAP HR; ACS NSTEMI, COVID PROBABLE RAT (-)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2023 - 4,Mortality,"NON-TRAUMATIC INTRACEREBRAL HEMORRAGE S/P CP ARREST X2, RTPCR NEGATIVE",,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,
+2023 - 4,Mortality,"ACUTE RESP DISTRESS SYNDROME, SEVERE PNEUMONIA, COVID SUSPECT",1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 4,Mortality,PNEUMONIA SEVERE; COVID-19 PROBABLE; BRONCHIAL ASTHMA IN ACUT EXACERBATION,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 4,Mortality,COVID-19 PNEUMONIA CRITICAL ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+2023 - 4,Mortality,"Septicaemia, unspecified ;  Negative COVID patient",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2023 - 4,Mortality,DM II UNCONTROLLED; ENCEPHALOPATHY MULTIFACTORIAL-HYPOXIC METABOLIC;HASCVD; ASPIRATION PNEUMONIA; COVID PROBABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+2023 - 4,Mortality,ACUTE RESPIRATORY FAILURE; CAPHR; COVID PROBABLE; SEPTIC SHOCK; CARDIAC DYSRHYTHMIA; ELECTROLYTE IMBALANCE R/O ACS S/P ARREST ,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,
+2023 - 4,Mortality,MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1

@@ -1,0 +1,32 @@
+Month_year,Consultation_Type,Case,Under 1 Male,Under 1 Female,1-4 Male,1-4 Female,5-9 Male,5-9 Female,10-14 Male,10-14 Female,15-18 Male,15-18 Female,19-24 Male,19-24 Female,25-29 Male,25-29 Female,30-34 Male,30-34 Female,35-39 Male,35-39 Female,40-44 Male,40-44 Female,45-49 Male,45-49 Female,50-54 Male,50-54 Female,55-59 Male,55-59 Female,60-64 Male,60-64 Female,65-69 Male,65-69 Female,70 Over Male,70 Over Female
+2023 - 12,Consultation,FEVER,39,22,86,61,83,62,39,30,11,14,11,15,6,5,4,4,2,1,4,2,1,2,1,2,3,2,2,,1,1,,6
+2023 - 12,Consultation,COUGH,38,36,57,46,33,31,11,10,6,7,4,4,3,7,5,5,,5,1,2,1,4,2,,1,1,1,1,1,2,5,9
+2023 - 12,Consultation,VOMITING,13,13,50,43,23,19,15,9,1,6,1,10,1,2,4,2,1,,,1,2,,1,4,,1,1,1,1,1,4,4
+2023 - 12,Consultation,ABDOMINAL PAIN,,,10,3,15,16,4,2,3,11,6,10,3,14,5,7,1,4,3,4,2,4,1,,3,3,,,1,3,1,4
+2023 - 12,Consultation,DOB,7,3,5,5,,1,1,2,2,5,4,7,,2,2,2,2,4,3,,1,3,3,2,9,5,3,2,5,4,19,10
+2023 - 12,Consultation,LBM,13,12,21,14,8,6,2,1,1,,,1,,3,1,,,1,,1,,,1,1,,,,1,,,,4
+2023 - 12,Consultation,DIZZINESS,,,,,3,1,,6,,2,1,2,7,3,1,1,2,2,5,3,,2,1,1,2,8,3,3,2,13,3,4
+2023 - 12,Consultation,LACERATED WOUND,,,8,7,12,7,7,3,2,1,5,3,1,1,2,,1,1,1,,,,2,,1,,,1,,,3,4
+2023 - 12,Consultation,RASHES,4,4,13,10,8,7,4,6,2,1,2,2,1,3,,1,,,1,,,,,1,,1,,,,,,
+2023 - 12,Consultation,EPIGASTRIC PAIN,,,1,1,1,1,2,2,2,4,2,7,3,4,1,7,2,3,5,2,,2,,2,1,1,,2,1,3,2,2
+2023 - 12,Diagnosis,PCAP,23,15,31,27,13,8,4,5,2,3,,,,,1,,,,,,,,,,,,,,,,,
+2023 - 12,Diagnosis,DFS,,1,8,12,14,22,20,14,7,11,2,7,2,1,3,2,,,1,,,,,2,,,,,,,1,
+2023 - 12,Diagnosis,AGE,11,9,32,23,13,8,4,2,,1,,1,,1,2,,,,,1,,,,1,1,,,,1,1,,4
+2023 - 12,Diagnosis,UTI,,2,6,12,8,7,4,2,1,3,1,9,,5,,2,,3,1,5,,3,,2,1,1,1,1,1,3,,4
+2023 - 12,Diagnosis,LACERATED WOUND,,,11,6,12,7,5,2,1,1,3,1,1,1,2,,2,1,1,,,,,,1,,,1,,,4,3
+2023 - 12,Diagnosis,ACUTE GASTRITIS,1,4,9,2,8,4,1,5,,6,,1,2,1,1,,,,,,,1,,,,,,,,,,
+2023 - 12,Diagnosis,HTN,,,,,,,,,1,,,1,1,,,1,2,2,2,1,1,1,1,3,1,1,4,3,1,4,1,3
+2023 - 12,Diagnosis,URTI,1,3,6,6,4,1,3,,1,,1,,,1,1,2,,1,,,1,1,,,,,,,,,,
+2023 - 12,Diagnosis,SVI,1,1,2,3,8,,,2,,1,1,1,,,,1,,,,1,,,,,,1,,,,,1,
+2023 - 12,Diagnosis,BFC,2,2,11,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 12,Mortality,DEAD ON ARRIVAL,,,1,,,,,,,,1,,,,,,,,,,,,,,1,,,,,,1,2
+2023 - 12,Mortality,SEPTIC SHOCK,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
+2023 - 12,Mortality,ACUTE MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1
+2023 - 12,Mortality,CARDIOGENIC SHOCK,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,1,
+2023 - 12,Mortality,ACUTE KIDNEY INJURY ON TOP OF PROBABLE CHRONIC KIDNEY DISEASE,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,
+2023 - 12,Mortality,MULTIFACTORIAL SHOCK SECONDARY TO: 1. CARDIOGENIC SHOCK SEC. TO ACS NSTEMI 2. SEPTIC SHOCK SEC TO CAP-MR 3. MULTIPLE ELECTROLYTE IMBALANCE 4. AKI ON TOP OF CKD SEC. TO DKD 5. T2DM 6. COVID PROBABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+2023 - 12,Mortality,"AMI, DEAD ON ARRIVAL NON COVID",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
+2023 - 12,Mortality,"ARF IN SHOCK PROBABLY SECONDARY TO CAP-HR, UTI, INFECTED DECUBITUS ULCER GRADE III, METABOLIC ENCEPHALOPATHY FROM PROFOUND SEVERELY SYMPTOMATIC HYPOVOLEMIC HYPONATREMIA, SEVERE ANEMIA PROBABLY SECONDARY TO ACUTE INFLAMMATION, R/O OCCULT GI BLEED",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
+2023 - 12,Mortality,"CARDIOEMBOLIC STROKE, LEFT MCA; CARDIAC DYSTHRYTHMIA, (AF PAROXYSMAL); HASCVD; CAP-MR; TYPE 2 DM",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
+2023 - 12,Mortality,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 12,Mortality,,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,4,3,3
