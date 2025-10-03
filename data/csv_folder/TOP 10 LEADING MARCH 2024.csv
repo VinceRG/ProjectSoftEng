@@ -1,66 +1,32 @@
-Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36
-,,PASIG CITY CHILDREN'S HOSPITAL/PASIG CITY COVID-19 REFERRAL CENTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,MONTHLY CENSUS REPORT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,AREA: EMERGENCY ROOM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,MONTH AND YEAR: MARCH 2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,TOP 10 LEADING CASES OF CONSULTATION,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,CASE,AGE DISTRIBUTION,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,UNDER 1,,1-4,,5-9,,10-14,,15-18,,19-24,,25-29,,30-34,,35-39,,40-44,,45-49,,50-54,,55-59,,60-64,,65-69,,70 & OVER,,Grand Total,,
-,,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,Grand Total
-1.0,FEVER,24,21,75,55,56,54,19,15,2,3,1,4,2,3,1,1,1,1,1,1,,1,,,1,1,,1,1,3,,4,165,168,333
-2.0,VOMITING,19,13,49,53,32,28,4,11,2,1,,4,,3,,1,,2,,2,,,1,,,5,,1,1,,,5,104,129,233
-3.0,COUGH,37,27,39,36,29,12,7,9,2,3,,1,1,,1,2,2,2,2,2,3,,1,4,1,3,2,,1,,2,3,123,104,227
-4.0,ABDOMINAL PAIN,1,,12,15,27,19,6,5,5,7,10,10,3,6,2,5,,3,3,4,1,1,1,3,3,2,1,3,2,1,4,6,75,90,165
-5.0,LBM,17,19,33,34,12,4,,1,1,3,,1,,,,2,,1,2,2,,,2,1,1,1,,,,,1,2,69,71,140
-6.0,DOB,6,4,8,6,4,3,,4,2,3,3,4,2,3,1,2,2,1,3,4,2,3,1,3,1,2,2,1,4,5,10,14,51,62,113
-7.0,DIZZINESS,,,,,,1,1,3,1,2,1,5,3,4,,5,2,4,5,7,3,7,3,3,5,3,4,4,2,7,4,14,33,69,102
-8.0,EPIGASTRIC PAIN,1,,1,,7,2,6,3,1,6,6,6,1,12,3,4,3,4,3,3,3,4,2,4,,2,,3,1,3,2,2,34,58,92
-9.0,CHEST PAIN,,,,,1,3,1,3,2,,4,8,2,5,3,2,1,,2,5,2,5,1,2,3,1,5,3,3,4,3,2,32,43,75
-10.0,SOB,6,1,9,11,1,5,2,3,1,2,,2,1,1,,4,1,1,,1,1,,,3,2,,3,,3,,1,2,29,36,65
-,TOTAL,111,85,226,210,169,131,46,57,19,30,25,45,15,37,11,28,12,19,21,31,15,21,12,23,17,20,17,16,18,23,27,54,715,830,1545
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,PASIG CITY CHILDREN'S HOSPITAL/PASIG CITY COVID-19 REFERRAL CENTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,MONTHLY CENSUS REPORT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,AREA: EMERGENCY ROOM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,MONTH AND YEAR: MARCH 2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,TOP 10 LEADING DIAGNOSIS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,CASE,AGE DISTRIBUTION,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,UNDER 1,,1-4,,5-9,,10-14,,15-18,,19-24,,25-29,,30-34,,35-39,,40-44,,45-49,,50-54,,55-59,,60-64,,65-69,,70 & OVER,,Grand Total,,
-,,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,Grand Total
-1.0,PNEUMONIA,35,23,32,24,11,9,2,1,3,2,2,1,1,,2,1,2,,2,1,1,4,,4,,2,,2,2,2,4,10,97,86,183
-2.0,AGE,23,19,33,33,13,8,3,1,1,1,,2,1,,2,2,,4,1,6,,,,,,3,,,,,,1,74,80,154
-3.0,UTI,1,3,6,10,8,14,5,6,1,2,1,12,,7,,2,,5,,2,1,2,,5,1,3,3,2,1,2,2,12,25,89,114
-4.0,LACERATED WOUND,,,8,4,11,5,6,3,4,,6,1,1,2,1,,1,2,1,,2,2,2,1,,,2,1,,,,2,39,23,62
-5.0,FRACTURE,1,1,5,1,2,5,4,4,3,2,2,,2,2,,1,3,1,1,,1,,,,3,2,,,,,,1,23,20,43
-6.0,BAIAE,1,,5,6,5,2,1,1,,1,1,4,,,,1,1,1,1,,,1,,3,1,1,1,,1,1,,1,17,23,40
-7.0,HSR,2,,2,2,7,2,1,1,2,2,1,2,1,,1,1,2,,,1,,,,,,1,,,1,,1,1,20,13,33
-8.0,ACUTE GASTRITIS,,1,2,6,9,2,2,2,,1,2,3,,1,,,,1,,,,,,,1,,,,,,,,14,17,31
-9.0,ACS,,,,,,,,,,,,,1,,,,1,,,1,2,,3,,1,,4,1,1,1,6,2,19,5,24
-10.0,ABRASION,,,3,2,2,1,1,1,1,1,2,1,1,2,2,,,,,,1,1,,,,1,,,,,,,12,10,22
-,TOTAL,63,47,96,88,68,48,25,20,15,12,17,26,8,14,8,8,10,14,6,11,8,10,5,13,7,13,10,6,6,6,13,30,340,366,706
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,PASIG CITY CHILDREN'S HOSPITAL/PASIG CITY COVID-19 REFERRAL CENTER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,MONTHLY CENSUS REPORT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,AREA: EMERGENCY ROOM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,MONTH AND YEAR: MARCH 2024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,TOP 10 LEADING CAUSES OF MORTALITY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,CASE,AGE DISTRIBUTION,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,UNDER 1,,1-4,,5-9,,10-14,,15-18,,19-24,,25-29,,30-34,,35-39,,40-44,,45-49,,50-54,,55-59,,60-64,,65-69,,70 & OVER,,Grand Total,,
-,,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,MALE,FEMALE,Grand Total
-1.0,ACUTE MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,,,,,,,,,1,,1,1,,,,,,,2,1,3
-2.0,SEPTIC SHOCK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,2
-3.0,ASPIRATION PNEUMONIA; CEREBRAL PALSY SPASTIC QUADRIPLEGIC,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
-4.0,DOA,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,0,1,1
-5.0,"PRESUMED TRAUMATIC BRAIN INJURY SECONDARY TO ALLEGED BLUNT TRAUMA TO THE HEAD; MULTIPLE PHYSICAL INJURIES
-",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
-6.0,BRAIN HERNIATION SECONDARY TO TRAUMATIC BRAIN INJURY SECONDARY TO MOTORVEHICULAR ACCIDENT,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,1,0,1
-7.0,ARF SEC TO PULMONARY TUBERCULOSIS RULE OUT PULMONARY MASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1
-8.0,BRAIN STEM FAILURE SECONDARY TO HYPERTENSIVE CVD BLEED,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,1,0,1
-9.0,"ACUTE CORONARY SYNDROME, SEPTIC SHOCK",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1
-10.0,CARDIOGENIC SHOCK SEC. TO ACS NSTEMI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,0,1
-,TOTAL,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,2,3,8,5,13
+Month_year,Consultation_Type,Case,Under 1 Male,Under 1 Female,1-4 Male,1-4 Female,5-9 Male,5-9 Female,10-14 Male,10-14 Female,15-18 Male,15-18 Female,19-24 Male,19-24 Female,25-29 Male,25-29 Female,30-34 Male,30-34 Female,35-39 Male,35-39 Female,40-44 Male,40-44 Female,45-49 Male,45-49 Female,50-54 Male,50-54 Female,55-59 Male,55-59 Female,60-64 Male,60-64 Female,65-69 Male,65-69 Female,70 Over Male,70 Over Female
+2024 - 3,Consultation,FEVER,24,21,75,55,56,54,19,15,2,3,1,4,2,3,1,1,1,1,1,1,,1,,,1,1,,1,1,3,,4
+2024 - 3,Consultation,VOMITING,19,13,49,53,32,28,4,11,2,1,,4,,3,,1,,2,,2,,,1,,,5,,1,1,,,5
+2024 - 3,Consultation,COUGH,37,27,39,36,29,12,7,9,2,3,,1,1,,1,2,2,2,2,2,3,,1,4,1,3,2,,1,,2,3
+2024 - 3,Consultation,ABDOMINAL PAIN,1,,12,15,27,19,6,5,5,7,10,10,3,6,2,5,,3,3,4,1,1,1,3,3,2,1,3,2,1,4,6
+2024 - 3,Consultation,LBM,17,19,33,34,12,4,,1,1,3,,1,,,,2,,1,2,2,,,2,1,1,1,,,,,1,2
+2024 - 3,Consultation,DOB,6,4,8,6,4,3,,4,2,3,3,4,2,3,1,2,2,1,3,4,2,3,1,3,1,2,2,1,4,5,10,14
+2024 - 3,Consultation,DIZZINESS,,,,,,1,1,3,1,2,1,5,3,4,,5,2,4,5,7,3,7,3,3,5,3,4,4,2,7,4,14
+2024 - 3,Consultation,EPIGASTRIC PAIN,1,,1,,7,2,6,3,1,6,6,6,1,12,3,4,3,4,3,3,3,4,2,4,,2,,3,1,3,2,2
+2024 - 3,Consultation,CHEST PAIN,,,,,1,3,1,3,2,,4,8,2,5,3,2,1,,2,5,2,5,1,2,3,1,5,3,3,4,3,2
+2024 - 3,Consultation,SOB,6,1,9,11,1,5,2,3,1,2,,2,1,1,,4,1,1,,1,1,,,3,2,,3,,3,,1,2
+2024 - 3,Diagnosis,PNEUMONIA,35,23,32,24,11,9,2,1,3,2,2,1,1,,2,1,2,,2,1,1,4,,4,,2,,2,2,2,4,10
+2024 - 3,Diagnosis,AGE,23,19,33,33,13,8,3,1,1,1,,2,1,,2,2,,4,1,6,,,,,,3,,,,,,1
+2024 - 3,Diagnosis,UTI,1,3,6,10,8,14,5,6,1,2,1,12,,7,,2,,5,,2,1,2,,5,1,3,3,2,1,2,2,12
+2024 - 3,Diagnosis,LACERATED WOUND,,,8,4,11,5,6,3,4,,6,1,1,2,1,,1,2,1,,2,2,2,1,,,2,1,,,,2
+2024 - 3,Diagnosis,FRACTURE,1,1,5,1,2,5,4,4,3,2,2,,2,2,,1,3,1,1,,1,,,,3,2,,,,,,1
+2024 - 3,Diagnosis,BAIAE,1,,5,6,5,2,1,1,,1,1,4,,,,1,1,1,1,,,1,,3,1,1,1,,1,1,,1
+2024 - 3,Diagnosis,HSR,2,,2,2,7,2,1,1,2,2,1,2,1,,1,1,2,,,1,,,,,,1,,,1,,1,1
+2024 - 3,Diagnosis,ACUTE GASTRITIS,,1,2,6,9,2,2,2,,1,2,3,,1,,,,1,,,,,,,1,,,,,,,
+2024 - 3,Diagnosis,ACS,,,,,,,,,,,,,1,,,,1,,,1,2,,3,,1,,4,1,1,1,6,2
+2024 - 3,Diagnosis,ABRASION,,,3,2,2,1,1,1,1,1,2,1,1,2,2,,,,,,1,1,,,,1,,,,,,
+2024 - 3,Mortality,ACUTE MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,,,,,,,,,1,,1,1,,,,,,
+2024 - 3,Mortality,SEPTIC SHOCK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
+2024 - 3,Mortality,ASPIRATION PNEUMONIA; CEREBRAL PALSY SPASTIC QUADRIPLEGIC,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024 - 3,Mortality,DOA,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,
+2024 - 3,Mortality,"PRESUMED TRAUMATIC BRAIN INJURY SECONDARY TO ALLEGED BLUNT TRAUMA TO THE HEAD; MULTIPLE PHYSICAL INJURIES
+",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024 - 3,Mortality,BRAIN HERNIATION SECONDARY TO TRAUMATIC BRAIN INJURY SECONDARY TO MOTORVEHICULAR ACCIDENT,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+2024 - 3,Mortality,ARF SEC TO PULMONARY TUBERCULOSIS RULE OUT PULMONARY MASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2024 - 3,Mortality,BRAIN STEM FAILURE SECONDARY TO HYPERTENSIVE CVD BLEED,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+2024 - 3,Mortality,"ACUTE CORONARY SYNDROME, SEPTIC SHOCK",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2024 - 3,Mortality,CARDIOGENIC SHOCK SEC. TO ACS NSTEMI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,

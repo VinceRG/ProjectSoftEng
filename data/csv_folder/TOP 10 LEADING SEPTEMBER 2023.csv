@@ -1,0 +1,32 @@
+Month_year,Consultation_Type,Case,Under 1 Male,Under 1 Female,1-4 Male,1-4 Female,5-9 Male,5-9 Female,10-14 Male,10-14 Female,15-18 Male,15-18 Female,19-24 Male,19-24 Female,25-29 Male,25-29 Female,30-34 Male,30-34 Female,35-39 Male,35-39 Female,40-44 Male,40-44 Female,45-49 Male,45-49 Female,50-54 Male,50-54 Female,55-59 Male,55-59 Female,60-64 Male,60-64 Female,65-69 Male,65-69 Female,70 Over Male,70 Over Female
+2023 - 9,Consultation,FEVER,25,32,102,94,86,44,30,24,16,10,11,7,5,4,1,3,2,1,2,3,1,2,3,,,1,,1,,2,,1
+2023 - 9,Consultation,COUGH,77,54,69,66,53,29,5,7,4,3,1,3,1,1,2,,1,1,1,1,1,1,,,1,1,1,2,1,2,2,
+2023 - 9,Consultation,VOMITING,10,10,29,28,23,18,6,11,1,4,4,1,1,1,2,2,,2,2,3,,,,1,1,1,,,1,1,2,3
+2023 - 9,Consultation,ABDOMINAL PAIN,,,13,11,14,14,7,12,5,6,5,10,1,3,3,3,,3,,1,6,3,,1,1,4,4,3,1,1,1,6
+2023 - 9,Consultation,DOB,8,2,14,3,4,6,2,5,3,3,4,3,3,5,2,4,2,,3,5,3,,5,4,9,1,1,3,5,5,9,11
+2023 - 9,Consultation,DIZZINESS,,,,,2,1,2,2,1,3,5,4,4,1,,4,,4,3,4,2,6,2,5,3,4,6,4,2,4,1,13
+2023 - 9,Consultation,EPIGASTRIC PAIN,,,1,3,7,4,5,4,3,3,7,5,1,2,4,4,2,7,3,4,4,2,,1,2,1,,1,1,1,1,4
+2023 - 9,Consultation,RASHES,5,5,13,11,8,7,3,2,1,8,1,3,1,2,3,1,,1,,1,,1,,,,,,,,,,1
+2023 - 9,Consultation,SOB,9,1,9,8,4,5,5,6,4,2,2,2,,,1,2,,,3,1,,,1,,1,,1,,1,2,7,1
+2023 - 9,Consultation,LBM,6,4,20,18,4,,,2,1,,1,2,1,1,,,1,,1,,,1,,,1,,1,,,1,1,1
+2023 - 9,Diagnosis,PCAP,51,27,66,62,21,17,5,5,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2023 - 9,Diagnosis,UTI,0,1,2,10,9,9,4,6,0,7,1,8,1,4,2,1,0,4,0,3,2,1,0,0,2,0,1,2,0,1,0,6
+2023 - 9,Diagnosis,AGE,9,5,21,17,4,6,4,2,0,1,2,0,1,1,0,2,0,2,2,0,1,0,0,0,0,2,0,0,0,1,1,0
+2023 - 9,Diagnosis,LACERATED WOUND,0,0,9,7,13,3,7,2,2,1,4,2,1,0,1,1,3,1,2,2,3,0,2,0,1,0,0,1,0,1,2,0
+2023 - 9,Diagnosis,DFS,1,0,6,6,5,10,9,3,8,8,8,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023 - 9,Diagnosis,PNEUMONIA ,17,4,14,4,4,4,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,2,0
+2023 - 9,Diagnosis,ACUTE GASTRITIS,1,2,5,8,3,5,0,7,1,1,1,1,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+2023 - 9,Diagnosis,SVI,1,0,4,2,6,3,3,0,1,2,4,2,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2023 - 9,Diagnosis,BFC,0,1,7,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023 - 9,Diagnosis,URTI,2,2,2,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2023 - 9,Mortality,DEAD ON ARRIVAL,,,,1,,,,,,,,,,,,,,,1,,1,,,,,,,1,2,,,
+2023 - 9,Mortality,"IMMEDIATE: CENTRAL HERNIATION ANTECEDENT: CVD INFARCT, POSTERIOR CIRCULATION  OTHERS: HASCVD COVID NEGATIVE (09/09/2023) ",,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,
+2023 - 9,Mortality,HERNIATION SYNDROME SEC TO ACUTE INTRACEREBRAL HEMORRHAGE BILATERAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+2023 - 9,Mortality,ACUTE MYOCARDIAL INFARCTION; CKD V SEC TO DM NEPHROPATHY ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2023 - 9,Mortality,ACUTE RESPIRATORY FAILURE SEC TO ASPIRATION PNEUMONIA; HEAR T FAILURE WITH PRESERVED EJECTION FRACTION CORONARY ARTERY DSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+2023 - 9,Mortality,HYPOXIC ISCHEMIC ENCEPHALOPATY ACUTE SYMPOTIC SEIZURE SECONDARY TO SEVERE HYPONATREMIA SEVERE HYPOKALEMIA SECONDARY TO RENAL TUBULAR ACIDOSIS RAT NEGATIVE ,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,
+2023 - 9,Mortality,ARF SEC TO CAP-MR VS PLEURAL EFFUSION; LYMPHOMA STAGE4 BREAST METASTASIS; COVID PROBABLE,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+2023 - 9,Mortality,"OUT OF HOSPITAL CARDIAC ARREST, NON COVID ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+2023 - 9,Mortality,"ACUTE CORONARY SYNDROME, CAP-HR; ACUTE RESPIRATORY FAILURE, SEPTIC SHOCK (AWAITS RT-PCR)",,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,
+2023 - 9,Mortality,HEMORRHAGIC SHOCK PROBABLY SECONDARY UGIB VS BLEEDING ESOPHAGEAL VARRICES METABOLIC ENCEPHALOPATHY SECONDARY TO 1. LIVER PATHOLOGY 2. HYPONATREMIA T/C PGO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+2023 - 9,Mortality,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,2,4,0,1,2

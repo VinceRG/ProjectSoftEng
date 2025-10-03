@@ -1,0 +1,31 @@
+Month_year,Consultation_Type,Case,Under 1 Male,Under 1 Female,1-4 Male,1-4 Female,5-9 Male,5-9 Female,10-14 Male,10-14 Female,15-18 Male,15-18 Female,19-24 Male,19-24 Female,25-29 Male,25-29 Female,30-34 Male,30-34 Female,35-39 Male,35-39 Female,40-44 Male,40-44 Female,45-49 Male,45-49 Female,50-54 Male,50-54 Female,55-59 Male,55-59 Female,60-64 Male,60-64 Female,65-69 Male,65-69 Female,70 Over Male,70 Over Female
+2024 - 1,Consultation,FEVER ,38,25,84,70,59,50,35,18,8,4,9,8,2,7,2,5,1,2,2,1,1,,,1,,2,1,1,3,1,2,3
+2024 - 1,Consultation,VOMITING,14,22,103,91,29,36,8,7,10,2,1,8,1,1,1,7,1,1,,1,1,2,1,,2,3,,,,3,,5
+2024 - 1,Consultation,COUGH,54,29,48,39,29,23,4,6,3,2,2,7,1,7,1,2,2,,1,1,1,2,3,2,,1,1,1,,2,2,4
+2024 - 1,Consultation,ABDOMINAL PAIN,,,12,9,17,17,7,6,6,8,3,15,4,8,4,11,5,8,5,2,3,,3,5,4,2,2,2,,1,2,3
+2024 - 1,Consultation,DOB,7,5,7,5,4,4,5,3,2,6,1,3,2,4,2,5,3,4,1,2,3,4,9,5,5,4,6,6,13,6,14,21
+2024 - 1,Consultation,LBM,12,15,51,31,8,2,1,1,1,,1,5,1,2,,1,,2,2,,,,1,,,1,1,,,3,,3
+2024 - 1,Consultation,EPIGASTRIC PAIN,,,,,2,4,2,1,5,10,6,4,5,2,3,11,3,3,2,1,4,4,1,4,1,4,,2,1,1,,1
+2024 - 1,Consultation,DIZZINESS,,,,,2,1,1,,1,,1,2,1,3,2,4,,2,4,2,2,6,4,4,2,2,2,7,2,8,6,10
+2024 - 1,Consultation,LACERATED WOUND,,,10,6,8,4,8,,8,,3,1,2,2,2,,3,,2,1,,1,1,,,,2,,,,1,
+2024 - 1,Consultation,CHEST PAIN,,,,,2,,3,7,2,7,2,6,1,2,2,1,2,2,,2,2,3,2,4,,1,2,1,,1,3,3
+2024 - 1,Diagnosis,AGE,20,14,66,38,19,10,1,2,1,1,1,2,2,,2,3,1,1,1,1,,,,,1,,1,,1,2,1,3
+2024 - 1,Diagnosis,PCAP,36,19,39,18,9,6,5,3,,1,,,,,,,,,,,,,,,,,,,,,,
+2024 - 1,Diagnosis,UTI,2,2,5,19,5,9,1,4,2,7,2,3,1,4,,7,1,2,,1,2,1,,1,2,3,1,3,,3,,2
+2024 - 1,Diagnosis,ACUTE GASTRITIS,,4,18,15,7,5,2,,1,1,,1,1,2,,2,2,,1,,1,1,,,,,,,,,1,1
+2024 - 1,Diagnosis,PNEUMONIA,13,7,12,9,8,4,2,1,1,,,,,1,,,,,1,,,,,,1,,1,,2,,,1
+2024 - 1,Diagnosis,LACERATED WOUND,,,9,4,8,3,7,,5,,5,1,2,4,1,,1,,1,,,1,1,,,,2,,,,,1
+2024 - 1,Diagnosis,DFS,1,,2,2,3,5,11,7,2,3,1,1,,1,1,2,,,,,,,1,1,1,,,1,,,,
+2024 - 1,Diagnosis,CAP,,,,,,,,,,,2,2,,1,2,2,4,2,,1,2,,2,2,1,2,1,5,3,1,2,5
+2024 - 1,Diagnosis,SVI,1,1,7,6,6,3,3,2,3,,,1,,,1,,1,,1,,3,,,,,,,,,,,
+2024 - 1,Diagnosis,HYPERTENSIVE URGENCY,,,,,,1,,,,,,,,,1,1,,1,,4,4,3,1,3,2,,,5,,2,,10
+2024 - 1,Mortality,DEAD ON ARRIVAL,1,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,2
+2024 - 1,Mortality,ACUTE MYOCARDIAL INFARCTION,,,,,,,,,,,,,,,1,,,,,,,,1,,,,1,,,,1,1
+2024 - 1,Mortality,SEPTIC SHOCK ,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,2
+2024 - 1,Mortality,CARDIOGENIC SHOCK ,,,,,,,,,,,,,,,,,,,1,,,,,1,,1,,,,,1,
+2024 - 1,Mortality,ACUTE RESPIRATORY FAILURE SEC TO CRITICAL PNEUMONIA; PTB,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+2024 - 1,Mortality,DISSEMINATED INTRAVASCULAR COAGULATION; CNSI TC SEPSIS,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024 - 1,Mortality,"SHOCK MULTIFACTORIAL 1. CARDIOGENIC 2. SEPTIC ACS NSTEMI, SVT, AKI ON TOP OF PROB. CKD NOT ON HD, UREMIC ENCEPHALOPATHY SECONDARY TO HYPERKALEMIA SECONDARY TO T/C COMPLICATED UTI",,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,
+2024 - 1,Mortality,ASPIRATION PNEUMONIA; CVD INFARCT,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,
+2024 - 1,Mortality,MULTIPLE PHYSICAL INJURY SECONDARY TO GUNSHOT ,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,
+2024 - 1,Mortality,T/C MASSIVE ACUTE CVD BLEED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
