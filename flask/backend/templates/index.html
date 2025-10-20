@@ -220,6 +220,12 @@
 
     <div class="card">
       <h3>Holiday vs Non-Holiday Comparison</h3>
+      <div class="filter-group" style="margin-bottom: 20px;">
+        <div class="filter-item">
+          <label for="holidayYearFilter">Filter by Year:</label>
+          <select id="holidayYearFilter" onchange="drawHoliday()"></select>
+        </div>
+      </div>
       <div class="canvas-container" style="height: 250px;">
         <canvas id="holidayChart"></canvas>
       </div>
@@ -243,10 +249,80 @@
           <label>Prediction Year:</label>
           <select id="yearFilter"></select>
         </div>
+        
+        <div class="filter-item">
+          <label>Prediction Month:</label>
+          <select id="monthFilter"></select>
+        </div>
 
         <button onclick="loadFilteredPredictions()">🔮 Generate Predictions</button>
       </div>
-      <div id="filteredResults" class="loading">Select filters and click "Generate Predictions"</div>
+      <div id="filteredPredictionHeader"></div>
+      <div id="filteredChartsArea"></div>
+      <div id="filteredResultsMessage" class="loading">Select filters and click "Generate Predictions"</div>
+    </div>
+  </div>
+
+
+
+  <div class="row">
+    <div class="card full-width">
+      <h3>📊 Consultation Type Drilldown</h3>
+      <div class="filter-group">
+        <div class="filter-item">
+          <label for="drilldownYearFilter">Filter by Year:</label>
+          <select id="drilldownYearFilter"></select>
+        </div>
+      </div>
+      <div class="tabs" id="consultTabs"></div>
+      <div class="canvas-container">
+        <canvas id="drillChart"></canvas>
+      </div>
+      <div id="monthClickInfo"></div>
+    </div>
+  </div>
+
+   <div class="row">
+    <div class="card full-width">
+      <h3>📊 Patient Volume Forecast</h3>
+      <div class="filter-group">
+        <div class="filter-item">
+          <label>Start Year:</label>
+          <select id="volumeStartYear"></select>
+        </div>
+        
+        <div class="filter-item">
+          <label>Start Month:</label>
+          <select id="volumeStartMonth"></select>
+        </div>
+
+        <div class="filter-item">
+          <label>Forecast Period:</label>
+          <select id="volumeForecastMonths">
+            <option value="6">6 Months</option>
+            <option value="12" selected>12 Months (1 Year)</option>
+            <option value="24">24 Months (2 Years)</option>
+            <option value="36">36 Months (3 Years)</option>
+          </select>
+        </div>
+
+        <div class="filter-item">
+          <label>Consultation Type:</label>
+          <select id="volumeConsultType">
+            <option value="all" selected>All Types Combined</option>
+            <option value="1">Consultation</option>
+            <option value="2">Diagnosis</option>
+            <option value="3">Mortality</option>
+          </select>
+        </div>
+
+        <button onclick="loadVolumeForecast()">📈 Generate Forecast</button>
+      </div>
+      <div id="volumeForecastHeader"></div>
+      <div class="canvas-container" style="height: 400px;">
+        <canvas id="volumeForecastChart"></canvas>
+      </div>
+      <div id="volumeForecastStats" style="margin-top: 16px;"></div>
     </div>
   </div>
 
@@ -256,18 +332,7 @@
       <div id="predictionsArea" class="loading">Loading...</div>
     </div>
   </div>
-
-  <div class="row">
-    <div class="card full-width">
-      <h3>📊 Consultation Type Drilldown</h3>
-      <div class="tabs" id="consultTabs"></div>
-      <div class="canvas-container">
-        <canvas id="drillChart"></canvas>
-      </div>
-      <div id="monthClickInfo"></div>
-    </div>
-  </div>
-
+  
 <script>
 async function fetchJSON(url){ 
   const r = await fetch(url); 
@@ -275,6 +340,7 @@ async function fetchJSON(url){
 }
 
 let historicalChart, holidayChart, drillChart;
+let filteredPredictionCharts = [];
 const CONSULTATION_MAP = {1: "Consultation", 2: "Diagnosis", 3: "Mortality"};
 let currentDrillData = []; // To store data for click events
 
@@ -327,7 +393,15 @@ async function drawHistorical() {
 }
 
 async function drawHoliday() {
-  const d = await fetchJSON('/api/holiday_comparison');
+  const yearFilter = document.getElementById('holidayYearFilter');
+  const selectedYear = yearFilter.value;
+  let apiUrl = '/api/holiday_comparison';
+
+  if (selectedYear && selectedYear !== 'all') {
+    apiUrl += `?year=${selectedYear}`;
+  }
+  
+  const d = await fetchJSON(apiUrl);
   const ctx = document.getElementById('holidayChart').getContext('2d');
   
   if (holidayChart) holidayChart.destroy();
@@ -390,27 +464,98 @@ function renderPredictions(predObj){
 async function loadFilteredPredictions(){
   const selected = Array.from(document.getElementById('consultFilter').selectedOptions).map(o=>o.value);
   const year = document.getElementById('yearFilter').value;
+  const month = document.getElementById('monthFilter').value;
+  
+  const messageDiv = document.getElementById('filteredResultsMessage');
+  const chartsArea = document.getElementById('filteredChartsArea');
+  const headerDiv = document.getElementById('filteredPredictionHeader');
+
+  // Clear previous results
+  filteredPredictionCharts.forEach(chart => chart.destroy());
+  filteredPredictionCharts = [];
+  chartsArea.innerHTML = '';
   
   if (selected.length === 0) {
-    document.getElementById('filteredResults').innerHTML = '<div style="color: #e74c3c; padding: 10px;">⚠️ Please select at least one consultation type</div>';
+    messageDiv.innerHTML = '<div style="color: #e74c3c; padding: 10px;">⚠️ Please select at least one consultation type</div>';
+    headerDiv.innerHTML = '';
     return;
   }
   
-  document.getElementById('filteredResults').innerHTML = '<div class="loading">Loading predictions...</div>';
-  
-  const data = await fetchJSON(`/api/predict_filtered?consult_types=${selected.join(',')}&predict_year=${year}`);
-  const div = document.getElementById('filteredResults');
-  
+  messageDiv.innerHTML = '<div class="loading">Loading predictions...</div>';
+  headerDiv.innerHTML = '';
+
+  const apiUrl = `/api/predict_filtered?consult_types=${selected.join(',')}&predict_year=${year}&predict_month=${month}`;
+  const data = await fetchJSON(apiUrl);
+
   if(!data.results || data.results.length===0){ 
-    div.innerHTML='<div style="color: #888; padding: 10px;">No results found</div>'; 
+    messageDiv.innerHTML='<div style="color: #888; padding: 10px;">No results found</div>'; 
     return; 
   }
   
-  let html = `<div class="prediction-header">📅 Custom Predictions for Year ${data.predicted_for}</div>`;
-  html += '<table><thead><tr><th>Consultation Type</th><th>Case Name</th><th>Predicted Total</th></tr></thead><tbody>';
-  data.results.forEach(r=> html+=`<tr><td>${r.Consultation_Type_Name}</td><td>${r.Case_Name}</td><td><strong>${r.Predicted_Total}</strong></td></tr>`);
-  html += '</tbody></table>';
-  div.innerHTML = html;
+  messageDiv.innerHTML = '';
+
+  let headerText = `📅 Custom Predictions for Year ${data.predicted_for.year}`;
+  if (data.predicted_for.month && data.predicted_for.month !== 'all') {
+      const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 
+                          'July', 'August', 'September', 'October', 'November', 'December'];
+      const monthName = monthNames[parseInt(data.predicted_for.month) - 1];
+      headerText = `📅 Custom Predictions for ${monthName} ${data.predicted_for.year}`;
+  }
+  headerDiv.innerHTML = `<div class="prediction-header">${headerText}</div>`;
+
+  const resultsByGroup = {};
+  data.results.forEach(r => {
+      if (!resultsByGroup[r.Consultation_Type_Name]) {
+          resultsByGroup[r.Consultation_Type_Name] = [];
+      }
+      resultsByGroup[r.Consultation_Type_Name].push(r);
+  });
+
+  const colors = { 'Consultation': '#3498db', 'Diagnosis': '#2ecc71', 'Mortality': '#e74c3c' };
+
+  for (const typeName in resultsByGroup) {
+      const results = resultsByGroup[typeName];
+      results.sort((a, b) => b.Predicted_Total - a.Predicted_Total);
+
+      const chartTitle = document.createElement('h4');
+      chartTitle.textContent = `Top Predictions for ${typeName}`;
+      
+      const chartWrapper = document.createElement('div');
+      chartWrapper.className = 'canvas-container';
+      chartWrapper.style.height = '400px';
+      
+      const canvas = document.createElement('canvas');
+      chartWrapper.appendChild(canvas);
+      
+      chartsArea.appendChild(chartTitle);
+      chartsArea.appendChild(chartWrapper);
+      
+      const newChart = new Chart(canvas.getContext('2d'), {
+          type: 'bar',
+          data: {
+              labels: results.map(r => r.Case_Name),
+              datasets: [{
+                  label: 'Predicted Total',
+                  data: results.map(r => r.Predicted_Total),
+                  backgroundColor: colors[typeName] || '#95a5a6',
+                  borderRadius: 4
+              }]
+          },
+          options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              indexAxis: 'y',
+              scales: {
+                  y: { beginAtZero: true },
+                  x: { title: { display: true, text: 'Predicted Total' }}
+              },
+              plugins: {
+                  legend: { display: false }
+              }
+          }
+      });
+      filteredPredictionCharts.push(newChart);
+  }
 }
 
 async function initDrilldown() {
@@ -442,7 +587,15 @@ async function drawDrillChart(consultType, typeName) {
   infoBox.style.display = 'none';
   infoBox.innerHTML = '';
 
-  const data = await fetchJSON(`/api/monthly_totals?consult_type=${consultType}`);
+  const yearFilter = document.getElementById('drilldownYearFilter');
+  const selectedYear = yearFilter.value;
+
+  let apiUrl = `/api/monthly_totals?consult_type=${consultType}`;
+  if (selectedYear && selectedYear !== 'all') {
+      apiUrl += `&year=${selectedYear}`;
+  }
+
+  const data = await fetchJSON(apiUrl);
   data.sort((a,b)=> a.label.localeCompare(b.label));
   currentDrillData = data; 
   
@@ -527,6 +680,23 @@ function populatePredictionYearOptions(){
   }
 }
 
+function populateMonthOptions() {
+    const sel = document.getElementById('monthFilter');
+    sel.innerHTML = '';
+    const allOpt = document.createElement('option');
+    allOpt.value = 'all';
+    allOpt.textContent = 'All Months (Full Year)';
+    sel.appendChild(allOpt);
+
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    monthNames.forEach((month, index) => {
+        const opt = document.createElement('option');
+        opt.value = index + 1; // Month number 1-12
+        opt.textContent = month;
+        sel.appendChild(opt);
+    });
+}
+
 async function populateHistoricalYearFilter() {
   const healthData = await fetchJSON('/api/health');
   const sel = document.getElementById('historicalYearFilter');
@@ -549,9 +719,62 @@ async function populateHistoricalYearFilter() {
   }
 }
 
+async function populateHolidayYearFilter() {
+  const healthData = await fetchJSON('/api/health');
+  const sel = document.getElementById('holidayYearFilter');
+  sel.innerHTML = '';
+
+  const allOpt = document.createElement('option');
+  allOpt.value = 'all';
+  allOpt.textContent = 'All Years';
+  sel.appendChild(allOpt);
+
+  if (healthData && healthData.years && healthData.years.length === 2) {
+    const minYear = healthData.years[0];
+    const maxYear = healthData.years[1];
+    for (let y = maxYear; y >= minYear; y--) {
+      const opt = document.createElement('option');
+      opt.value = y;
+      opt.textContent = y;
+      sel.appendChild(opt);
+    }
+  }
+}
+
+async function populateDrilldownYearFilter() {
+  const healthData = await fetchJSON('/api/health');
+  const sel = document.getElementById('drilldownYearFilter');
+  sel.innerHTML = '';
+
+  const allOpt = document.createElement('option');
+  allOpt.value = 'all';
+  allOpt.textContent = 'All Years';
+  sel.appendChild(allOpt);
+
+  if (healthData && healthData.years && healthData.years.length === 2) {
+    const minYear = healthData.years[0];
+    const maxYear = healthData.years[1];
+    for (let y = maxYear; y >= minYear; y--) {
+      const opt = document.createElement('option');
+      opt.value = y;
+      opt.textContent = y;
+      sel.appendChild(opt);
+    }
+  }
+  sel.addEventListener('change', () => {
+    const activeTab = document.querySelector('#consultTabs .tab.active');
+    if (activeTab) {
+        activeTab.click();
+    }
+  });
+}
+
 async function init(){ 
   populatePredictionYearOptions();
+  populateMonthOptions();
   await populateHistoricalYearFilter();
+  await populateHolidayYearFilter();
+  await populateDrilldownYearFilter();
   await drawHistorical();
   await drawHoliday();
   await loadPredictions();
@@ -559,6 +782,183 @@ async function init(){
 }
 
 init();
+// Add this to your JavaScript section in index.html
+
+let volumeForecastChart;
+
+function populateVolumeForecastFilters() {
+  // Populate Start Year
+  const yearSel = document.getElementById('volumeStartYear');
+  const now = new Date();
+  const currentYear = now.getFullYear();
+  
+  yearSel.innerHTML = '';
+  for (let y = currentYear; y <= currentYear + 5; y++) {
+    const opt = document.createElement('option');
+    opt.value = y;
+    opt.textContent = y;
+    if (y === currentYear) opt.selected = true;
+    yearSel.appendChild(opt);
+  }
+
+  // Populate Start Month
+  const monthSel = document.getElementById('volumeStartMonth');
+  const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 
+                      'July', 'August', 'September', 'October', 'November', 'December'];
+  const currentMonth = now.getMonth() + 1;
+  
+  monthSel.innerHTML = '';
+  for (let m = 1; m <= 12; m++) {
+    const opt = document.createElement('option');
+    opt.value = m;
+    opt.textContent = monthNames[m - 1];
+    if (m === currentMonth) opt.selected = true;
+    monthSel.appendChild(opt);
+  }
+}
+
+async function loadVolumeForecast() {
+  const startYear = parseInt(document.getElementById('volumeStartYear').value);
+  const startMonth = parseInt(document.getElementById('volumeStartMonth').value);
+  const numMonths = parseInt(document.getElementById('volumeForecastMonths').value);
+  const consultTypeVal = document.getElementById('volumeConsultType').value;
+  
+  const headerDiv = document.getElementById('volumeForecastHeader');
+  const statsDiv = document.getElementById('volumeForecastStats');
+  
+  headerDiv.innerHTML = '<div class="loading">Generating forecast...</div>';
+  statsDiv.innerHTML = '';
+
+  let apiUrl = `/api/predict_volume_timeline?start_year=${startYear}&start_month=${startMonth}&num_months=${numMonths}`;
+  
+  if (consultTypeVal !== 'all') {
+    apiUrl += `&consult_type=${consultTypeVal}`;
+  }
+
+  try {
+    const data = await fetchJSON(apiUrl);
+    
+    if (!data.timeline || data.timeline.length === 0) {
+      headerDiv.innerHTML = '<div style="color: #888;">No forecast data available</div>';
+      return;
+    }
+
+    // Update header
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 
+                        'July', 'August', 'September', 'October', 'November', 'December'];
+    const startMonthName = monthNames[startMonth - 1];
+    const consultTypeName = consultTypeVal === 'all' ? 'All Types' : CONSULTATION_MAP[consultTypeVal];
+    
+    headerDiv.innerHTML = `<div class="prediction-header">📈 ${numMonths}-Month Forecast starting ${startMonthName} ${startYear} (${consultTypeName})</div>`;
+
+    // Calculate statistics
+    const volumes = data.timeline.map(d => d.predicted_volume);
+    const totalVolume = volumes.reduce((sum, v) => sum + v, 0);
+    const avgVolume = Math.round(totalVolume / volumes.length);
+    const maxVolume = Math.max(...volumes);
+    const minVolume = Math.min(...volumes);
+
+    statsDiv.innerHTML = `
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
+        <div style="background: #f0f7ff; padding: 12px; border-radius: 8px;">
+          <div style="font-size: 12px; color: #666;">Total Predicted</div>
+          <div style="font-size: 20px; font-weight: 600; color: #2c5282;">${totalVolume.toLocaleString()}</div>
+        </div>
+        <div style="background: #f0fff4; padding: 12px; border-radius: 8px;">
+          <div style="font-size: 12px; color: #666;">Monthly Average</div>
+          <div style="font-size: 20px; font-weight: 600; color: #2d7738;">${avgVolume.toLocaleString()}</div>
+        </div>
+        <div style="background: #fff5f5; padding: 12px; border-radius: 8px;">
+          <div style="font-size: 12px; color: #666;">Peak Month</div>
+          <div style="font-size: 20px; font-weight: 600; color: #c53030;">${maxVolume.toLocaleString()}</div>
+        </div>
+        <div style="background: #fffaf0; padding: 12px; border-radius: 8px;">
+          <div style="font-size: 12px; color: #666;">Lowest Month</div>
+          <div style="font-size: 20px; font-weight: 600; color: #dd6b20;">${minVolume.toLocaleString()}</div>
+        </div>
+      </div>
+    `;
+
+    // Draw chart
+    const ctx = document.getElementById('volumeForecastChart').getContext('2d');
+    
+    if (volumeForecastChart) {
+      volumeForecastChart.destroy();
+    }
+
+    volumeForecastChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: data.timeline.map(d => d.label),
+        datasets: [{
+          label: 'Predicted Patient Volume',
+          data: data.timeline.map(d => d.predicted_volume),
+          borderColor: '#8b5cf6',
+          backgroundColor: 'rgba(139, 92, 246, 0.1)',
+          fill: true,
+          tension: 0.4,
+          pointRadius: 4,
+          pointHoverRadius: 6,
+          pointBackgroundColor: '#8b5cf6',
+          borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            display: true,
+            position: 'top'
+          },
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                return `Volume: ${context.parsed.y.toLocaleString()}`;
+              }
+            }
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            ticks: {
+              callback: function(value) {
+                return value.toLocaleString();
+              }
+            }
+          },
+          x: {
+            ticks: {
+              maxRotation: 45,
+              minRotation: 45
+            }
+          }
+        }
+      }
+    });
+
+  } catch (error) {
+    console.error('Error loading volume forecast:', error);
+    headerDiv.innerHTML = '<div style="color: #e74c3c;">Error loading forecast. Please try again.</div>';
+  }
+}
+
+// Update the init function to include volume forecast initialization
+async function init(){ 
+  populatePredictionYearOptions();
+  populateMonthOptions();
+  populateVolumeForecastFilters(); // Add this line
+  await populateHistoricalYearFilter();
+  await populateHolidayYearFilter();
+  await populateDrilldownYearFilter();
+  await drawHistorical();
+  await drawHoliday();
+  await loadPredictions();
+  await initDrilldown();
+}
 </script>
+
 </body>
 </html>
+

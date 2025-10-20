@@ -99,10 +99,27 @@ def api_health():
 @app.route('/api/holiday_comparison')
 def api_holiday_comparison():
     try:
-        monthly_totals = df.groupby(['Year','Month'])['Total'].sum().reset_index()
+        year = request.args.get('year', default=None, type=int)
+        df_copy = df.copy()
+        if year:
+            df_copy = df_copy[df_copy['Year'] == year]
+
+        if df_copy.empty:
+            return jsonify({
+                "holiday_months": HOLIDAY_MONTHS,
+                "holiday_avg": 0,
+                "non_holiday_avg": 0
+            })
+
+        monthly_totals = df_copy.groupby(['Year','Month'])['Total'].sum().reset_index()
         monthly_totals['is_major_holiday'] = monthly_totals['Month'].isin(HOLIDAY_MONTHS).astype(int)
-        holiday_avg = float(monthly_totals[monthly_totals['is_major_holiday']==1]['Total'].mean())
-        non_holiday_avg = float(monthly_totals[monthly_totals['is_major_holiday']==0]['Total'].mean())
+        
+        holiday_data = monthly_totals[monthly_totals['is_major_holiday']==1]
+        non_holiday_data = monthly_totals[monthly_totals['is_major_holiday']==0]
+
+        holiday_avg = float(holiday_data['Total'].mean()) if not holiday_data.empty else 0
+        non_holiday_avg = float(non_holiday_data['Total'].mean()) if not non_holiday_data.empty else 0
+        
         return jsonify({
             "holiday_months": HOLIDAY_MONTHS,
             "holiday_avg": holiday_avg,
@@ -169,15 +186,19 @@ def api_month_cases():
 @app.route('/api/top_predictions')
 def api_top_predictions():
     try:
-        last_year = int(df['Year'].max())
-        last_month = int(df[df['Year']==last_year]['Month'].max())
+        # Use current date instead of dataset's last date
+        from datetime import datetime
+        current_date = datetime.now()
+        current_year = current_date.year
+        current_month = current_date.month
         
-        if last_month == 12:
+        # Calculate next month
+        if current_month == 12:
             next_month = 1
-            next_year = last_year + 1
+            next_year = current_year + 1
         else:
-            next_month = last_month + 1
-            next_year = last_year
+            next_month = current_month + 1
+            next_year = current_year
 
         print(f"API call: top_predictions for {next_year}-{next_month:02d}")
 
@@ -205,10 +226,10 @@ def api_top_predictions():
         future_case_totals = X_future.groupby(['Consultation_Type', 'Case'])['Predicted_Total'].sum().reset_index()
         future_case_totals['Predicted_Total'] = future_case_totals['Predicted_Total'].round(0).astype(int)
 
-        top_5 = future_case_totals.sort_values('Predicted_Total', ascending=False).groupby('Consultation_Type').head(5)
-        top_5['Consultation_Type_Name'] = top_5['Consultation_Type'].map(CONSULTATION_MAP)
-        top_5['Case_Name'] = top_5['Case'].map(case_map).fillna(top_5['Case'].apply(lambda x: f'Case {x} (No Name)'))
-        payload = top_5[['Consultation_Type_Name','Case_Name','Predicted_Total']].to_dict(orient='records')
+        top_10 = future_case_totals.sort_values('Predicted_Total', ascending=False).groupby('Consultation_Type').head(10)
+        top_10['Consultation_Type_Name'] = top_10['Consultation_Type'].map(CONSULTATION_MAP)
+        top_10['Case_Name'] = top_10['Case'].map(case_map).fillna(top_10['Case'].apply(lambda x: f'Case {x} (No Name)'))
+        payload = top_10[['Consultation_Type_Name','Case_Name','Predicted_Total']].to_dict(orient='records')
 
         print(f"  Generated {len(payload)} predictions")
         return jsonify({"predicted_for": f"{next_year}-{next_month:02d}", "top_predictions": payload})
@@ -221,6 +242,7 @@ def api_predict_filtered():
     try:
         consult_types_str = request.args.get('consult_types', default=None)
         predict_year = request.args.get('predict_year', type=int)
+        predict_month_str = request.args.get('predict_month', default='all')
 
         if consult_types_str:
             consult_types = [int(x) for x in consult_types_str.split(',') if x.strip().isdigit()]
@@ -230,44 +252,156 @@ def api_predict_filtered():
         if predict_year is None:
             predict_year = int(df['Year'].max()) + 1
 
-        print(f"API call: predict_filtered, types={consult_types}, year={predict_year}")
+        print(f"API call: predict_filtered, types={consult_types}, year={predict_year}, month={predict_month_str}")
+
+        months_to_predict = []
+        if predict_month_str and predict_month_str.isdigit():
+            predict_month = int(predict_month_str)
+            if 1 <= predict_month <= 12:
+                months_to_predict = [predict_month]
+        
+        if not months_to_predict:
+            months_to_predict = range(1, 13)
 
         all_cases = df['Case'].unique()
         all_sexes = df['Sex'].unique()
         all_age_ranges = df['Age_range'].unique()
+        
+        all_predictions_df = pd.DataFrame()
 
-        combinations = list(itertools.product(consult_types, all_cases, all_sexes, all_age_ranges))
-        X_future = pd.DataFrame(combinations, columns=['Consultation_Type', 'Case', 'Sex', 'Age_range'])
-        X_future['Year'] = predict_year
-        X_future['Month'] = 1
-        X_future['is_major_holiday'] = 1 if 1 in HOLIDAY_MONTHS else 0
+        for month in months_to_predict:
+            combinations = list(itertools.product(consult_types, all_cases, all_sexes, all_age_ranges))
+            X_future_month = pd.DataFrame(combinations, columns=['Consultation_Type', 'Case', 'Sex', 'Age_range'])
+            X_future_month['Year'] = predict_year
+            X_future_month['Month'] = month
+            X_future_month['is_major_holiday'] = 1 if month in HOLIDAY_MONTHS else 0
 
-        if X_train_columns is not None:
-            for c in X_train_columns:
-                if c not in X_future.columns:
-                    X_future[c] = 0
-            X_future = X_future[X_train_columns]
+            if X_train_columns is not None:
+                for c in X_train_columns:
+                    if c not in X_future_month.columns:
+                        X_future_month[c] = 0
+                X_future_month = X_future_month[X_train_columns]
+            
+            preds = model.predict(X_future_month)
+            preds[preds < 0] = 0
+            X_future_month['Predicted_Total'] = preds
+            all_predictions_df = pd.concat([all_predictions_df, X_future_month], ignore_index=True)
 
-        preds = model.predict(X_future)
-        preds[preds < 0] = 0
-        X_future['Predicted_Total'] = preds
-
-        grouped = X_future.groupby(['Consultation_Type', 'Case'])['Predicted_Total'].sum().reset_index()
+        grouped = all_predictions_df.groupby(['Consultation_Type', 'Case'])['Predicted_Total'].sum().reset_index()
         grouped['Predicted_Total'] = grouped['Predicted_Total'].round(0).astype(int)
         grouped['Consultation_Type_Name'] = grouped['Consultation_Type'].map(CONSULTATION_MAP)
         grouped['Case_Name'] = grouped['Case'].map(case_map).fillna(grouped['Case'].apply(lambda x: f'Case {x}'))
 
-        top_5 = grouped.sort_values('Predicted_Total', ascending=False).groupby('Consultation_Type').head(5)
-        payload = top_5[['Consultation_Type_Name', 'Case_Name', 'Predicted_Total']].to_dict(orient='records')
+        top_10 = grouped.sort_values('Predicted_Total', ascending=False).groupby('Consultation_Type').head(5)
+        payload = top_10[['Consultation_Type_Name', 'Case_Name', 'Predicted_Total']].to_dict(orient='records')
 
         print(f"  Generated {len(payload)} filtered predictions")
         return jsonify({
-            "predicted_for": predict_year,
+            "predicted_for": {"year": predict_year, "month": predict_month_str},
             "consultation_types": consult_types,
             "results": payload
         })
     except Exception as e:
         print(f"Error in predict_filtered: {str(e)}")
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/predict_volume_timeline')
+def api_predict_volume_timeline():
+    """Predict total patient volumes for future months and years"""
+    try:
+        start_year = request.args.get('start_year', type=int)
+        start_month = request.args.get('start_month', type=int, default=1)
+        num_months = request.args.get('num_months', type=int, default=12)
+        
+        # Handle consult_type properly - can be None, int, or string 'all'
+        consult_type_param = request.args.get('consult_type', default=None)
+        consult_type = None
+        if consult_type_param is not None and consult_type_param != 'all':
+            try:
+                consult_type = int(consult_type_param)
+            except (ValueError, TypeError):
+                consult_type = None
+
+        if start_year is None:
+            from datetime import datetime
+            current_date = datetime.now()
+            start_year = current_date.year
+            start_month = current_date.month
+
+        print(f"API call: predict_volume_timeline, start={start_year}-{start_month}, months={num_months}, type={consult_type}")
+
+        # Validate inputs
+        if not (1 <= start_month <= 12):
+            return jsonify({"error": "Invalid start_month. Must be 1-12"}), 400
+        
+        if num_months < 1 or num_months > 120:  # Max 10 years
+            return jsonify({"error": "Invalid num_months. Must be 1-120"}), 400
+
+        all_cases = df['Case'].unique()
+        all_sexes = df['Sex'].unique()
+        all_age_ranges = df['Age_range'].unique()
+        
+        # Determine consultation types to include
+        if consult_type is not None:
+            consult_types = [consult_type]
+        else:
+            consult_types = df['Consultation_Type'].unique()
+
+        print(f"  Using consultation types: {consult_types}")
+
+        timeline_data = []
+
+        # Generate predictions for each month
+        for i in range(num_months):
+            current_month = start_month + i
+            current_year = start_year
+            
+            # Handle year rollover
+            while current_month > 12:
+                current_month -= 12
+                current_year += 1
+
+            # Create all combinations for this month
+            combinations = list(itertools.product(consult_types, all_cases, all_sexes, all_age_ranges))
+            X_future = pd.DataFrame(combinations, columns=['Consultation_Type', 'Case', 'Sex', 'Age_range'])
+            X_future['Year'] = current_year
+            X_future['Month'] = current_month
+            X_future['is_major_holiday'] = 1 if current_month in HOLIDAY_MONTHS else 0
+
+            # Align columns with training data
+            if X_train_columns is not None:
+                for c in X_train_columns:
+                    if c not in X_future.columns:
+                        X_future[c] = 0
+                X_future = X_future[X_train_columns]
+            
+            # Predict
+            preds = model.predict(X_future)
+            preds[preds < 0] = 0
+            
+            # Sum all predictions for this month
+            total_volume = int(preds.sum())
+            
+            timeline_data.append({
+                'year': int(current_year),
+                'month': int(current_month),
+                'label': f"{current_year}-{current_month:02d}",
+                'predicted_volume': total_volume
+            })
+
+        print(f"  Generated {len(timeline_data)} timeline predictions")
+        print(f"  Sample data: {timeline_data[:3] if len(timeline_data) >= 3 else timeline_data}")
+        
+        return jsonify({
+            "timeline": timeline_data,
+            "start": {"year": start_year, "month": start_month},
+            "num_months": num_months,
+            "consultation_type": consult_type
+        })
+    except Exception as e:
+        print(f"Error in predict_volume_timeline: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return jsonify({"error": str(e)}), 500
 
 @app.errorhandler(404)
