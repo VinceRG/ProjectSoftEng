@@ -1,0 +1,9 @@
+[
+    "Year",
+    "Month",
+    "Consultation_Type",
+    "Case",
+    "Sex",
+    "Age_range",
+    "is_major_holiday"
+]

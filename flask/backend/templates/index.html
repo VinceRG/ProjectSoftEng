@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Monthly Volume Prediction Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    * { box-sizing: border-box; }
+    body { 
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      margin: 0;
+      padding: 16px;
+      background: #f5f7fa;
+    }
+    h1 { 
+      margin: 0 0 20px 0;
+      font-size: 28px;
+      color: #2c3e50;
+    }
+    h3 {
+      margin: 0 0 12px 0;
+      font-size: 18px;
+      color: #34495e;
+    }
+    h4 {
+      margin: 16px 0 8px 0;
+      font-size: 16px;
+      color: #555;
+    }
+    .row { 
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .card { 
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .full-width {
+      grid-column: 1 / -1;
+    }
+    table { 
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 10px;
+      overflow-x: auto;
+      display: block;
+    }
+    thead {
+      background: #f8f9fa;
+    }
+    th, td { 
+      border: 1px solid #e0e0e0;
+      padding: 10px 12px;
+      font-size: 14px;
+      text-align: left;
+    }
+    th {
+      font-weight: 600;
+      color: #555;
+    }
+    .tabs { 
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .tab { 
+      padding: 10px 16px;
+      background: #e9ecef;
+      border-radius: 8px;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: all 0.2s;
+      font-size: 14px;
+    }
+    .tab:hover {
+      background: #dee2e6;
+    }
+    .tab.active { 
+      background: #4a90e2;
+      color: white;
+      border-color: #4a90e2;
+    }
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .filter-item {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    label {
+      font-size: 13px;
+      font-weight: 600;
+      color: #555;
+    }
+    select {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 14px;
+      min-width: 150px;
+    }
+    button {
+      padding: 10px 20px;
+      background: #4a90e2;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 600;
+      transition: background 0.2s;
+      align-self: flex-end;
+    }
+    button:hover {
+      background: #357abd;
+    }
+    .prediction-header {
+      background: #f0f7ff;
+      padding: 12px;
+      border-radius: 8px;
+      margin-bottom: 16px;
+      font-weight: 600;
+      color: #2c5282;
+      font-size: 15px;
+    }
+    .canvas-container {
+      position: relative;
+      height: 300px;
+      margin-bottom: 12px;
+    }
+    canvas {
+      max-width: 100%;
+      height: auto !important;
+    }
+    #monthClickInfo {
+      margin-top: 12px;
+      padding: 10px;
+      background: #fff9e6;
+      border-left: 4px solid #ffc107;
+      border-radius: 4px;
+      font-size: 14px;
+      display: none;
+    }
+    .loading {
+      text-align: center;
+      padding: 20px;
+      color: #888;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        padding: 12px;
+      }
+      h1 {
+        font-size: 22px;
+      }
+      .filter-group {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .filter-item {
+        width: 100%;
+      }
+      select {
+        width: 100%;
+        min-width: unset;
+      }
+      button {
+        width: 100%;
+      }
+      .canvas-container {
+        height: 250px;
+      }
+      th, td {
+        padding: 8px;
+        font-size: 13px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .card {
+        padding: 16px;
+      }
+      h3 {
+        font-size: 16px;
+      }
+      .canvas-container {
+        height: 200px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>📊 Monthly Volume Prediction Dashboard</h1>
+
+  <div class="row">
+    <div class="card">
+      <h3>Historical Monthly Totals</h3>
+      <div class="filter-group" style="margin-bottom: 20px;">
+        <div class="filter-item">
+          <label for="historicalYearFilter">Filter by Year:</label>
+          <select id="historicalYearFilter" onchange="drawHistorical()"></select>
+        </div>
+      </div>
+      <div class="canvas-container">
+        <canvas id="historicalChart"></canvas>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Holiday vs Non-Holiday Comparison</h3>
+      <div class="canvas-container" style="height: 250px;">
+        <canvas id="holidayChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="card full-width">
+      <h3>🔍 Custom Predictions</h3>
+      <div class="filter-group">
+        <div class="filter-item">
+          <label>Consultation Type(s):</label>
+          <select id="consultFilter" multiple size="3">
+            <option value="1" selected>Consultation</option>
+            <option value="2" selected>Diagnosis</option>
+            <option value="3" selected>Mortality</option>
+          </select>
+        </div>
+
+        <div class="filter-item">
+          <label>Prediction Year:</label>
+          <select id="yearFilter"></select>
+        </div>
+
+        <button onclick="loadFilteredPredictions()">🔮 Generate Predictions</button>
+      </div>
+      <div id="filteredResults" class="loading">Select filters and click "Generate Predictions"</div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="card full-width">
+      <h3>📈 Top Predicted Cases for Next Month</h3>
+      <div id="predictionsArea" class="loading">Loading...</div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="card full-width">
+      <h3>📊 Consultation Type Drilldown</h3>
+      <div class="tabs" id="consultTabs"></div>
+      <div class="canvas-container">
+        <canvas id="drillChart"></canvas>
+      </div>
+      <div id="monthClickInfo"></div>
+    </div>
+  </div>
+
+<script>
+async function fetchJSON(url){ 
+  const r = await fetch(url); 
+  return await r.json(); 
+}
+
+let historicalChart, holidayChart, drillChart;
+const CONSULTATION_MAP = {1: "Consultation", 2: "Diagnosis", 3: "Mortality"};
+let currentDrillData = []; // To store data for click events
+
+async function drawHistorical() {
+  const yearFilter = document.getElementById('historicalYearFilter');
+  const selectedYear = yearFilter.value;
+  let apiUrl = '/api/monthly_totals';
+
+  if (selectedYear && selectedYear !== 'all') {
+    apiUrl += `?year=${selectedYear}`;
+  }
+
+  const data = await fetchJSON(apiUrl);
+  data.sort((a,b)=> a.label.localeCompare(b.label));
+  const ctx = document.getElementById('historicalChart').getContext('2d');
+  
+  if (historicalChart) historicalChart.destroy();
+  
+  historicalChart = new Chart(ctx, {
+    type:'line',
+    data:{ 
+      labels: data.map(r=>r.label), 
+      datasets:[{
+        label:'Total Cases',
+        data: data.map(r=>r.Total),
+        borderColor: '#4a90e2',
+        backgroundColor: 'rgba(74, 144, 226, 0.1)',
+        fill: true,
+        tension: 0.3,
+        pointRadius: 3,
+        pointHoverRadius: 5
+      }] 
+    },
+    options:{ 
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: true,
+          position: 'top'
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+}
+
+async function drawHoliday() {
+  const d = await fetchJSON('/api/holiday_comparison');
+  const ctx = document.getElementById('holidayChart').getContext('2d');
+  
+  if (holidayChart) holidayChart.destroy();
+  
+  holidayChart = new Chart(ctx,{
+    type:'bar',
+    data:{ 
+      labels:['Holiday Months','Non-Holiday Months'], 
+      datasets:[{
+        label: 'Average Cases',
+        data:[d.holiday_avg, d.non_holiday_avg],
+        backgroundColor: ['#ff6b6b', '#4ecdc4'],
+        borderRadius: 8
+      }] 
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+}
+
+async function loadPredictions(){
+  const p = await fetchJSON('/api/top_predictions');
+  renderPredictions(p);
+}
+
+function renderPredictions(predObj){
+  const container = document.getElementById('predictionsArea');
+  
+  const [year, month] = predObj.predicted_for.split('-');
+  const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 
+                      'July', 'August', 'September', 'October', 'November', 'December'];
+  const monthName = monthNames[parseInt(month) - 1];
+  
+  container.innerHTML = `<div class="prediction-header">📅 Predictions for ${monthName} ${year}</div>`;
+  
+  const groups = {};
+  predObj.top_predictions.forEach(r=>{
+    if(!groups[r.Consultation_Type_Name]) groups[r.Consultation_Type_Name]=[];
+    groups[r.Consultation_Type_Name].push(r);
+  });
+  
+  for(const [k,v] of Object.entries(groups)){
+    container.innerHTML += `<h4>${k}</h4><table><thead><tr><th>Case Name</th><th>Predicted Total</th></tr></thead><tbody>` +
+      v.map(r=>`<tr><td>${r.Case_Name}</td><td><strong>${r.Predicted_Total}</strong></td></tr>`).join('') + '</tbody></table>';
+  }
+}
+
+async function loadFilteredPredictions(){
+  const selected = Array.from(document.getElementById('consultFilter').selectedOptions).map(o=>o.value);
+  const year = document.getElementById('yearFilter').value;
+  
+  if (selected.length === 0) {
+    document.getElementById('filteredResults').innerHTML = '<div style="color: #e74c3c; padding: 10px;">⚠️ Please select at least one consultation type</div>';
+    return;
+  }
+  
+  document.getElementById('filteredResults').innerHTML = '<div class="loading">Loading predictions...</div>';
+  
+  const data = await fetchJSON(`/api/predict_filtered?consult_types=${selected.join(',')}&predict_year=${year}`);
+  const div = document.getElementById('filteredResults');
+  
+  if(!data.results || data.results.length===0){ 
+    div.innerHTML='<div style="color: #888; padding: 10px;">No results found</div>'; 
+    return; 
+  }
+  
+  let html = `<div class="prediction-header">📅 Custom Predictions for Year ${data.predicted_for}</div>`;
+  html += '<table><thead><tr><th>Consultation Type</th><th>Case Name</th><th>Predicted Total</th></tr></thead><tbody>';
+  data.results.forEach(r=> html+=`<tr><td>${r.Consultation_Type_Name}</td><td>${r.Case_Name}</td><td><strong>${r.Predicted_Total}</strong></td></tr>`);
+  html += '</tbody></table>';
+  div.innerHTML = html;
+}
+
+async function initDrilldown() {
+  const tabsContainer = document.getElementById('consultTabs');
+  tabsContainer.innerHTML = ''; 
+  
+  Object.entries(CONSULTATION_MAP).forEach(([id, name], index) => {
+    const tab = document.createElement('div');
+    tab.className = 'tab';
+    tab.textContent = name;
+    tab.dataset.typeId = id;
+    
+    tab.addEventListener('click', () => {
+      tabsContainer.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      drawDrillChart(id, name);
+    });
+    
+    tabsContainer.appendChild(tab);
+    
+    if (index === 0) {
+      tab.click();
+    }
+  });
+}
+
+async function drawDrillChart(consultType, typeName) {
+  const infoBox = document.getElementById('monthClickInfo');
+  infoBox.style.display = 'none';
+  infoBox.innerHTML = '';
+
+  const data = await fetchJSON(`/api/monthly_totals?consult_type=${consultType}`);
+  data.sort((a,b)=> a.label.localeCompare(b.label));
+  currentDrillData = data; 
+  
+  const ctx = document.getElementById('drillChart').getContext('2d');
+  
+  if (drillChart) drillChart.destroy();
+  
+  drillChart = new Chart(ctx, {
+    type:'line',
+    data:{ 
+      labels: data.map(r=>r.label), 
+      datasets:[{
+        label: `${typeName} Totals`,
+        data: data.map(r=>r.Total),
+        borderColor: '#2ecc71',
+        backgroundColor: 'rgba(46, 204, 113, 0.1)',
+        fill: true,
+        tension: 0.3,
+        pointRadius: 3,
+        pointHoverRadius: 5
+      }] 
+    },
+    options:{ 
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: true,
+          position: 'top'
+        }
+      },
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      },
+      onClick: (e) => {
+        const activePoints = drillChart.getElementsAtEventForMode(e, 'nearest', { intersect: true }, true);
+        if (activePoints.length > 0) {
+          const idx = activePoints[0].index;
+          const clickedData = currentDrillData[idx];
+          if (clickedData) {
+            loadMonthDetails(clickedData.Year, clickedData.Month, consultType, typeName);
+          }
+        }
+      }
+    }
+  });
+}
+
+async function loadMonthDetails(year, month, consultType, typeName) {
+  const infoBox = document.getElementById('monthClickInfo');
+  infoBox.style.display = 'block';
+  infoBox.innerHTML = `<div class="loading">Loading details for ${typeName} in ${year}-${String(month).padStart(2,'0')}...</div>`;
+
+  const data = await fetchJSON(`/api/month_cases?year=${year}&month=${month}&consult_type=${consultType}`);
+  
+  if (!data || data.length === 0) {
+    infoBox.innerHTML = `<h4>No cases found for ${typeName} in ${year}-${String(month).padStart(2,'0')}.</h4>`;
+    return;
+  }
+
+  let html = `<h4>Top ${typeName} Cases for ${year}-${String(month).padStart(2, '0')}</h4>`;
+  html += '<table><thead><tr><th>Case Name</th><th>Total</th></tr></thead><tbody>';
+  data.forEach(r => {
+    html += `<tr><td>${r.Case_Name}</td><td><strong>${r.Total}</strong></td></tr>`;
+  });
+  html += '</tbody></table>';
+  
+  infoBox.innerHTML = html;
+}
+
+function populatePredictionYearOptions(){
+  const sel = document.getElementById('yearFilter');
+  const now = new Date().getFullYear();
+  for(let y = now - 2; y <= now + 5; y++){
+    const opt = document.createElement('option');
+    opt.value = y;
+    opt.textContent = y;
+    if(y === now + 1) opt.selected = true;
+    sel.appendChild(opt);
+  }
+}
+
+async function populateHistoricalYearFilter() {
+  const healthData = await fetchJSON('/api/health');
+  const sel = document.getElementById('historicalYearFilter');
+  sel.innerHTML = '';
+
+  const allOpt = document.createElement('option');
+  allOpt.value = 'all';
+  allOpt.textContent = 'All Years';
+  sel.appendChild(allOpt);
+
+  if (healthData && healthData.years && healthData.years.length === 2) {
+    const minYear = healthData.years[0];
+    const maxYear = healthData.years[1];
+    for (let y = maxYear; y >= minYear; y--) {
+      const opt = document.createElement('option');
+      opt.value = y;
+      opt.textContent = y;
+      sel.appendChild(opt);
+    }
+  }
+}
+
+async function init(){ 
+  populatePredictionYearOptions();
+  await populateHistoricalYearFilter();
+  await drawHistorical();
+  await drawHoliday();
+  await loadPredictions();
+  await initDrilldown();
+}
+
+init();
+</script>
+</body>
+</html>
